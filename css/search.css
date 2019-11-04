@@ -1,0 +1,191 @@
+/*
+.searchbox input#searchFld
+{
+	width: 16px;
+	height: 16px;
+	float: right;
+	text-align: center;
+	border-style: ridge;
+}
+.searchbox input#searchFld:active,
+.searchbox input#searchFld:visited,
+.searchbox input#searchFld:focus
+{
+	width: 100px;
+	height: 20px;
+	margin-top: -1px;
+	padding-right: 16px;
+}
+*/
+.searchbox
+{
+border: green; border-width: 1px; border-style: dotted;
+	padding-right: 3px;
+}
+
+.searchbox input
+{
+	box-sizing: border-box;
+	border-radius: 100%;
+	transition: border-radius 0s ease-in-out, width .2s ease-in-out, padding 0.1s;
+	transition-delay: 0s, 0s, 0s;
+	box-shadow: 0 0 0 1px currentColor;
+	cursor: pointer;
+}
+/*.searchbox input:valid, */
+.searchbox input:focus
+{
+	transition-delay: 0;
+	outline: 0;
+}
+.searchbox input:active + .del,
+.searchbox input:focus + .del
+{
+	pointer-events: all;
+	left: 100px;
+	margin-top: 3px;
+	transition-delay: 0;
+}
+.searchbox input:active + .del:focus,
+.searchbox input:focus + .del:focus
+{
+	transform: translate(-11px, 0px);
+}
+.searchbox .del
+{
+	position: relative;
+	float: right;
+	top: -1px;
+	right: 1px;
+	height: 16px;
+	opacity: 0;
+	border: 0;
+	cursor: pointer;
+	z-index: 3;
+}
+.searchbox .del:focus
+{
+	outline: none;
+}
+.searchbox span
+{
+        display: block;
+	position: absolute;
+	top: 25px;
+/*
+	float: right;
+	right: -13px;
+ */
+        width: 12px;
+        height: 2px;
+        border-radius: 3px;
+
+	opacity: 1;
+
+        filter: none;
+
+        z-index: 2;
+
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+              opacity 0.55s ease;
+}
+.searchbox span:nth-child(2)
+{
+        background: #444;
+	transform: translate(11px, 3px) rotate(45deg);
+}
+.searchbox span:nth-child(3)
+{
+	opacity: 0.8;
+	transform: translate(0px, -7px) rotate(-45deg);
+}
+.searchbox input ~ input:nth-child(4)
+{
+	float: right;
+	position: absolute;
+	top: 11px;
+	width: 16px;
+	height: 16px;
+	text-align: center;
+	border-color: grey;
+	border-width: 2px;
+	color: transparent;
+}
+
+.searchbox input:checked ~ span
+{
+	opacity: 1;
+        background: #f00;
+}
+.searchbox input:checked
+{
+	transform: translate(-2px, -1px);
+}
+.searchbox input:checked ~ span:nth-child(2)
+{
+	transform: translate(0px, -7px) rotate(45deg);
+}
+/*
+.searchbox input:checked ~ span:nth-child(3)
+{
+	transform: translate(14px, -8px) rotate(-45deg);
+}
+*/
+.searchbox input:checked ~ input:nth-child(4)
+{
+	width: 100px;
+	height: 20px;
+	margin-top: -1px;
+	padding-right: 16px;
+	background: #e8f4fb;
+	background-image: none;
+	border-radius: 4px;
+	border-color: #ddd;
+	color: #448;
+	cursor: text;
+	outline-style: unset;
+}
+.searchbox input:checked ~ input:nth-child(4):active,
+.searchbox input:checked ~ input:nth-child(4):visited,
+.searchbox input:checked ~ input:nth-child(4):focus
+{
+	border-radius: 20px;
+	border-style: inset;
+	color: red;
+}
+
+/*
+ * Ctrl zone
+ */
+#ctrl
+{
+	position: fixed;
+	top: 0;
+	right: 0;
+	padding: 10px;
+	z-index: 2;
+}
+
+.flex-cont-ctrl
+{
+	display: -webkit-flex;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-around;
+	align-items: flex-start;
+	font-size: .8em;
+border: tomato; border-width: 1px; border-style: dashed;
+}
+
+.flex-item-ctrl
+{
+/*	padding: 5px 0px 0px 0px; */
+	align-self: flex-start;
+	margin-left: 2px;
+border: blueviolet; border-width: 1px; border-style: solid;
+}
+
+/*
+ * End ctrl zone
+ */

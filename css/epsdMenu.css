@@ -1,0 +1,120 @@
+/*
+ * CMDB drop menu zone
+ */
+.cont-hiddenMenu {
+	position: fixed;
+	right: 0px;
+	bottom: 70px;
+
+	z-index: 2;
+}
+
+.flex-cont-HM {
+	display: -webkit-flex;
+	display: flex;
+	flex-flow: column;
+	justify-content: space-around;
+	align-items: flex-start;
+	font-size: .8em;
+
+	width: 110px;
+	padding: 10px 10px 10px 24px;
+
+	background: transparent;
+
+	border-color: transparent; /*rgba(102,160,170,.0);*/
+	border-width: 1px 0 1px 1px;
+	border-style: solid none solid solid;
+	border-radius:10px 0 0 10px;
+	-moz-border-radius:10px 0 0 10px;
+	-webkit-border-radius:10px 0 0 10px;
+
+	box-shadow:	inset 1px 0px 0px 1px rgba(19,92,134,.25),
+			inset 1px 2px 1px 0px rgba(255,255,255,0.9),
+			0px 1px 10px 1px rgba(32,32,32,.5);
+
+	-moz-transition: background,margin .5s ease;
+	-webkit-transition: background,margin .5s ease;
+	-o-transition: background,margin .5s ease;
+	-ms-transition: background,margin .5s ease;
+	transition: background,margin .5s ease;
+
+	-webkit-transition-delay: 2s;
+	transition-delay: 2s;
+}
+.flex-cont-HM:hover {
+	-webkit-transition-delay: 0s;
+	transition-delay: 0s;
+}
+
+.flex-cont-HM input[type="text"] {
+	width: 100px;
+}
+.flex-cont-HM:hover {
+	background-color: #f0f8ff;
+	background-attachment: fixed;
+//Not in IE	background-image: var(--bgimage, url(/images/bg.png));
+	background-image: url(/images/bg.png);
+
+	border-color:	#66a0aa;
+
+	box-shadow:	inset 1px 0px 0px 1px rgba(19,92,134,.8),
+			inset 0px 2px 1px 0px rgba(255,255,255,0.75);
+
+	filter:		drop-shadow(2px 2px 4px #226);
+	-webkit-filter:	drop-shadow(2px 2px 4px #226);
+	-ms-filter:	"progid:DXImageTransform.Microsoft.Dropshadow(OffX=4, OffY=4, Color='#226')";
+}
+
+.flex-item-HM {
+	padding: 7px 0px 3px 0px;
+}
+
+#Title {
+	position: absolute;
+	margin-left: -24px;
+
+	text-align: center;
+	font-family: "Helvetica-Narrow", "Helvetica Narrow", "arial-narrow", "arial narrow", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: bold;
+//	color: transparent;
+	color: rgba(0,0,128,0.20);
+	text-shadow: 0px 0px 1px rgba(0,0,128,0.25);
+	-webkit-text-stroke: 0.15px rgba(0,0,128,0.25);
+	padding: 0 0 0 2px;
+
+	width: 12px;		/* line size to force vertical text */
+	word-break: break-all;	/* break anywhere (each char) */
+
+	filter: drop-shadow(-1px -1px 4px #2f2);
+	-webkit-filter: drop-shadow(-1px -1px 4px #2f2);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=-1, OffY=-1, Color='#2f2')";
+
+	-moz-transition: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	-ms-transition: none;
+	transition: none;
+}
+
+#cmdb {
+	margin-right: -132px;
+}
+#epsd {
+	margin-right: -132px;
+}
+#cmdb:hover {
+	margin-left: -132px;
+}
+#epsd:hover {
+	margin-left: -132px;
+}
+
+#cmdb:hover #Title, #epsd:hover #Title {
+	color: rgba(160,0,200,.8);
+	padding: 0 0 0 6px;
+
+	filter: drop-shadow(0px 0px 5px #f22);
+	-webkit-filter: drop-shadow(0px 0px 5px #f22);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=2, OffY=2, Color='#f22')";
+}

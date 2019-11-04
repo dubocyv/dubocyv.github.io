@@ -1,0 +1,155 @@
+#helpItem {
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+//	right: 0;
+
+	margin: auto;
+
+	z-index:1;
+	display: none;
+	opacity:0;
+
+	font-family: arial, helvetica;
+	letter-spacing: 1px;
+
+	min-width: 250px;
+	max-width: 500px;
+	max-height: 60%;
+
+	border:1px solid #1E5799;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+
+	background-attachment: fixed;
+	background-image: url(/images/chalkboard.jpg);
+	background-size:cover;
+
+	box-shadow: 0 0 200px rgba(0,0,0,0.5) inset, 1px 1px 10px 0 rgba(0,0,0,0.5);
+}
+#helpItem div#hTt {
+	margin: 20px 0px 20px 0px;
+	padding: 0 20px 0 20px;
+	overflow-y: auto;
+
+	text-align:justify;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	font-size: .75em;
+	font-weight: normal;
+	color:#fff;
+}
+#helpItem div#hTt hr {
+	width: 100%;
+	border-top: 1px solid blue;
+	filter: drop-shadow(0px 2px 2px #48a);
+}
+#hTt h1 {
+	font-size: 1.5em;
+	letter-spacing: 3px;
+	font-weight: bold;
+	color: lightblue;
+	text-shadow: 0px 0px 3px #00f, 0 0 8px rgba(255,255,255,0.75);
+}
+#hTt h2 {
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #cbf;
+	text-shadow: 0px 0px 3px #00f, 0 0 8px rgba(255,255,255,0.75);
+}
+#helpItem #hTt small {
+	font-size: .8em;
+	color:lightcyan;
+}
+#helpItem #hTt dt {
+	font-size: 1.1em;
+	color:yellow;
+	font-weight: bold;
+	padding-top: 8px;
+	line-height: 2;
+}
+.key {
+	font-family: OCR-B, DejaVu Sans Mono, Droid Sans Mono, Consolas, Everson Mono, IBM Plex Mono, Letter Gothic, Liberation Mono, lucida console, Menlo, Monaco, Monofur, ProFont, monospace, courier;
+	font-size: .9em;
+	padding: 0px 2px 0 2px;
+	border:1px solid orange;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+#helpItem span.toggle {
+	text-decoration: none;
+	font-weight: normal;
+	color: lightgreen;
+}
+#helpItem span.toggle::before {
+	text-decoration: none;
+	font-weight: normal;
+	color: lightblue;
+	content: "\00a0\2026\00a0";
+}
+#helpItem span.toggle::after {
+	text-decoration: none;
+	font-weight: normal;
+	color: red;
+	content: "\00a0.";
+	}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0.15; color: #f0f; }
+      to { opacity: 1; color: #fff; }
+}  
+@keyframes fadeIn {
+    from { opacity: 0.15; color: #f0f; }
+      to { opacity: 1; color: #fff; }
+}
+#helpItem .showHide,.showHide_H {
+	display: none;
+	opacity: 0;
+	height: 0;
+}
+#helpItem .showHide_S {
+	display: block;
+	opacity: 1;
+	height: auto;
+
+	-webkit-animation: fadeIn .5s;
+	animation: fadeIn .5s;
+}
+
+#helpItem h2 input[type="button"] {
+	font-size: 0.75em;
+	font-weight: bold;
+	padding: 4px;
+	background: transparent;
+	box-shadow: none;
+	text-shadow: none;
+}
+#helpItem #B_S {
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	transform: rotate(0deg);
+
+	-moz-transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	transition: all .3s ease;
+}
+#helpItem #B_H {
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+
+	-moz-transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	-ms-transition: all .3s ease;
+	transition: all .3s ease;
+}

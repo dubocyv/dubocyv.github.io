@@ -1,0 +1,236 @@
+/*
+ *
+ */
+
+nav
+{
+	height: 0;
+}
+
+#menuToggle a
+{
+	font-weight: normal;
+	text-decoration: none;
+	color: #24f;
+
+	transition: color .75s ease;
+}
+
+#menuToggle a:hover
+{
+	color: #222;
+}
+#menuToggle a[href$=".csv"],
+#menuToggle a[href$=".pdf"],
+#menuToggle a[href$=".doc"],
+#menuToggle a[href$=".xls"]
+{
+	font-weight: bold;
+	color: #080;
+}
+
+#menuToggle
+{
+	display: block;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	width: 18px;
+
+	z-index: 3;
+
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+#menuToggle input
+{
+	display: block;
+	width: 18px;
+	height: 15px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0;
+
+	cursor: pointer;
+
+	opacity: 0; /* hide this */
+	z-index: 4; /* and place it over the hamburger */
+
+	-webkit-touch-callout: none;
+}
+
+#menuToggle input:checked
+{
+	width: 15px;
+	transform: translate(0px, 0px);
+}
+
+/*
+ * Just a quick hamburger
+ */
+#menuToggle span
+{
+	display: block;
+	width: 18px;
+	height: 3px;
+	margin-bottom: 3px;
+	position: relative;
+
+	background: #444;
+	border-radius: 3px;
+
+	filter: none;
+
+	z-index: 2;
+
+	transform-origin: 4px 0px;
+
+	transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+	      background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+	      opacity 0.55s ease;
+}
+
+#menuToggle span:first-child
+{
+	transform-origin: 0% 0%;
+
+	filter: none;
+}
+
+#menuToggle span:nth-last-child(2)
+{
+	transform-origin: 0% 100%;
+
+	filter: none;
+}
+
+/* 
+ * Transform all the slices of hamburger
+ * into a crossmark.
+ */
+#menuToggle input:checked ~ span
+{
+	opacity: 1;
+	transform: translate(0px, 3px) rotate(407deg);
+	background: #a00;
+}
+
+/*
+ * But let's hide the middle one.
+ */
+#menuToggle input:checked ~ span:nth-last-child(3)
+{
+	opacity: 0;
+	transform: rotate(0deg) scale(0.2, 0.2);
+}
+
+/*
+ * Ohyeah and the last one should go the other direction
+ */
+#menuToggle input:checked ~ span:nth-last-child(2)
+{
+	transform: translate(0px, 0px) rotate(-404deg);
+}
+
+#menuTitle
+{
+	color: #24a;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+/*
+ * Make this absolute positioned
+ * at the top left of the screen
+ */
+#menu
+{
+	position: absolute;
+	width: 150px;
+	top: 0px;
+	margin: -10px 0 0 -10px;
+	padding: 25px;
+	padding-top: 25px;
+	padding-bottom: 15px;
+
+	background: #f2f6ff;
+	background-image: url(/images/bg.png);
+
+	list-style-type: none;
+	-webkit-font-smoothing: antialiased;
+	/* to stop flickering of text in safari */
+
+	transform-origin: 0% 0%;
+	transform: translate(-100%, 0);
+
+	transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+		opacity 1s;
+
+	opacity: 0;
+
+	filter: drop-shadow(2px 2px 4px #226);
+	-webkit-filter: drop-shadow(2px 2px 4px #226);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=4, OffY=4, Color='#226')";
+	box-shadow: 2px 2px 4px #226;
+	box-shadow: inset 0px 0px 2px #08b;
+}
+
+#menu li
+{
+	font-family: "Avenir Next", "Avenir", sans-serif;
+	padding: 5px 0;
+	margin: 10px 0px;
+	font-size: 14px;
+	border-width: 1px;
+	border-color: #f4faff;
+	border-style: solid;
+	border-left-style: none;
+	border-right-style: none;
+	filter: drop-shadow(0px 0px 0px white);
+	transition: filter 0.5s;
+}
+
+#menu li:hover
+{
+	filter: drop-shadow(1px 1px 2px #d82);
+	border-color: lavenderblush;
+}
+
+#menu li.selected
+{
+	text-decoration: none;
+	font-weight: bold;
+//	text-align: center;
+	border-color: #faa;
+	color: #dffe;
+	text-shadow: 1px 1px 2px black, 0 0 20px gold, 0 0 4px darkblue;
+}
+#menu li.selected:hover
+{
+	filter: drop-shadow(1px 1px 2px #ccc);
+}
+/*
+#menu li.selected:hover::before {
+	font-weight: normal;
+	color: #faa;
+	content: "\2192\00a0";
+}
+*/
+#menu li.selected:hover::after {
+	font-weight: normal;
+	color: #faa;
+	content: "\00a0\2190";
+}
+
+/*
+ * And let's slide it in from the left
+ */
+#menuToggle input:checked ~ ul
+{
+	transform: none;
+	opacity: 0.96;
+}
