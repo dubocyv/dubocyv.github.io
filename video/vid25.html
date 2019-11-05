@@ -1,0 +1,335 @@
+<html>
+
+<head>
+   <title>25 videos</title>
+<style>
+body {
+	background-color: lavender;
+}
+.cont {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+	align-content: flex-start;
+}
+.item {
+	width: 350px;
+	height: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	justify-content: center;
+}
+div.mplayer {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	justify-content: center;
+}
+div.mplayer object {
+	width: 320px;
+//	height: 330px;
+	margin: auto;
+}
+div.caption {
+	font-family: verdana;
+	color: grey;
+	font-size: 1.5em;
+	margin: auto;
+	text-align: center;
+}
+div.usage {
+	color: blue;
+	width: 50%;
+	text-align: center;
+	margin: auto;
+}
+source::after {
+	text-decoration: none;
+	font-weight: normal;
+	color: red;
+	content: "Your browser does not support HTML5 video.";
+}
+</style>
+</head>
+
+<body>
+<div class=usage>
+Videos presented on this page are running in loop.<br>
+Streams are controllable individually (start/stop/seek/full screen mode/mute/download).<br>
+Each one is muted by default and must be started manually (the goal is to see how many concurrent streams are supported).
+<hr>
+</div>
+<div class=cont>
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 01</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 02</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 03</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 04</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 05</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 06</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 07</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 08</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 09</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 10</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 11</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 12</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 13</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 14</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/074000/074500/074563-000-A_HQ_0_VOF-STF_03930171_MP4-800_AMM-PTWEB_12iCS17Zbqh.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 15</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/077000/077100/077140-049-A_EQ_0_VOF_03745795_MP4-1500_AMM-PTWEB_yw0olaPEW.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 16</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/078000/078500/078527-023-A_HQ_0_VOF-STF_03833346_MP4-800_AMM-PTWEB_10jsyuF0eB.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 17</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/062000/062900/062941-000-A_HQ_0_VA-STA_03860500_MP4-800_AMM-PTWEB_11ICKzzmJU.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 18</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/069000/069000/069080-000-A_HQ_0_VOF-STF_03848210_MP4-800_AMM-PTWEB_111e0zWKMD.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 19</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/065000/065400/065424-078-A_EQ_2_VF_02545204_MP4-1500_AMM-PTWEB.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 20</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/056000/056800/056803-005-A_HQ_0_VOF_02100446_MP4-800_AMM-PTWEB.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 21</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/065000/065400/065424-012-A_EQ_0_VO_02161648_MP4-1500_AMM-PTWEB.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 22</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/072000/072400/072482-000-A_EQ_0_VOF-STF_03835980_MP4-1500_AMM-PTWEB_10nJCz2iDR.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 23</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/060000/060700/060787-000-A_HQ_0_VF-STF_03930446_MP4-800_AMM-PTWEB_12iMr17Zj37.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 24</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+			<video width="300" controls loop muted>
+				<source src="https://arteptweb-a.akamaihd.net/am/ptweb/078000/078500/078527-023-A_EQ_0_VOF-STF_03833344_MP4-1500_AMM-PTWEB_10jtDuF0ip.mp4" type="video/mp4">
+				Your browser does not support HTML5 video.
+			</video>
+		</div>
+		<div class=caption>Video 25</div>
+	</div>
+
+<!--
+-->
+	<div class=item>
+		<div class=mplayer>
+<iframe src="https://www.youtube.com/embed/222ztGhX4SE" frameborder="0" allow="mute; replay; autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+		<div class=caption>Video 26</div>
+	</div>
+
+	<div class=item>
+		<div class=mplayer>
+<iframe src="https://www.youtube.com/embed/cqyziA30whE" frameborder="0" allow="mute; replay; autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+		<div class=caption>Video 27</div>
+	</div>
+
+</div>
+
+</body>
+
+</html>

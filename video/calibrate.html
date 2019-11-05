@@ -1,0 +1,85 @@
+<html>
+
+<head>
+   <title>Color patterns</title>
+<style>
+body {
+	animation: colorchange 90s infinite;
+	-webkit-animation: colorchange 90s infinite; /* Chrome and Safari */
+}
+
+@keyframes colorchange
+{
+	0%	{background: black;}
+	25%	{background: white;}
+	50%	{background: red;}
+	60%	{background: yellow;}
+	70%	{background: green;}
+	80%	{background: cyan;}
+	90%	{background: blue;}
+	100%	{background: magenta;}
+}
+
+@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
+{
+	0%	{background: black;}
+	25%	{background: white;}
+	50%	{background: red;}
+	60%	{background: yellow;}
+	70%	{background: green;}
+	80%	{background: cyan;}
+	90%	{background: blue;}
+	100%	{background: magenta;}
+}
+</style>
+
+<script>
+document.addEventListener("keyup", function(event) {
+	var E=document.body.style;
+	switch (event.keyCode) {
+	case 27:				// ESC
+		E.animationPlayState = "paused";
+		E.webkitAnimationPlayState = "paused";
+		document.body.className = 'paused';
+		E.animation = "none";
+		E.animationDuration = 0;
+		E.webkitAnimation = "none";
+		E.webkitAnimationDuration = 0;
+	case 78:				// n(oir)
+		E.backgroundColor = "black";
+		break;
+	case 65:				// a
+		E.animation = "colorchange 90s infinite";
+		E.webkitAnimation = "colorchange 90s infinite";
+		E.webkitAnimationPlayState = "running";
+		document.body.className = '';
+		break;
+
+	case 87: E.backgroundColor = "white";	// w
+		break;
+	case 82: E.backgroundColor = "red";	// r
+		break;
+	case 89:
+	case 74: E.backgroundColor = "yellow";	// y || j
+		break;
+	case 71:
+	case 86: E.backgroundColor = "green";	// g || v
+		break;
+	case 67: E.backgroundColor = "cyan";	// c
+		break;
+	case 66: E.backgroundColor = "blue";	// b
+		break;
+	case 77: E.backgroundColor = "magenta";	// m
+		break;
+	}
+});
+</script>
+
+</head>
+
+<body>
+
+
+</body>
+
+</html>
