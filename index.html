@@ -314,9 +314,9 @@
 	<input type="button" value="?" onclick="toggleHelp()" title="Help">
 	</div>
 	</div>
+<!--
 	<link rel="stylesheet" type="text/css" href="/css/epsdMenu.css">
-	<script>
-	document.addEventListener("keyup", function(event) {var E=document.getElementById("HM").style;if (event.shiftKey) {switch (event.keyCode) {case 32:E.display.length &&(E.display != "block") ?E.display = "block" :E.display = "none";break;case 60:case 220:case 226:E.right = "0px";E.display = "block";break;}}else {switch (event.keyCode) {case 27:E.right = "0px";E.display = "block";break;case 32:E.right.length &&(E.right != "0px") ?E.right = "0px" :E.right = "-10px";break;case 60:case 220:case 226:E.right = "-10px";E.display = "none";break;}}});</script>
+	<script>document.addEventListener("keyup", function(event) {var E=document.getElementById("HM").style;if (event.shiftKey) {switch (event.keyCode) {case 32:E.display.length &&(E.display != "block") ?E.display = "block" :E.display = "none";break;case 60:case 220:case 226:E.right = "0px";E.display = "block";break;}}else {switch (event.keyCode) {case 27:E.right = "0px";E.display = "block";break;case 32:E.right.length &&(E.right != "0px") ?E.right = "0px" :E.right = "-10px";break;case 60:case 220:case 226:E.right = "-10px";E.display = "none";break;}}});</script>
 	<div id="HM" class="cont-hiddenMenu">
 	<div id="cmdb" class="flex-cont-HM">
 	<div id=Title>
@@ -353,9 +353,11 @@
 	</div>
 	</div>
 	</div>
-	<script>
-	document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
+-->
+	<script>document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
 	<div id="Lfooter"><img src="/images/EClogo.svg"></div>
+<!--
 	<div id="Rfooter"><img src="/images/ITEClogo.png"></div>
+-->
 </body>
 </html>
