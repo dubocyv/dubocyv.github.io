@@ -56,6 +56,19 @@ Bookmarks
 		EU Learn
 		u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
+		Absences
+		u:"http://www.cc.cec/SYSPER2/tim/person/presences/viewAbsences.do?perId=151632"
+		Sysper2
+		u:"http://www.cc.cec/SYSPER2/home/menu.do?jobId=13711&roleId=1&ticket=ECAS_ST-1248220-lMdVd22Enw4To3Fq0RW6OEzzzRbS0cCepU4mIzqTCRhG-CDPpTLi1uVzlMEIdfbszzjW-PEzzgytmMNaawSW5y5cpxu"
+		Service Medical
+		u:"https://myintracomm.ec.europa.eu/hr_admin/fr/medical/contacts/pages/brussels.aspx"
+		eGestel
+		u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
+		HRMforms
+		u:"http://www.cc.cec/hrmforms/index.cfm"
+		CIRCA
+		u:"http://forum.europa.eu.int/"
+
 		DiGIT
 			MITS (My IT Support)
 			u:"https://webgate.ec.testa.eu/mits/home.do"
@@ -73,6 +86,10 @@ Bookmarks
 				u:"https://intragate.ec.europa.eu/snet"
 				PUMA
 				u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"
+
+			Testa
+			u:"https://portal.testa.eu/jetspeed/portal/"
+
 		DiGIT(2)
 		u:"http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx"
 			DigitLine home page
@@ -92,20 +109,6 @@ Bookmarks
 			Ares
 			u:"http://www.cc.cec/Ares/"
 			Admin
-				Absences
-				u:"http://www.cc.cec/SYSPER2/tim/person/presences/viewAbsences.do?perId=151632"
-				Sysper2
-				u:"http://www.cc.cec/SYSPER2/home/menu.do?jobId=13711&roleId=1&ticket=ECAS_ST-1248220-lMdVd22Enw4To3Fq0RW6OEzzzRbS0cCepU4mIzqTCRhG-CDPpTLi1uVzlMEIdfbszzjW-PEzzgytmMNaawSW5y5cpxu"
-				Service Medical
-				u:"https://myintracomm.ec.europa.eu/hr_admin/fr/medical/contacts/pages/brussels.aspx"
-				eGestel
-				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
-				HRMforms
-				u:"http://www.cc.cec/hrmforms/index.cfm"
-				CIRCA
-				u:"http://forum.europa.eu.int/"
-				Testa
-				u:"https://portal.testa.eu/jetspeed/portal/"
 
 		Trade
 			Internet Trade Websites
@@ -130,12 +133,13 @@ Bookmarks
 					u:"http://exporthelp.europa.eu/thdapp/serverAlive.jsp"
 				EUTN
 				u:"https://webgate.ec.europa.eu/eutn/serverAlive.htm"
-				EUTN register
-				u:"http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
-				ISDB Server Status
-				u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
+					EUTN register
+					u:"http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
 				ISDB
+				t:Integrated Statistical DB
 				u:"https://webgate.ec.europa.eu/isdb"
+					ISDB Server Status
+					u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
 				Market access DB
 					Server Alive
 					u:"http://madb.europa.eu/madb/serverAlive.jsp"
@@ -167,6 +171,7 @@ Bookmarks
 				t:Delegated User Management Application
 				u:"http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp"
 				ISDB
+				t:Integrated Statistical DB
 				u:"http://isdb.trade.cec.eu.int:8080/isdb_gct/new_gui/index.jsp"
 				MADB
 				t:Market Access DB
@@ -175,19 +180,28 @@ Bookmarks
 					u:"http://madb.europa.eu/madb_barriers/barriers_select.htm"
 					statistical
 					u:"http://madb.europa.eu/mkaccdb2/statistical.htm?from=form&cb_reporters=EU25&cb_partners=all&list_years=2004&ahscode1=0102&submit=Search+HS+code"
+					THICOA
+					t:THIrd COuntries Agreement
+					u:"http://thicoa.trade.cec.eu.int:8080/thicoa/"
 				MSOP
 				t:Member states Opinions
 				u:"http://msop.trade.cec.eu.int:8080/MSOpinions/"
 				NOTIF
-				u:"http://notif.trade.cec.eu.int:8080/notif/serverAlive.jsp"
+				u:"http://notif.trade.cec.eu.int:8080/notif/"
+					Server Status
+					u:"http://notif.trade.cec.eu.int:8080/notif/serverAlive.jsp"
 				OASYS
-				u:"http://oasys.trade.cec.eu.int:8080/Oasys/serverAlive.jsp"
-				Sherlock Server Status
-				u:"https://intragate.ec.europa.eu/sherlock/serverAlive.jsp"
+				u:"http://oasys.trade.cec.eu.int:8080/Oasys/"
+					Server Status
+					u:"http://oasys.trade.cec.eu.int:8080/Oasys/serverAlive.jsp"
+				Sherlock
+				u:"https://intragate.ec.europa.eu/sherlock/"
+					Server Status
+					u:"https://intragate.ec.europa.eu/sherlock/serverAlive.jsp"
 				SHERPA
-				u:"http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp"
-				THICOA
-				u:"http://thicoa.trade.cec.eu.int:8080/thicoa/"
+				u:"http://sherpa.trade.cec.eu.int:8080/sherpa/"
+					Server Status
+					u:"http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp"
 				HtmlLogger - test
 				u:"http://htmllogger.trade.cec.eu.int:8080/html_logger/"
 
