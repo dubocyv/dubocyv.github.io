@@ -12,7 +12,7 @@ Bookmarks
 			SYSPER
 			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
 			WebMail
-			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi"
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J"
 			Ares
 			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
 			Mips
