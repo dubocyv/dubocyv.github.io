@@ -6,12 +6,25 @@ Bookmarks
 
 # - - - - - - -
 	EC
+		Remote access
+			Myremote Teleworking
+			u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+			SYSPER
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+			WebMail
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi"
+			Ares
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+			Mips
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+			MyIntracom
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N"
+			RCAM/JSIS
+			u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
 		Ares
 		u:"https://webgate.ec.testa.eu/Ares/welcome.do"
 		EU Learn
 		u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
-		Myremote Teleworking
-		u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
 
 		DiGIT
 			MITS (My IT Support)

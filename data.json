@@ -15,16 +15,45 @@
    "name": "EC",
    "children": [
     {
+     "name": "Remote access",
+     "children": [
+      {
+       "name": "Myremote Teleworking",
+       "url": "https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+      },
+      {
+       "name": "SYSPER",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+      },
+      {
+       "name": "WebMail",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi"
+      },
+      {
+       "name": "Ares",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+      },
+      {
+       "name": "Mips",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+      },
+      {
+       "name": "MyIntracom",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N"
+      },
+      {
+       "name": "RCAM/JSIS",
+       "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
+      }
+     ]
+    },
+    {
      "name": "Ares",
      "url": "https://webgate.ec.testa.eu/Ares/welcome.do"
     },
     {
      "name": "EU Learn",
      "url": "https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
-    },
-    {
-     "name": "Myremote Teleworking",
-     "url": "https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
     },
     {
      "name": "DiGIT",
