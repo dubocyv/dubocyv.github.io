@@ -29,7 +29,7 @@ Bookmarks
 				MiPS
 				u:"http://www.cc.cec/mips/api/home"
 				EU Learn
-				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055" LAST_CHARSET="UTF-8"
+				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 				MyWorkplace
 				u:"https://webgate.ec.testa.eu/myworkplace/home"
 				Myremote Teleworking
