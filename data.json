@@ -19,10 +19,18 @@
      "url": "https://webgate.ec.testa.eu/Ares/welcome.do"
     },
     {
-     "name": "Digit",
+     "name": "EU Learn",
+     "url": "https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
+    },
+    {
+     "name": "Myremote Teleworking",
+     "url": "https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+    },
+    {
+     "name": "DiGIT",
      "children": [
       {
-       "name": "My IT Support",
+       "name": "MITS (My IT Support)",
        "url": "https://webgate.ec.testa.eu/mits/home.do"
       },
       {
@@ -30,7 +38,7 @@
        "url": "http://intragate.ec.europa.eu/jasspr/home.php"
       },
       {
-       "name": "Suppléances Calendar - Calendar",
+       "name": "Suppléances Calendar",
        "url": "https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
       },
       {
@@ -58,7 +66,7 @@
        "name": "Admin",
        "children": [
         {
-         "name": "SYSPER Login",
+         "name": "SYSPER",
          "url": "https://intracomm.ec.testa.eu/SYSPER2/"
         },
         {
@@ -66,16 +74,8 @@
          "url": "http://www.cc.cec/mips/api/home"
         },
         {
-         "name": "EU Learn",
-         "url": "https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
-        },
-        {
          "name": "MyWorkplace",
          "url": "https://webgate.ec.testa.eu/myworkplace/home"
-        },
-        {
-         "name": "Myremote Teleworking",
-         "url": "https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
         }
        ]
       }

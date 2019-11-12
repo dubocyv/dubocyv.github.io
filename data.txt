@@ -3,19 +3,26 @@ Bookmarks
 		EU Login
 		t:ECAS authentication
 		u:https://ecas.ec.europa.eu/cas/login
+
 # - - - - - - -
 	EC
 		Ares
 		u:"https://webgate.ec.testa.eu/Ares/welcome.do"
-		Digit
-			My IT Support
+		EU Learn
+		u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
+		Myremote Teleworking
+		u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+
+		DiGIT
+			MITS (My IT Support)
 			u:"https://webgate.ec.testa.eu/mits/home.do"
 			Jasspr
 			u:"http://intragate.ec.europa.eu/jasspr/home.php"
-			Suppléances Calendar - Calendar
+			Suppléances Calendar
 			u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 			MM Presentations
 			u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
+
 			C4
 				SharePoint C4
 				u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx"
@@ -23,17 +30,15 @@ Bookmarks
 				u:"https://intragate.ec.europa.eu/snet"
 				PUMA
 				u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"
+
 			Admin
-				SYSPER Login
+				SYSPER
 				u:"https://intracomm.ec.testa.eu/SYSPER2/"
 				MiPS
 				u:"http://www.cc.cec/mips/api/home"
-				EU Learn
-				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 				MyWorkplace
 				u:"https://webgate.ec.testa.eu/myworkplace/home"
-				Myremote Teleworking
-				u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+
 # - - - - - - -
 	EP
 		Remote access
@@ -58,7 +63,8 @@ Bookmarks
 			u:http://www.europarl.europa.eu/portalep/Main.html
 			Outlook Web Access
 			u:https://webmail.europarl.europa.eu/
-	#-------
+
+	# - - - - - - -
 		EP
 			Europarl
 			u:http://www.europarl.ep.parl.union.eu/
@@ -98,14 +104,16 @@ Bookmarks
 			EPMM
 			t:EP's Media Monitoring
 			u:http://ep.emm4u.eu/
-	#-------
+
+	# - - - - - - -
 		CISO
 			Vulnerability tracking
 			u:https://ictsecu-vt.ep.parl.union.eu/login
 			CERT
 			t:Computer Emergency Response Team: News monitor
 			u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
-	#-------
+
+	# - - - - - - -
 		DES
 			CONCEPT
 				ADA
@@ -155,7 +163,8 @@ Bookmarks
 					u:https://engage.in.ep.europa.eu/gen
 					Connect (ARIS)
 					u:http://www.aris.ep.parl.union.eu/
-	#-------
+
+	# - - - - - - -
 		ESIO
 			Operations
 				Teams
@@ -386,8 +395,9 @@ Bookmarks
 						u:https://loginpp.secure.ep.parl.union.eu/infra/
 							Infra
 							u:/projects/?root=websso&search=qual
-	#-------
+
+	# - - - - - - -
 			ArcNet
 				RAMP
 				u:/ramp/
-	#-------
+# - - - - - - -
