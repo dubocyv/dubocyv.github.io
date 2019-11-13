@@ -96,11 +96,23 @@
       },
       {
        "name": "Ares",
-       "url": "https://webgate.ec.testa.eu/Ares/welcome.do"
+       "url": "http://www.cc.cec/Ares/",
+       "children": [
+        {
+         "name": "(through Testa)",
+         "url": "https://webgate.ec.testa.eu/Ares/welcome.do"
+        }
+       ]
       },
       {
-       "name": "SYSPER",
-       "url": "https://intracomm.ec.testa.eu/SYSPER2/"
+       "name": "Sysper2",
+       "url": "http://www.cc.cec/SYSPER2/home/menu.do?"",
+       "children": [
+        {
+         "name": "(through Testa)",
+         "url": "https://intracomm.ec.testa.eu/SYSPER2/"
+        }
+       ]
       },
       {
        "name": "MiPS",
@@ -119,15 +131,12 @@
        "url": "http://www.cc.cec/SYSPER2/tim/person/presences/viewAbsences.do?perId=151632"
       },
       {
-       "name": "Sysper2",
-       "url": "http://www.cc.cec/SYSPER2/home/menu.do?jobId=13711&roleId=1&ticket=ECAS_ST-1248220-lMdVd22Enw4To3Fq0RW6OEzzzRbS0cCepU4mIzqTCRhG-CDPpTLi1uVzlMEIdfbszzjW-PEzzgytmMNaawSW5y5cpxu"
-      },
-      {
        "name": "Service Medical",
-       "url": "https://myintracomm.ec.europa.eu/hr_admin/fr/medical/contacts/pages/brussels.aspx"
+       "url": "https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
       },
       {
-       "name": "eGestel"
+       "name": "eGestel",
+       "url": "http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
       },
       {
        "name": "DiGIT",
@@ -157,7 +166,13 @@
           },
           {
            "name": "SNet",
-           "url": "https://intragate.ec.europa.eu/snet"
+           "url": "https://intragate.ec.europa.eu/snet",
+           "children": [
+            {
+             "name": "DG package",
+             "url": "https://intragate.ec.europa.eu/DGNETMANPAC/cgi-bin/dgtools/index.pl"
+            }
+           ]
           },
           {
            "name": "PUMA",
@@ -186,10 +201,6 @@
            "url": "http://www.cc.cec/digitline/u/services/telecom/index_en.htm"
           },
           {
-           "name": "Snet homepage",
-           "url": "https://intragate.ec.europa.eu/DGNETMANPAC/cgi-bin/dgtools/index.pl"
-          },
-          {
            "name": "RAINBOW - Metadirectory tool",
            "url": "http://www.cc.cec/ced/rainbow/index.cfm"
           },
@@ -200,10 +211,6 @@
           {
            "name": "Search incidents",
            "url": "http://www.cc.cec/smtes/dyncode/im/search?actionId=23"
-          },
-          {
-           "name": "Ares",
-           "url": "http://www.cc.cec/Ares/"
           }
          ]
         }
