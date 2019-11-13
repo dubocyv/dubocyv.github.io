@@ -270,7 +270,7 @@
            "url": "https://webgate.ec.testa.eu/dualuse",
            "children": [
             {
-             "name": "Server Alive",
+             "name": "Server Status",
              "url": "https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
             }
            ]
@@ -281,18 +281,8 @@
            "url": "http://exporthelp.europa.eu/thdapp/comext/ComextServlet?action=output&viewName=eur_partners&simDate=20070101&ahscode1=0102&cb_reporters=EUR27&cb_partners=all&list_years=2007&measureList=iv&measureList=ev",
            "children": [
             {
-             "name": "Server Alive",
+             "name": "Server Status",
              "url": "http://exporthelp.europa.eu/thdapp/serverAlive.jsp"
-            }
-           ]
-          },
-          {
-           "name": "EUTN",
-           "url": "https://webgate.ec.europa.eu/eutn/serverAlive.htm",
-           "children": [
-            {
-             "name": "EUTN register",
-             "url": "http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
             }
            ]
           },
@@ -302,7 +292,7 @@
            "url": "https://webgate.ec.europa.eu/isdb",
            "children": [
             {
-             "name": "ISDB Server Status",
+             "name": "Server Status",
              "url": "https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
             }
            ]
@@ -311,7 +301,7 @@
            "name": "Market access DB",
            "children": [
             {
-             "name": "Server Alive",
+             "name": "Server Status",
              "url": "http://madb.europa.eu/madb/serverAlive.jsp"
             },
             {
@@ -346,7 +336,7 @@
            "url": "https://webgate.ec.europa.eu/ums/applicationStatus.do"
           },
           {
-           "name": "NOTIF",
+           "name": "NOTIF Server Status",
            "url": "https://webgate.ec.europa.eu/notif/serverAlive.jsp"
           }
          ]
@@ -363,11 +353,11 @@
            "url": "https://intragate.ec.europa.eu/ADCMailing/index.pl"
           },
           {
-           "name": "Comext",
+           "name": "Comext Server Status",
            "url": "http://comext.trade.cec.eu.int:8080/cmapp/serverAlive.jsp"
           },
           {
-           "name": "D.U.M.A.",
+           "name": "D.U.M.A. Server Status",
            "tip": "Delegated User Management Application",
            "url": "http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp"
           },

@@ -129,24 +129,24 @@ Bookmarks
 						u:"https://webgate.ec.europa.eu/db146/serverAlive.jsp"
 					DualUse
 					u:"https://webgate.ec.testa.eu/dualuse
-						Server Alive
+						Server Status
 						u:"https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
 					EH
 					t:Export helpdesk
 					u:"http://exporthelp.europa.eu/thdapp/comext/ComextServlet?action=output&viewName=eur_partners&simDate=20070101&ahscode1=0102&cb_reporters=EUR27&cb_partners=all&list_years=2007&measureList=iv&measureList=ev"
-						Server Alive
+						Server Status
 						u:"http://exporthelp.europa.eu/thdapp/serverAlive.jsp"
-					EUTN
-					u:"https://webgate.ec.europa.eu/eutn/serverAlive.htm"
-						EUTN register
-						u:"http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
+#					EUTN
+#					u:"https://webgate.ec.europa.eu/eutn/serverAlive.htm"
+#						EUTN register
+#						u:"http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
 					ISDB
 					t:Integrated Statistical DB
 					u:"https://webgate.ec.europa.eu/isdb"
-						ISDB Server Status
+						Server Status
 						u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
 					Market access DB
-						Server Alive
+						Server Status
 						u:"http://madb.europa.eu/madb/serverAlive.jsp"
 						Tariffs
 						u:"http://madb.europa.eu/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes="
@@ -163,16 +163,16 @@ Bookmarks
 					u:"https://webgate.ec.europa.eu/tron/serverAlive.jsp"
 					ums
 					u:"https://webgate.ec.europa.eu/ums/applicationStatus.do"
-					NOTIF
+					NOTIF Server Status
 					u:"https://webgate.ec.europa.eu/notif/serverAlive.jsp"
 				Internal Websites
 					TRADE Intranet
 					u:"http://www.trade.cec.eu.int/intra/index.cfm"
 					ADC Mailing List
 					u:"https://intragate.ec.europa.eu/ADCMailing/index.pl"
-					Comext
+					Comext Server Status
 					u:"http://comext.trade.cec.eu.int:8080/cmapp/serverAlive.jsp"
-					D.U.M.A.
+					D.U.M.A. Server Status
 					t:Delegated User Management Application
 					u:"http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp"
 					ISDB
