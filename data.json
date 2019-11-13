@@ -162,15 +162,25 @@
          "children": [
           {
            "name": "SharePoint C4",
-           "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx"
+           "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx",
+           "children": [
+            {
+             "name": "Budget",
+             "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
+            }
+           ]
           },
           {
            "name": "SNet",
            "url": "https://intragate.ec.europa.eu/snet",
            "children": [
             {
-             "name": "DG package",
-             "url": "https://intragate.ec.europa.eu/DGNETMANPAC/cgi-bin/dgtools/index.pl"
+             "name": "RedMine",
+             "url": "https://intragate.ec.europa.eu/snet/redmine/"
+            },
+            {
+             "name": "Cacti",
+             "url": "https://intragate.ec.europa.eu/snet/cacti/"
             }
            ]
           },
