@@ -40,19 +40,17 @@ Bookmarks
 				RCAM/JSIS
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
 			Ares
-			u:"http://www.cc.cec/Ares/"
+			u:"https://webgate.ec.testa.eu/Ares/welcome.do"
 				(MyRemote)
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-				(through Testa)
-				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
 			Sysper2
-			u:"http://www.cc.cec/SYSPER2/home/menu.do"
-				(MyRemote)
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
-				(through Testa)
-				u:"https://intracomm.ec.testa.eu/SYSPER2/"
+			u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
+				Absences
+				u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
 				Flexitime encoding
 				u:"https://webgate.ec.testa.eu/presence/editPresences.do"
+				(MyRemote)
+				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
 			MiPS
 			u:"http://www.cc.cec/mips/api/home"
 				(MyRemote)
@@ -62,8 +60,6 @@ Bookmarks
 			EU Learn
 			u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
-			Absences
-			u:"http://www.cc.cec/SYSPER2/tim/person/presences/viewAbsences.do?perId=151632"
 			Service Medical
 			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
 			eGestel
