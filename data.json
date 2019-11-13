@@ -69,20 +69,8 @@
          "url": "https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
         },
         {
-         "name": "SYSPER",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
-        },
-        {
          "name": "WebMail",
          "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J"
-        },
-        {
-         "name": "Ares",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-        },
-        {
-         "name": "Mips",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
         },
         {
          "name": "MyIntracom",
@@ -99,6 +87,10 @@
        "url": "http://www.cc.cec/Ares/",
        "children": [
         {
+         "name": "(MyRemote)",
+         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+        },
+        {
          "name": "(through Testa)",
          "url": "https://webgate.ec.testa.eu/Ares/welcome.do"
         }
@@ -109,6 +101,10 @@
        "url": "http://www.cc.cec/SYSPER2/home/menu.do",
        "children": [
         {
+         "name": "(MyRemote)",
+         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+        },
+        {
          "name": "(through Testa)",
          "url": "https://intracomm.ec.testa.eu/SYSPER2/"
         }
@@ -116,7 +112,13 @@
       },
       {
        "name": "MiPS",
-       "url": "http://www.cc.cec/mips/api/home"
+       "url": "http://www.cc.cec/mips/api/home",
+       "children": [
+        {
+         "name": "(MyRemote)",
+         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+        }
+       ]
       },
       {
        "name": "MyWorkplace",
@@ -207,20 +209,8 @@
            "url": "http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm"
           },
           {
-           "name": "Remote Access",
-           "url": "http://www.cc.cec/digitline/u/services/telecom/index_en.htm"
-          },
-          {
            "name": "RAINBOW - Metadirectory tool",
            "url": "http://www.cc.cec/ced/rainbow/index.cfm"
-          },
-          {
-           "name": "unix-housing-container-tech-specs",
-           "url": "http://myintracomm.ec.europa.eu/corp/digit/EN/isp_service_catalogue/Documents/unix-housing-container-tech-specs-1.01.pdf"
-          },
-          {
-           "name": "Search incidents",
-           "url": "http://www.cc.cec/smtes/dyncode/im/search?actionId=23"
           }
          ]
         }
