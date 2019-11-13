@@ -33,24 +33,28 @@ Bookmarks
 			Remote access
 				Myremote Teleworking
 				u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
-				SYSPER
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
 				WebMail
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J"
-				Ares
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-				Mips
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
 				MyIntracom
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N"
 				RCAM/JSIS
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
 			Ares
-			u:"https://webgate.ec.testa.eu/Ares/welcome.do"
-			SYSPER
-			u:"https://intracomm.ec.testa.eu/SYSPER2/"
+			u:"http://www.cc.cec/Ares/"
+				(MyRemote)
+				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+				(through Testa)
+				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
+			Sysper2
+			u:"http://www.cc.cec/SYSPER2/home/menu.do"
+				(MyRemote)
+				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+				(through Testa)
+				u:"https://intracomm.ec.testa.eu/SYSPER2/"
 			MiPS
 			u:"http://www.cc.cec/mips/api/home"
+				(MyRemote)
+				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
 			EU Learn
@@ -58,16 +62,10 @@ Bookmarks
 
 			Absences
 			u:"http://www.cc.cec/SYSPER2/tim/person/presences/viewAbsences.do?perId=151632"
-			Sysper2
-			u:"http://www.cc.cec/SYSPER2/home/menu.do?jobId=13711&roleId=1&ticket=ECAS_ST-1248220-lMdVd22Enw4To3Fq0RW6OEzzzRbS0cCepU4mIzqTCRhG-CDPpTLi1uVzlMEIdfbszzjW-PEzzgytmMNaawSW5y5cpxu"
 			Service Medical
-			u:"https://myintracomm.ec.europa.eu/hr_admin/fr/medical/contacts/pages/brussels.aspx"
+			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
 			eGestel
-#			u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
-#			HRMforms
-#			u:"http://www.cc.cec/hrmforms/index.cfm"
-#			CIRCA
-#			u:"http://forum.europa.eu.int/"
+			u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 
 			DiGIT
 				MITS (My IT Support)
@@ -79,11 +77,28 @@ Bookmarks
 				MM Presentations
 				u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
 
+				C2
+					FLAM
+					t:Fast & Light Access Module for CMDB
+					u:"https://intragate.ec.europa.eu/flam"
+						Environment graph
+						u:"https://intragate.ec.europa.eu/flam/graphenv.htm?"
+						CI's per IS
+						u:"https://intragate.ec.europa.eu/flam/cilistperis.htm"
+
 				C4
 					SharePoint C4
 					u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx"
+						Budget
+						u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
+
 					SNet
 					u:"https://intragate.ec.europa.eu/snet"
+						RedMine
+						u:"https://intragate.ec.europa.eu/snet/redmine/"
+						Cacti
+						u:"https://intragate.ec.europa.eu/snet/cacti/"
+
 					PUMA
 					u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"
 
@@ -96,18 +111,8 @@ Bookmarks
 					u:"http://www.cc.cec/digitline/index_en.cfm"
 					SoftGrid
 					u:"http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm"
-					Remote Access
-					u:"http://www.cc.cec/digitline/u/services/telecom/index_en.htm"
-					Snet homepage
-					u:"https://intragate.ec.europa.eu/DGNETMANPAC/cgi-bin/dgtools/index.pl"
 					RAINBOW - Metadirectory tool
 					u:"http://www.cc.cec/ced/rainbow/index.cfm"
-					unix-housing-container-tech-specs-1.01.pdf
-					u:"http://myintracomm.ec.europa.eu/corp/digit/EN/isp_service_catalogue/Documents/unix-housing-container-tech-specs-1.01.pdf"
-					Search incidents
-					u:"http://www.cc.cec/smtes/dyncode/im/search?actionId=23"
-					Ares
-					u:"http://www.cc.cec/Ares/"
 
 			Trade
 				Internet Trade Websites
@@ -204,7 +209,7 @@ Bookmarks
 					HtmlLogger - test
 					u:"http://htmllogger.trade.cec.eu.int:8080/html_logger/"
 
-	# - - - - - - -
+# - - - - - - -
 		EP
 			Remote access
 				Network Login
@@ -229,7 +234,7 @@ Bookmarks
 				Outlook Web Access
 				u:https://webmail.europarl.europa.eu/
 
-		# - - - - - - -
+# - - - - - - -
 			EP
 				Europarl
 				u:http://www.europarl.ep.parl.union.eu/
@@ -270,7 +275,7 @@ Bookmarks
 				t:EP's Media Monitoring
 				u:http://ep.emm4u.eu/
 
-		# - - - - - - -
+# - - - - - - -
 			CISO
 				Vulnerability tracking
 				u:https://ictsecu-vt.ep.parl.union.eu/login
@@ -278,7 +283,7 @@ Bookmarks
 				t:Computer Emergency Response Team: News monitor
 				u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
 
-		# - - - - - - -
+# - - - - - - -
 			DES
 				CONCEPT
 					ADA
@@ -329,7 +334,7 @@ Bookmarks
 						Connect (ARIS)
 						u:http://www.aris.ep.parl.union.eu/
 
-		# - - - - - - -
+# - - - - - - -
 			ESIO
 				Operations
 					Teams
@@ -387,7 +392,6 @@ Bookmarks
 							u:mailto:OPERATIONS.Windows.OS@ep.europa.eu
 					Service catalogue
 					u:https://itecnet.in.ep.europa.eu/cms/render/default/en/sites/itecnet/home/services-for-it-professionals/operations-it-service-catalogue.html
-		#			u:http://itsc.operations.ep.parl.union.eu/home
 					ITO wiki
 					u:http://www.itowiki.ep.parl.union.eu/wiki/index.action#all-updates
 
@@ -561,7 +565,7 @@ Bookmarks
 								Infra
 								u:/projects/?root=websso&search=qual
 
-		# - - - - - - -
+# - - - - - - -
 				ArcNet
 					RAMP
 					u:/ramp/

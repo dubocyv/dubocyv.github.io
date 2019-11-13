@@ -160,6 +160,26 @@
          "url": "https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
         },
         {
+         "name": "C2",
+         "children": [
+          {
+           "name": "FLAM",
+           "tip": "Fast & Light Access Module for CMDB",
+           "url": "https://intragate.ec.europa.eu/flam",
+           "children": [
+            {
+             "name": "Environment graph",
+             "url": "https://intragate.ec.europa.eu/flam/graphenv.htm?"
+            },
+            {
+             "name": "CI's per IS",
+             "url": "https://intragate.ec.europa.eu/flam/cilistperis.htm"
+            }
+           ]
+          }
+         ]
+        },
+        {
          "name": "C4",
          "children": [
           {
