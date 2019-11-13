@@ -107,6 +107,10 @@
         {
          "name": "(through Testa)",
          "url": "https://intracomm.ec.testa.eu/SYSPER2/"
+        },
+        {
+         "name": "Flexitime encoding",
+         "url": "https://webgate.ec.testa.eu/presence/editPresences.do"
         }
        ]
       },
@@ -142,14 +146,11 @@
       },
       {
        "name": "DiGIT",
+       "url": "https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx",
        "children": [
         {
          "name": "MITS (My IT Support)",
          "url": "https://webgate.ec.testa.eu/mits/home.do"
-        },
-        {
-         "name": "Jasspr",
-         "url": "http://intragate.ec.europa.eu/jasspr/home.php"
         },
         {
          "name": "Suppléances Calendar",
@@ -176,6 +177,14 @@
              "url": "https://intragate.ec.europa.eu/flam/cilistperis.htm"
             }
            ]
+          },
+          {
+           "name": "Jasspr",
+           "url": "http://intragate.ec.europa.eu/jasspr/home.php"
+          },
+          {
+           "name": "Unified reporting",
+           "url": "https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
           }
          ]
         },

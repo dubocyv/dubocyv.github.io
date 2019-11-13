@@ -51,6 +51,8 @@ Bookmarks
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
 				(through Testa)
 				u:"https://intracomm.ec.testa.eu/SYSPER2/"
+				Flexitime encoding
+				u:"https://webgate.ec.testa.eu/presence/editPresences.do"
 			MiPS
 			u:"http://www.cc.cec/mips/api/home"
 				(MyRemote)
@@ -68,10 +70,9 @@ Bookmarks
 			u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 
 			DiGIT
+			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
 				MITS (My IT Support)
 				u:"https://webgate.ec.testa.eu/mits/home.do"
-				Jasspr
-				u:"http://intragate.ec.europa.eu/jasspr/home.php"
 				Suppléances Calendar
 				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 				MM Presentations
@@ -85,6 +86,10 @@ Bookmarks
 						u:"https://intragate.ec.europa.eu/flam/graphenv.htm?"
 						CI's per IS
 						u:"https://intragate.ec.europa.eu/flam/cilistperis.htm"
+					Jasspr
+					u:"http://intragate.ec.europa.eu/jasspr/home.php"
+					Unified reporting
+					u:"https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
 
 				C4
 					SharePoint C4
