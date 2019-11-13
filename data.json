@@ -466,12 +466,7 @@
          "url": "https://webmail.europarl.europa.eu/"
         }
        ]
-      }
-     ]
-    },
-    {
-     "name": "# - - - - - - -",
-     "children": [
+      },
       {
        "name": "EP",
        "children": [
@@ -564,12 +559,7 @@
          "url": "http://ep.emm4u.eu/"
         }
        ]
-      }
-     ]
-    },
-    {
-     "name": "# - - - - - - -",
-     "children": [
+      },
       {
        "name": "CISO",
        "children": [
@@ -583,12 +573,7 @@
          "url": "https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
         }
        ]
-      }
-     ]
-    },
-    {
-     "name": "# - - - - - - -",
-     "children": [
+      },
       {
        "name": "DES",
        "children": [
@@ -708,12 +693,7 @@
          ]
         }
        ]
-      }
-     ]
-    },
-    {
-     "name": "# - - - - - - -",
-     "children": [
+      },
       {
        "name": "ESIO",
        "children": [
@@ -839,16 +819,7 @@
           {
            "name": "Service catalogue",
            "url": "https://itecnet.in.ep.europa.eu/cms/render/default/en/sites/itecnet/home/services-for-it-professionals/operations-it-service-catalogue.html"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "name": "#			u:http://itsc.operations.ep.parl.union.eu/home",
-     "children": [
+          },
           {
            "name": "ITO wiki",
            "url": "http://www.itowiki.ep.parl.union.eu/wiki/index.action#all-updates"
@@ -1159,14 +1130,7 @@
            ]
           }
          ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "name": "# - - - - - - -",
-     "children": [
+        },
         {
          "name": "ArcNet",
          "children": [
