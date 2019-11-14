@@ -62,6 +62,16 @@
      "name": "EC",
      "children": [
       {
+       "name": "Office365",
+       "url": "https://www.office.com/?auth=2&home=1",
+       "children": [
+        {
+         "name": "OneDrive",
+         "url": "https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx"
+        }
+       ]
+      },
+      {
        "name": "Remote access",
        "children": [
         {
@@ -83,40 +93,53 @@
        ]
       },
       {
-       "name": "Ares",
-       "url": "https://webgate.ec.testa.eu/Ares/welcome.do",
+       "name": "Admin",
        "children": [
         {
-         "name": "(MyRemote)",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-        }
-       ]
-      },
-      {
-       "name": "Sysper2",
-       "url": "https://intracomm.ec.testa.eu/SYSPER2/home/menu.do",
-       "children": [
-        {
-         "name": "Absences",
-         "url": "https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
+         "name": "Ares",
+         "url": "https://webgate.ec.testa.eu/Ares/welcome.do",
+         "children": [
+          {
+           "name": "(MyRemote)",
+           "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+          }
+         ]
         },
         {
-         "name": "Flexitime encoding",
-         "url": "https://webgate.ec.testa.eu/presence/editPresences.do"
+         "name": "Sysper2",
+         "url": "https://intracomm.ec.testa.eu/SYSPER2/home/menu.do",
+         "children": [
+          {
+           "name": "Absences",
+           "url": "https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
+          },
+          {
+           "name": "Flexitime encoding",
+           "url": "https://webgate.ec.testa.eu/presence/editPresences.do"
+          },
+          {
+           "name": "(MyRemote)",
+           "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+          }
+         ]
         },
         {
-         "name": "(MyRemote)",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
-        }
-       ]
-      },
-      {
-       "name": "MiPS",
-       "url": "http://www.cc.cec/mips/api/home",
-       "children": [
+         "name": "MiPS",
+         "url": "http://www.cc.cec/mips/api/home",
+         "children": [
+          {
+           "name": "(MyRemote)",
+           "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+          }
+         ]
+        },
         {
-         "name": "(MyRemote)",
-         "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+         "name": "EU Learn",
+         "url": "https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
+        },
+        {
+         "name": "eGestel",
+         "url": "http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
         }
        ]
       },
@@ -125,16 +148,8 @@
        "url": "https://webgate.ec.testa.eu/myworkplace/home"
       },
       {
-       "name": "EU Learn",
-       "url": "https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
-      },
-      {
        "name": "Service Medical",
        "url": "https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
-      },
-      {
-       "name": "eGestel",
-       "url": "http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
       },
       {
        "name": "DiGIT",
@@ -239,6 +254,7 @@
       },
       {
        "name": "Trade",
+       "url": "https://myintracomm.ec.europa.eu/dg/trade/",
        "children": [
         {
          "name": "Internet Trade Websites",
@@ -278,13 +294,7 @@
           {
            "name": "EH",
            "tip": "Export helpdesk",
-           "url": "http://exporthelp.europa.eu/thdapp/comext/ComextServlet?action=output&viewName=eur_partners&simDate=20070101&ahscode1=0102&cb_reporters=EUR27&cb_partners=all&list_years=2007&measureList=iv&measureList=ev",
-           "children": [
-            {
-             "name": "Server Status",
-             "url": "http://exporthelp.europa.eu/thdapp/serverAlive.jsp"
-            }
-           ]
+           "url": "https://trade.ec.europa.eu/tradehelp/"
           },
           {
            "name": "ISDB",

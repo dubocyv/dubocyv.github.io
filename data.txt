@@ -30,6 +30,11 @@ Bookmarks
 		u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
 # - - - - - - -
 		EC
+			Office365
+			u:"https://www.office.com/?auth=2&home=1"
+				OneDrive
+				u:"https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx"
+
 			Remote access
 				Myremote Teleworking
 				u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
@@ -39,31 +44,33 @@ Bookmarks
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N"
 				RCAM/JSIS
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
-			Ares
-			u:"https://webgate.ec.testa.eu/Ares/welcome.do"
-				(MyRemote)
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-			Sysper2
-			u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
-				Absences
-				u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
-				Flexitime encoding
-				u:"https://webgate.ec.testa.eu/presence/editPresences.do"
-				(MyRemote)
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
-			MiPS
-			u:"http://www.cc.cec/mips/api/home"
-				(MyRemote)
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+
+			Admin
+				Ares
+				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
+					(MyRemote)
+					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+				Sysper2
+				u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
+					Absences
+					u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
+					Flexitime encoding
+					u:"https://webgate.ec.testa.eu/presence/editPresences.do"
+					(MyRemote)
+					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+				MiPS
+				u:"http://www.cc.cec/mips/api/home"
+					(MyRemote)
+					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+				EU Learn
+				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
+
+				eGestel
+				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
-			EU Learn
-			u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
-
 			Service Medical
 			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
-			eGestel
-			u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 
 			DiGIT
 			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
@@ -116,6 +123,7 @@ Bookmarks
 					u:"http://www.cc.cec/ced/rainbow/index.cfm"
 
 			Trade
+			u:"https://myintracomm.ec.europa.eu/dg/trade/"
 				Internet Trade Websites
 				u:"http://trade.ec.europa.eu/"
 				External Websites
@@ -133,9 +141,7 @@ Bookmarks
 						u:"https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
 					EH
 					t:Export helpdesk
-					u:"http://exporthelp.europa.eu/thdapp/comext/ComextServlet?action=output&viewName=eur_partners&simDate=20070101&ahscode1=0102&cb_reporters=EUR27&cb_partners=all&list_years=2007&measureList=iv&measureList=ev"
-						Server Status
-						u:"http://exporthelp.europa.eu/thdapp/serverAlive.jsp"
+					u:"https://trade.ec.europa.eu/tradehelp/"
 #					EUTN
 #					u:"https://webgate.ec.europa.eu/eutn/serverAlive.htm"
 #						EUTN register
