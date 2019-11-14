@@ -135,6 +135,7 @@
         },
         {
          "name": "Staff matters",
+         "tip": "DG HR website",
          "url": "https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
         },
         {
@@ -144,6 +145,19 @@
         {
          "name": "eGestel",
          "url": "http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
+        }
+       ]
+      },
+      {
+       "name": "Password management",
+       "children": [
+        {
+         "name": "LDAP",
+         "url": "http://www.cc.cec/home/rstIPecas/password_en.cfm"
+        },
+        {
+         "name": "ECAS",
+         "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
         }
        ]
       },
@@ -196,6 +210,10 @@
           {
            "name": "Unified reporting",
            "url": "https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
+          },
+          {
+           "name": "DC calendar",
+           "url": "http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx"
           }
          ]
         },

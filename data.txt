@@ -63,12 +63,19 @@ Bookmarks
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
 				Staff matters
+				t:DG HR website
 				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
 				EU Learn
 				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
 				eGestel
 				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
+			Password management
+				LDAP
+				u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
+				ECAS
+				u:"https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
 			Service Medical
@@ -95,6 +102,8 @@ Bookmarks
 					u:"http://intragate.ec.europa.eu/jasspr/home.php"
 					Unified reporting
 					u:"https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
+					DC calendar
+					u:"http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx"
 
 				C4
 					SharePoint C4
