@@ -9,12 +9,12 @@
      "url": "https://translate.google.com/#view=home&op=translate&sl=fr&tl=en"
     },
     {
-     "name": "Linguee ",
-     "url": "http://www.linguee.fr/francais-anglais"
-    },
-    {
      "name": "Larousse",
      "url": "https://www.larousse.fr/dictionnaires/francais"
+    },
+    {
+     "name": "Linguee ",
+     "url": "http://www.linguee.fr/francais-anglais"
     },
     {
      "name": "Wikipedia",
@@ -124,6 +124,11 @@
          ]
         },
         {
+         "name": "Staff matters",
+         "tip": "DG HR website",
+         "url": "https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
+        },
+        {
          "name": "MiPS",
          "url": "http://www.cc.cec/mips/api/home",
          "children": [
@@ -132,11 +137,6 @@
            "url": "https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
           }
          ]
-        },
-        {
-         "name": "Staff matters",
-         "tip": "DG HR website",
-         "url": "https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
         },
         {
          "name": "EU Learn",
@@ -151,6 +151,7 @@
       {
        "name": "Password management",
        "tip": "Reset passwords",
+       "sort": "",
        "children": [
         {
          "name": "LDAP",

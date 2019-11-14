@@ -2,10 +2,10 @@ Bookmarks
 	Dictionaries
 		Google translate
 		u:"https://translate.google.com/#view=home&op=translate&sl=fr&tl=en"
-		Linguee 
-		u:"http://www.linguee.fr/francais-anglais"
 		Larousse
 		u:"https://www.larousse.fr/dictionnaires/francais"
+		Linguee 
+		u:"http://www.linguee.fr/francais-anglais"
 		Wikipedia
 		u:"http://en.wikipedia.org/wiki/Main_Page"
 
@@ -58,13 +58,13 @@ Bookmarks
 					u:"https://webgate.ec.testa.eu/presence/editPresences.do"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+				Staff matters
+				t:DG HR website
+				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
 				MiPS
 				u:"http://www.cc.cec/mips/api/home"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
-				Staff matters
-				t:DG HR website
-				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
 				EU Learn
 				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
@@ -72,6 +72,7 @@ Bookmarks
 				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 			Password management
 			t:Reset passwords
+			s:
 				LDAP
 				u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
 				ECAS
