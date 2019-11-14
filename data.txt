@@ -71,10 +71,13 @@ Bookmarks
 				eGestel
 				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 			Password management
+			t:Reset passwords
 				LDAP
 				u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
 				ECAS
 				u:"https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+				SNET LDAP
+				u:"https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
 
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"

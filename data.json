@@ -150,6 +150,7 @@
       },
       {
        "name": "Password management",
+       "tip": "Reset passwords",
        "children": [
         {
          "name": "LDAP",
@@ -158,6 +159,10 @@
         {
          "name": "ECAS",
          "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+        },
+        {
+         "name": "SNET LDAP",
+         "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
         }
        ]
       },
