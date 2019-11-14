@@ -62,6 +62,8 @@ Bookmarks
 				u:"http://www.cc.cec/mips/api/home"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+				Staff matters
+				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
 				EU Learn
 				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
