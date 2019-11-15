@@ -1293,4 +1293,10 @@
        "name": "Ruby Version Manager",
        "tip": "Bundler Integration with RVM",
        "url": "https://rvm.io/integration/bundler"
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }
