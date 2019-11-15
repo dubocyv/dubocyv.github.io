@@ -14,6 +14,8 @@ Bookmarks
 		EU Login
 		t:ECAS authentication
 		u:https://ecas.ec.europa.eu/cas/login
+			Info
+			u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
 			EU Login mobile
 			u:"https://ecas.ec.europa.eu/cas/mobile"
 		RCAM/JSIS
@@ -70,15 +72,8 @@ Bookmarks
 
 				eGestel
 				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
-			Password management
-			t:Reset passwords
-			s:
-				LDAP
-				u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
-				ECAS
-				u:"https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
-				SNET LDAP
-				u:"https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
+				IAM info
+				u:http://www.cc.cec/itservices/en/content/identity-and-access-management
 
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
@@ -230,6 +225,28 @@ Bookmarks
 						u:"http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp"
 					HtmlLogger - test
 					u:"http://htmllogger.trade.cec.eu.int:8080/html_logger/"
+
+			Support
+				VideoConference
+					SCIC rooms
+					u:tel://54321
+					VC (DiGIT) rooms
+					u:tel://90000
+					Skype online
+					u:tel://77777
+					WebEx
+					u:tel://77777
+
+			Password management
+			u:http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc
+			t:Reset passwords
+			s:
+				LDAP
+				u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
+				EU Login (ECAS)
+				u:"https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+				SNET LDAP
+				u:"https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
 
 # - - - - - - -
 		EP

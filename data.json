@@ -31,6 +31,10 @@
      "url": "https://ecas.ec.europa.eu/cas/login",
      "children": [
       {
+       "name": "Info",
+       "url": "http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service"
+      },
+      {
        "name": "EU Login mobile",
        "url": "https://ecas.ec.europa.eu/cas/mobile"
       }
@@ -145,25 +149,10 @@
         {
          "name": "eGestel",
          "url": "http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
-        }
-       ]
-      },
-      {
-       "name": "Password management",
-       "tip": "Reset passwords",
-       "sort": "",
-       "children": [
-        {
-         "name": "LDAP",
-         "url": "http://www.cc.cec/home/rstIPecas/password_en.cfm"
         },
         {
-         "name": "ECAS",
-         "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
-        },
-        {
-         "name": "SNET LDAP",
-         "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
+         "name": "IAM info",
+         "url": "http://www.cc.cec/itservices/en/content/identity-and-access-management"
         }
        ]
       },
@@ -474,6 +463,52 @@
            "url": "http://htmllogger.trade.cec.eu.int:8080/html_logger/"
           }
          ]
+        }
+       ]
+      },
+      {
+       "name": "Support",
+       "children": [
+        {
+         "name": "VideoConference",
+         "children": [
+          {
+           "name": "SCIC rooms",
+           "url": "tel://54321"
+          },
+          {
+           "name": "VC (DiGIT) rooms",
+           "url": "tel://90000"
+          },
+          {
+           "name": "Skype online",
+           "url": "tel://77777"
+          },
+          {
+           "name": "WebEx",
+           "url": "tel://77777"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Password management",
+       "url": "http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc",
+       "tip": "Reset passwords",
+       "sort": "",
+       "children": [
+        {
+         "name": "LDAP",
+         "url": "http://www.cc.cec/home/rstIPecas/password_en.cfm"
+        },
+        {
+         "name": "EU Login (ECAS)",
+         "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+        },
+        {
+         "name": "SNET LDAP",
+         "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
         }
        ]
       }
@@ -1258,10 +1293,4 @@
        "name": "Ruby Version Manager",
        "tip": "Bundler Integration with RVM",
        "url": "https://rvm.io/integration/bundler"
-      }
-     ]
-    }
-   ]
-  }
- ]
 }
