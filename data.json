@@ -250,6 +250,52 @@
          "url": "https://portal.testa.eu/jetspeed/portal/"
         },
         {
+         "name": "Support",
+         "children": [
+          {
+           "name": "VideoConference",
+           "children": [
+            {
+             "name": "SCIC rooms",
+             "url": "tel://54321"
+            },
+            {
+             "name": "VC (DiGIT) rooms",
+             "url": "tel://90000"
+            },
+            {
+             "name": "Skype online",
+             "url": "tel://77777"
+            },
+            {
+             "name": "WebEx",
+             "url": "tel://77777"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "name": "Password management",
+         "url": "http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc",
+         "tip": "Reset passwords",
+         "sort": "",
+         "children": [
+          {
+           "name": "LDAP",
+           "url": "http://www.cc.cec/home/rstIPecas/password_en.cfm"
+          },
+          {
+           "name": "EU Login (ECAS)",
+           "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+          },
+          {
+           "name": "SNET LDAP",
+           "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
+          }
+         ]
+        },
+        {
          "name": "(OLD)",
          "url": "http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx",
          "children": [
@@ -463,52 +509,6 @@
            "url": "http://htmllogger.trade.cec.eu.int:8080/html_logger/"
           }
          ]
-        }
-       ]
-      },
-      {
-       "name": "Support",
-       "children": [
-        {
-         "name": "VideoConference",
-         "children": [
-          {
-           "name": "SCIC rooms",
-           "url": "tel://54321"
-          },
-          {
-           "name": "VC (DiGIT) rooms",
-           "url": "tel://90000"
-          },
-          {
-           "name": "Skype online",
-           "url": "tel://77777"
-          },
-          {
-           "name": "WebEx",
-           "url": "tel://77777"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "name": "Password management",
-       "url": "http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc",
-       "tip": "Reset passwords",
-       "sort": "",
-       "children": [
-        {
-         "name": "LDAP",
-         "url": "http://www.cc.cec/home/rstIPecas/password_en.cfm"
-        },
-        {
-         "name": "EU Login (ECAS)",
-         "url": "https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
-        },
-        {
-         "name": "SNET LDAP",
-         "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
         }
        ]
       }
