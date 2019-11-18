@@ -11,25 +11,26 @@ Bookmarks
 
 # - - - - - - -
 	EU
-		EU Login
-		t:ECAS authentication
-		u:https://ecas.ec.europa.eu/cas/login
-			Info
-			u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
-			EU Login mobile
-			u:"https://ecas.ec.europa.eu/cas/mobile"
-		RCAM/JSIS
-		u:"https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
-		Europass
-		t:Curriculum vitae - Passeport européen de compétences | Composer
-		u:"https://europass.cedefop.europa.eu/editors/fr/cv/compose"
-		EUPosts
-		u:"http://portal.consilium.testa.eu/vacancy/"
-		EPSO
-		u:"https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
-		CERT-EU
-		t:News Monitor
-		u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
+		Common
+			EU Login
+			t:ECAS authentication
+			u:https://ecas.ec.europa.eu/cas/login
+				Info
+				u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
+				EU Login mobile
+				u:"https://ecas.ec.europa.eu/cas/mobile"
+			RCAM/JSIS
+			u:"https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
+			Europass
+			t:Curriculum vitae - Passeport européen de compétences | Composer
+			u:"https://europass.cedefop.europa.eu/editors/fr/cv/compose"
+			EUPosts
+			u:"http://portal.consilium.testa.eu/vacancy/"
+			EPSO
+			u:"https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
+			CERT-EU
+			t:News Monitor
+			u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
 # - - - - - - -
 		EC
 			Office365
@@ -74,6 +75,7 @@ Bookmarks
 				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
 
 				IAM info
+				t:Identity and Access Management
 				u:http://www.cc.cec/itservices/en/content/identity-and-access-management
 
 			MyWorkplace

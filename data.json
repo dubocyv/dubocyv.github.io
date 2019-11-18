@@ -26,41 +26,46 @@
    "name": "EU",
    "children": [
     {
-     "name": "EU Login",
-     "tip": "ECAS authentication",
-     "url": "https://ecas.ec.europa.eu/cas/login",
+     "name": "Common",
      "children": [
       {
-       "name": "Info",
-       "url": "http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service"
+       "name": "EU Login",
+       "tip": "ECAS authentication",
+       "url": "https://ecas.ec.europa.eu/cas/login",
+       "children": [
+        {
+         "name": "Info",
+         "url": "http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service"
+        },
+        {
+         "name": "EU Login mobile",
+         "url": "https://ecas.ec.europa.eu/cas/mobile"
+        }
+       ]
       },
       {
-       "name": "EU Login mobile",
-       "url": "https://ecas.ec.europa.eu/cas/mobile"
+       "name": "RCAM/JSIS",
+       "url": "https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
+      },
+      {
+       "name": "Europass",
+       "tip": "Curriculum vitae - Passeport européen de compétences | Composer",
+       "url": "https://europass.cedefop.europa.eu/editors/fr/cv/compose"
+      },
+      {
+       "name": "EUPosts",
+       "url": "http://portal.consilium.testa.eu/vacancy/"
+      },
+      {
+       "name": "EPSO",
+       "url": "https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
+      },
+      {
+       "name": "CERT-EU",
+       "tip": "News Monitor",
+       "url": "https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
       }
      ]
-    },
-    {
-     "name": "RCAM/JSIS",
-     "url": "https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
-    },
-    {
-     "name": "Europass",
-     "tip": "Curriculum vitae - Passeport européen de compétences | Composer",
-     "url": "https://europass.cedefop.europa.eu/editors/fr/cv/compose"
-    },
-    {
-     "name": "EUPosts",
-     "url": "http://portal.consilium.testa.eu/vacancy/"
-    },
-    {
-     "name": "EPSO",
-     "url": "https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
-    },
-    {
-     "name": "CERT-EU",
-     "tip": "News Monitor",
-     "url": "https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
     },
     {
      "name": "EC",
@@ -152,6 +157,7 @@
         },
         {
          "name": "IAM info",
+         "tip": "Identity and Access Management",
          "url": "http://www.cc.cec/itservices/en/content/identity-and-access-management"
         }
        ]
