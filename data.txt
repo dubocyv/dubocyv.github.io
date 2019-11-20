@@ -11,10 +11,10 @@ Bookmarks
 
 	Glossary
 		Global
-		CMB
-		t:Corporate Management Board
-		EPPO
-		t:European Public Prosecutor's Office
+			CMB
+			t:Corporate Management Board
+			EPPO
+			t:European Public Prosecutor's Office
 		DiGIT
 			GovTech
 			t:GovTech aims to build better services for citizens and better tools for public servants.
@@ -27,7 +27,7 @@ Bookmarks
 			t:Sevice Asset & Configuration Items
 			SDM
 			t:Service Delivery Manager
-			C
+			Dir C
 				DWP
 				t:Digital WorkPlace (C3, C5, C6)
 			C.4
@@ -174,6 +174,7 @@ Bookmarks
 				RCAM/JSIS
 				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
 
+# - - - - - - -
 			Admin
 				Ares
 				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
@@ -209,6 +210,7 @@ Bookmarks
 			Service Medical
 			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
 
+# - - - - - - -
 			DiGIT
 			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
 				MITS (My IT Support)
@@ -283,6 +285,12 @@ Bookmarks
 					RAINBOW - Metadirectory tool
 					u:"http://www.cc.cec/ced/rainbow/index.cfm"
 
+# - - - - - - -
+			OIB
+				Building plans
+				u:http://www.cc.cec/OIB/intranet/plans/index.cfm
+
+# - - - - - - -
 			Trade
 			u:"https://myintracomm.ec.europa.eu/dg/trade/"
 				Internet Trade Websites

@@ -26,15 +26,17 @@
    "name": "Glossary",
    "children": [
     {
-     "name": "Global"
-    },
-    {
-     "name": "CMB",
-     "tip": "Corporate Management Board"
-    },
-    {
-     "name": "EPPO",
-     "tip": "European Public Prosecutor's Office"
+     "name": "Global",
+     "children": [
+      {
+       "name": "CMB",
+       "tip": "Corporate Management Board"
+      },
+      {
+       "name": "EPPO",
+       "tip": "European Public Prosecutor's Office"
+      }
+     ]
     },
     {
      "name": "DiGIT",
@@ -58,7 +60,10 @@
       },
       {
        "name": "SDM",
-       "tip": "Service Delivery Manager",
+       "tip": "Service Delivery Manager"
+      },
+      {
+       "name": "Dir C",
        "children": [
         {
          "name": "DWP",
@@ -601,6 +606,15 @@
            "url": "http://www.cc.cec/ced/rainbow/index.cfm"
           }
          ]
+        }
+       ]
+      },
+      {
+       "name": "OIB",
+       "children": [
+        {
+         "name": "Building plans",
+         "url": "http://www.cc.cec/OIB/intranet/plans/index.cfm"
         }
        ]
       },
