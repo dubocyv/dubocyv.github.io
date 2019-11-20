@@ -524,6 +524,16 @@
            "url": "https://intragate.ec.europa.eu/snet",
            "children": [
             {
+             "name": "Kate (SNet Portal)",
+             "url": "http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx",
+             "children": [
+              {
+               "name": "Docs & refs (University)",
+               "url": "http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx"
+              }
+             ]
+            },
+            {
              "name": "RedMine",
              "url": "https://intragate.ec.europa.eu/snet/redmine/"
             },

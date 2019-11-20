@@ -243,6 +243,10 @@ Bookmarks
 
 					SNet
 					u:"https://intragate.ec.europa.eu/snet"
+						Kate (SNet Portal)
+						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
+							Docs & refs (University)
+							u:http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx
 						RedMine
 						u:"https://intragate.ec.europa.eu/snet/redmine/"
 						Cacti
