@@ -23,6 +23,279 @@
    ]
   },
   {
+   "name": "Glossary",
+   "children": [
+    {
+     "name": "Global"
+    },
+    {
+     "name": "CMB",
+     "tip": "Corporate Management Board"
+    },
+    {
+     "name": "EPPO",
+     "tip": "European Public Prosecutor's Office"
+    },
+    {
+     "name": "DiGIT",
+     "children": [
+      {
+       "name": "GovTech",
+       "tip": "GovTech aims to build better services for citizens and better tools for public servants."
+      },
+      {
+       "name": "MAP",
+       "tip": "Multi Annual Planning tool (using Chrome or Firefox)",
+       "url": "https://webgate.ec.testa.eu/myworkplace/map-tool/tree"
+      },
+      {
+       "name": "HLPI",
+       "tip": "High Level Performance Indicators"
+      },
+      {
+       "name": "SACI",
+       "tip": "Sevice Asset & Configuration Items"
+      },
+      {
+       "name": "SDM",
+       "tip": "Service Delivery Manager",
+       "children": [
+        {
+         "name": "DWP",
+         "tip": "Digital WorkPlace (C3, C5, C6)"
+        }
+       ]
+      },
+      {
+       "name": "C.4",
+       "children": [
+        {
+         "name": "DN",
+         "tip": "Data Network",
+         "group": "",
+         "children": [
+          {
+           "name": "SNet",
+           "tip": "Secured Network"
+          },
+          {
+           "name": "SDN",
+           "tip": "Software Defined Network"
+          },
+          {
+           "name": "NMS",
+           "tip": "Network Managed Services"
+          },
+          {
+           "name": "NIS",
+           "tip": "Network Intervention Service"
+          },
+          {
+           "name": "Natacha",
+           "tip": "Network and Telecom Acquisition CHAnnel"
+          },
+          {
+           "name": "SHS",
+           "tip": "Secure Hosting Service"
+          },
+          {
+           "name": "VRF",
+           "tip": "Virtual Routing and Forwarding"
+          },
+          {
+           "name": "WAF",
+           "tip": "Web Application Firewall",
+           "url": "https://en.wikipedia.org/wiki/Web_application_firewall"
+          },
+          {
+           "name": "SID",
+           "tip": "Semantic Information Database (CMDB)",
+           "children": [
+            {
+             "name": "Scrat",
+             "tip": "Write access to SID"
+            },
+            {
+             "name": "Diego",
+             "tip": "Read-only access to SID"
+            },
+            {
+             "name": "CRUD/View",
+             "tip": "Direct SID access"
+            }
+           ]
+          },
+          {
+           "name": "PUMA"
+          }
+         ]
+        },
+        {
+         "name": "TA",
+         "tip": "Telecom Applications",
+         "group": "",
+         "children": [
+          {
+           "name": "VICTORIA",
+           "tip": "Video Conference, Telephony & Real time communications Infrastructure & Applications"
+          },
+          {
+           "name": "CdC",
+           "tip": "Cellule de Cordination"
+          },
+          {
+           "name": "VNMC",
+           "tip": "Voice Network Management Center"
+          },
+          {
+           "name": "SfB",
+           "tip": "Skype for Business"
+          },
+          {
+           "name": "SfM",
+           "tip": "Skype for Mobile"
+          },
+          {
+           "name": "CUCM",
+           "tip": "Cisco Unified Call Manager"
+          },
+          {
+           "name": "CMS",
+           "tip": "Cisco Meeting Server"
+          },
+          {
+           "name": "iCall"
+          },
+          {
+           "name": "MTS",
+           "tip": "Mobile Telephony Service"
+          },
+          {
+           "name": "DPS"
+          },
+          {
+           "name": "PABX",
+           "tip": "Private Automatic Branch eXchange",
+           "url": "https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange"
+          },
+          {
+           "name": "PSTN",
+           "tip": "Public Switched Telephone Network",
+           "url": "https://en.wikipedia.org/wiki/Public_switched_telephone_network"
+          },
+          {
+           "name": "PXS"
+          },
+          {
+           "name": "SDP"
+          },
+          {
+           "name": "TDM",
+           "tip": "Time Division Multiplexing",
+           "url": "https://en.wikipedia.org/wiki/Time-division_multiplexing"
+          },
+          {
+           "name": "UCC",
+           "url": "https://en.wikipedia.org/wiki/Unified_communications",
+           "tip": "Unified Communications & Collaboration"
+          },
+          {
+           "name": "VC",
+           "tip": "Visio Conference"
+          },
+          {
+           "name": "WACS"
+          }
+         ]
+        },
+        {
+         "name": "QPC",
+         "tip": "Quality / business Process / Contract management",
+         "group": "",
+         "children": [
+          {
+           "name": "BPM",
+           "tip": "Business Process Management"
+          },
+          {
+           "name": "TOP3",
+           "tip": "Telephone Providing contract (InfoTel)"
+          },
+          {
+           "name": "EXICON"
+          },
+          {
+           "name": "INASS"
+          },
+          {
+           "name": "ENS"
+          },
+          {
+           "name": "CSI",
+           "tip": "Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)"
+          },
+          {
+           "name": "RACHEL"
+          },
+          {
+           "name": "SIDE2"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "C.5",
+       "children": [
+        {
+         "name": "EUSS",
+         "tip": "End User Support Service"
+        },
+        {
+         "name": "YUM"
+        }
+       ]
+      },
+      {
+       "name": "C.6",
+       "children": [
+        {
+         "name": "NUPS",
+         "tip": "Network Users Proximity Service"
+        },
+        {
+         "name": "MDM",
+         "tip": "Mobile Devices Management"
+        }
+       ]
+      },
+      {
+       "name": "D.3",
+       "children": [
+        {
+         "name": "IAM",
+         "tip": "Identity & Access Management"
+        },
+        {
+         "name": "COMREF"
+        },
+        {
+         "name": "CED"
+        },
+        {
+         "name": "CUD"
+        },
+        {
+         "name": "ADPS",
+         "tip": "Active Directory Provisioning Service"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "EU",
    "children": [
     {
@@ -63,7 +336,17 @@
       {
        "name": "CERT-EU",
        "tip": "News Monitor",
-       "url": "https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
+       "url": "https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html",
+       "children": [
+        {
+         "name": "CVE",
+         "tip": "Common Vulnerability Enumeration"
+        },
+        {
+         "name": "CPE",
+         "tip": "Commom Platform Enumeration"
+        }
+       ]
       }
      ]
     },

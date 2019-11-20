@@ -9,6 +9,128 @@ Bookmarks
 		Wikipedia
 		u:"http://en.wikipedia.org/wiki/Main_Page"
 
+	Glossary
+		Global
+		CMB
+		t:Corporate Management Board
+		EPPO
+		t:European Public Prosecutor's Office
+		DiGIT
+			GovTech
+			t:GovTech aims to build better services for citizens and better tools for public servants.
+			MAP
+			t:Multi Annual Planning tool (using Chrome or Firefox)
+			u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
+			HLPI
+			t:High Level Performance Indicators
+			SACI
+			t:Sevice Asset & Configuration Items
+			SDM
+			t:Service Delivery Manager
+			C
+				DWP
+				t:Digital WorkPlace (C3, C5, C6)
+			C.4
+				DN
+				t:Data Network
+				g:
+					SNet
+					t:Secured Network
+					SDN
+					t:Software Defined Network
+					NMS
+					t:Network Managed Services
+					NIS
+					t:Network Intervention Service
+					Natacha
+					t:Network and Telecom Acquisition CHAnnel
+					SHS
+					t:Secure Hosting Service
+					VRF
+					t:Virtual Routing and Forwarding
+					WAF
+					t:Web Application Firewall
+					u:https://en.wikipedia.org/wiki/Web_application_firewall
+					SID
+					t:Semantic Information Database (CMDB)
+						Scrat
+						t:Write access to SID
+						Diego
+						t:Read-only access to SID
+						CRUD/View
+						t:Direct SID access
+					PUMA
+
+				TA
+				t:Telecom Applications
+				g:
+					VICTORIA
+					t:Video Conference, Telephony & Real time communications Infrastructure & Applications
+					CdC
+					t:Cellule de Cordination
+					VNMC
+					t:Voice Network Management Center
+					SfB
+					t:Skype for Business
+					SfM
+					t:Skype for Mobile
+					CUCM
+					t:Cisco Unified Call Manager
+					CMS
+					t:Cisco Meeting Server
+					iCall
+					MTS
+					t:Mobile Telephony Service
+					DPS
+					PABX
+					t:Private Automatic Branch eXchange
+					u:https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
+					PSTN
+					t:Public Switched Telephone Network
+					u:https://en.wikipedia.org/wiki/Public_switched_telephone_network
+					PXS
+					SDP
+					TDM
+					t:Time Division Multiplexing
+					u:https://en.wikipedia.org/wiki/Time-division_multiplexing
+					UCC
+					u:https://en.wikipedia.org/wiki/Unified_communications
+					t:Unified Communications & Collaboration
+					VC
+					t:Visio Conference
+					WACS
+
+				QPC
+				t:Quality / business Process / Contract management
+				g:
+					BPM
+					t:Business Process Management
+					TOP3
+					t:Telephone Providing contract (InfoTel)
+					EXICON
+					INASS
+					ENS
+					CSI
+					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
+					RACHEL
+					SIDE2
+			C.5
+				EUSS
+				t:End User Support Service
+				YUM
+			C.6
+				NUPS
+				t:Network Users Proximity Service
+				MDM
+				t:Mobile Devices Management
+			D.3
+				IAM
+				t:Identity & Access Management
+				COMREF
+				CED
+				CUD
+				ADPS
+				t:Active Directory Provisioning Service
 # - - - - - - -
 	EU
 		Common
@@ -31,6 +153,10 @@ Bookmarks
 			CERT-EU
 			t:News Monitor
 			u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
+				CVE
+				t:Common Vulnerability Enumeration
+				CPE
+				t:Commom Platform Enumeration
 # - - - - - - -
 		EC
 			Office365
