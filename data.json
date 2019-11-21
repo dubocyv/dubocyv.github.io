@@ -77,7 +77,7 @@
         {
          "name": "DN",
          "tip": "Data Network",
-         "group": "",
+         "sort": "",
          "children": [
           {
            "name": "SNet",
@@ -138,7 +138,7 @@
         {
          "name": "TA",
          "tip": "Telecom Applications",
-         "group": "",
+         "sort": "",
          "children": [
           {
            "name": "VICTORIA",
@@ -216,7 +216,7 @@
         {
          "name": "QPC",
          "tip": "Quality / business Process / Contract management",
-         "group": "",
+         "sort": "",
          "children": [
           {
            "name": "BPM",
