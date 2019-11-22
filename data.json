@@ -637,6 +637,25 @@
        ]
       },
       {
+       "name": "Budg",
+       "children": [
+        {
+         "name": "BudgWeb",
+         "url": "https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx",
+         "children": [
+          {
+           "name": "Training",
+           "url": "https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/training-guide.aspx"
+          }
+         ]
+        },
+        {
+         "name": "Budget en ligne",
+         "url": "https://eur-lex.europa.eu/budget/www/index-fr.htm"
+        }
+       ]
+      },
+      {
        "name": "Trade",
        "url": "https://myintracomm.ec.europa.eu/dg/trade/",
        "children": [

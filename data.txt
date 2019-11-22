@@ -297,6 +297,14 @@ Bookmarks
 				u:http://www.cc.cec/OIB/intranet/plans/index.cfm
 
 # - - - - - - -
+			Budg
+				BudgWeb
+				u:https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx
+					Training
+					u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/training-guide.aspx
+				Budget en ligne
+				u:https://eur-lex.europa.eu/budget/www/index-fr.htm
+# - - - - - - -
 			Trade
 			u:"https://myintracomm.ec.europa.eu/dg/trade/"
 				Internet Trade Websites
