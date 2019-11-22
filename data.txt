@@ -33,7 +33,7 @@ Bookmarks
 			C.4
 				DN
 				t:Data Network
-				g:
+				s:
 					SNet
 					t:Secured Network
 					SDN
@@ -63,7 +63,7 @@ Bookmarks
 
 				TA
 				t:Telecom Applications
-				g:
+				s:
 					VICTORIA
 					t:Video Conference, Telephony & Real time communications Infrastructure & Applications
 					CdC
@@ -103,7 +103,7 @@ Bookmarks
 
 				QPC
 				t:Quality / business Process / Contract management
-				g:
+				s:
 					BPM
 					t:Business Process Management
 					TOP3 (fwc)
