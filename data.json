@@ -80,16 +80,38 @@
          "sort": "",
          "children": [
           {
-           "name": "SNet",
-           "tip": "Secured Network"
+           "name": "NMS",
+           "tip": "Network Managed Services (fwc)",
+           "children": [
+            {
+             "name": "SNet",
+             "tip": "Secured Network",
+             "children": [
+              {
+               "name": "SID",
+               "tip": "Semantic Information Database (CMDB)",
+               "children": [
+                {
+                 "name": "Scrat",
+                 "tip": "Write access to SID"
+                },
+                {
+                 "name": "Diego",
+                 "tip": "Read-only access to SID"
+                },
+                {
+                 "name": "CRUD/View",
+                 "tip": "Direct SID access"
+                }
+               ]
+              }
+             ]
+            }
+           ]
           },
           {
            "name": "SDN",
            "tip": "Software Defined Network"
-          },
-          {
-           "name": "NMS",
-           "tip": "Network Managed Services (fwc)"
           },
           {
            "name": "NIS",
@@ -111,27 +133,6 @@
            "name": "WAF",
            "tip": "Web Application Firewall",
            "url": "https://en.wikipedia.org/wiki/Web_application_firewall"
-          },
-          {
-           "name": "SID",
-           "tip": "Semantic Information Database (CMDB)",
-           "children": [
-            {
-             "name": "Scrat",
-             "tip": "Write access to SID"
-            },
-            {
-             "name": "Diego",
-             "tip": "Read-only access to SID"
-            },
-            {
-             "name": "CRUD/View",
-             "tip": "Direct SID access"
-            }
-           ]
-          },
-          {
-           "name": "PUMA"
           }
          ]
         },
@@ -522,6 +523,7 @@
           },
           {
            "name": "SNet",
+           "tip": "Secured Network",
            "url": "https://intragate.ec.europa.eu/snet",
            "children": [
             {

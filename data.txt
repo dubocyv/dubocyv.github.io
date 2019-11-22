@@ -34,12 +34,20 @@ Bookmarks
 				DN
 				t:Data Network
 				s:
-					SNet
-					t:Secured Network
-					SDN
-					t:Software Defined Network
 					NMS
 					t:Network Managed Services (fwc)
+						SNet
+						t:Secured Network
+							SID
+							t:Semantic Information Database (CMDB)
+								Scrat
+								t:Write access to SID
+								Diego
+								t:Read-only access to SID
+								CRUD/View
+								t:Direct SID access
+					SDN
+					t:Software Defined Network
 					NIS
 					t:Network Intervention Service (fwc)
 					Natacha (fwc)
@@ -51,15 +59,6 @@ Bookmarks
 					WAF
 					t:Web Application Firewall
 					u:https://en.wikipedia.org/wiki/Web_application_firewall
-					SID
-					t:Semantic Information Database (CMDB)
-						Scrat
-						t:Write access to SID
-						Diego
-						t:Read-only access to SID
-						CRUD/View
-						t:Direct SID access
-					PUMA
 
 				TA
 				t:Telecom Applications
@@ -243,6 +242,7 @@ Bookmarks
 						u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
 
 					SNet
+					t:Secured Network
 					u:"https://intragate.ec.europa.eu/snet"
 						Kate (SNet Portal)
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
