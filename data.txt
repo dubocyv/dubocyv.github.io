@@ -33,16 +33,16 @@ Bookmarks
 			C.4
 				DN
 				t:Data Network
-				s:
+				g:
 					SNet
 					t:Secured Network
 					SDN
 					t:Software Defined Network
 					NMS
-					t:Network Managed Services
+					t:Network Managed Services (fwc)
 					NIS
-					t:Network Intervention Service
-					Natacha
+					t:Network Intervention Service (fwc)
+					Natacha (fwc)
 					t:Network and Telecom Acquisition CHAnnel
 					SHS
 					t:Secure Hosting Service
@@ -63,7 +63,7 @@ Bookmarks
 
 				TA
 				t:Telecom Applications
-				s:
+				g:
 					VICTORIA
 					t:Video Conference, Telephony & Real time communications Infrastructure & Applications
 					CdC
@@ -79,7 +79,7 @@ Bookmarks
 					CMS
 					t:Cisco Meeting Server
 					iCall
-					MTS
+					MTS (fwc)
 					t:Mobile Telephony Service
 					DPS
 					PABX
@@ -98,28 +98,29 @@ Bookmarks
 					t:Unified Communications & Collaboration
 					VC
 					t:Visio Conference
-					WACS
+					WACS (fwc)
+					t:Web Audio Conferencing Service
 
 				QPC
 				t:Quality / business Process / Contract management
-				s:
+				g:
 					BPM
 					t:Business Process Management
-					TOP3
+					TOP3 (fwc)
 					t:Telephone Providing contract (InfoTel)
-					EXICON
+					EXICON (fwc)
 					INASS
 					ENS
 					CSI
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
-					RACHEL
-					SIDE2
+					RACHEL (fwc)
+					SIDE2 (fwc)
 			C.5
-				EUSS
+				EUSS (fwc)
 				t:End User Support Service
 				YUM
 			C.6
-				NUPS
+				NUPS (fwc)
 				t:Network Users Proximity Service
 				MDM
 				t:Mobile Devices Management
