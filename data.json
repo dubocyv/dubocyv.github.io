@@ -1602,8 +1602,13 @@
    ]
   },
   {
-   "name": "Programming",
+   "name": "Tech references",
    "children": [
+    {
+     "name": "Library",
+     "url": "https://docstore.mik.ua/orelly/bookshelfs.html",
+     "tip": "O'Reilly's CD bookshelf"
+    },
     {
      "name": "ANT Tutorial",
      "url": "https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html"

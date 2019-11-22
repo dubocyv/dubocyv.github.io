@@ -776,7 +776,10 @@ Bookmarks
 					RAMP
 					u:/ramp/
 # - - - - - - -
-	Programming
+	Tech references
+		Library
+		u:https://docstore.mik.ua/orelly/bookshelfs.html
+		t:O'Reilly's CD bookshelf
 		ANT Tutorial
 		u:"https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html"
 		JDK 11
