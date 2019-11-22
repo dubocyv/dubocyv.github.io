@@ -27,7 +27,13 @@
    "children": [
     {
      "name": "Global",
+     "sort": "",
      "children": [
+      {
+       "name": "ISA²",
+       "tip": "Interoperability solutions for public administrations, businesses and citizens",
+       "url": "https://ec.europa.eu/isa2"
+      },
       {
        "name": "CMB",
        "tip": "Corporate Management Board"
@@ -185,10 +191,21 @@
            "url": "https://en.wikipedia.org/wiki/Public_switched_telephone_network"
           },
           {
-           "name": "PXS"
+           "name": "PXS",
+           "tip": "Proximus"
           },
           {
-           "name": "SDP"
+           "name": "SBC",
+           "tip": "Session Border Controller",
+           "url": "https://en.wikipedia.org/wiki/Session_border_controller"
+          },
+          {
+           "name": "Sonus",
+           "tip": "Gateway TDM to IP (used with Skype for Business)"
+          },
+          {
+           "name": "SDP",
+           "tip": "Service Design Package"
           },
           {
            "name": "TDM",

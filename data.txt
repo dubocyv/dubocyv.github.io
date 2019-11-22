@@ -11,6 +11,10 @@ Bookmarks
 
 	Glossary
 		Global
+		s:
+			ISA²
+			t:Interoperability solutions for public administrations, businesses and citizens
+			u:https://ec.europa.eu/isa2
 			CMB
 			t:Corporate Management Board
 			EPPO
@@ -85,7 +89,14 @@ Bookmarks
 					t:Public Switched Telephone Network
 					u:https://en.wikipedia.org/wiki/Public_switched_telephone_network
 					PXS
+					t:Proximus
+					SBC
+					t:Session Border Controller
+					u:https://en.wikipedia.org/wiki/Session_border_controller
+					Sonus
+					t:Gateway TDM to IP (used with Skype for Business)
 					SDP
+					t:Service Design Package
 					TDM
 					t:Time Division Multiplexing
 					u:https://en.wikipedia.org/wiki/Time-division_multiplexing
