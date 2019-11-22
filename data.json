@@ -637,7 +637,8 @@
        ]
       },
       {
-       "name": "Budg",
+       "name": "BUDG",
+       "url": "https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx",
        "children": [
         {
          "name": "BudgWeb",

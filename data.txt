@@ -297,7 +297,8 @@ Bookmarks
 				u:http://www.cc.cec/OIB/intranet/plans/index.cfm
 
 # - - - - - - -
-			Budg
+			BUDG
+			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
 				BudgWeb
 				u:https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx
 					Training
