@@ -34,7 +34,7 @@ Bookmarks
 				DN
 				t:Data Network
 				s:
-					NMS
+					NMS (fwc)
 					t:Network Managed Services (fwc)
 						SNet
 						t:Secured Network
@@ -48,7 +48,7 @@ Bookmarks
 								t:Direct SID access
 					SDN
 					t:Software Defined Network
-					NIS
+					NIS (fwc)
 					t:Network Intervention Service (fwc)
 					Natacha (fwc)
 					t:Network and Telecom Acquisition CHAnnel

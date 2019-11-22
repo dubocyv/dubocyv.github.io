@@ -80,7 +80,7 @@
          "sort": "",
          "children": [
           {
-           "name": "NMS",
+           "name": "NMS (fwc)",
            "tip": "Network Managed Services (fwc)",
            "children": [
             {
@@ -114,7 +114,7 @@
            "tip": "Software Defined Network"
           },
           {
-           "name": "NIS",
+           "name": "NIS (fwc)",
            "tip": "Network Intervention Service (fwc)"
           },
           {
