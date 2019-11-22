@@ -160,6 +160,7 @@ Bookmarks
 				t:Commom Platform Enumeration
 # - - - - - - -
 		EC
+		u:https://myintracomm.ec.europa.eu/
 			Office365
 			u:"https://www.office.com/?auth=2&home=1"
 				OneDrive
@@ -293,6 +294,9 @@ Bookmarks
 
 # - - - - - - -
 			OIB
+				Where2Go
+				t:Commission's buildings map
+				u:https://webgate.ec.europa.eu/where2go/home
 				Building plans
 				u:http://www.cc.cec/OIB/intranet/plans/index.cfm
 

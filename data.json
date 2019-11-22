@@ -364,6 +364,7 @@
     },
     {
      "name": "EC",
+     "url": "https://myintracomm.ec.europa.eu/",
      "children": [
       {
        "name": "Office365",
@@ -630,6 +631,11 @@
       {
        "name": "OIB",
        "children": [
+        {
+         "name": "Where2Go",
+         "tip": "Commission's buildings map",
+         "url": "https://webgate.ec.europa.eu/where2go/home"
+        },
         {
          "name": "Building plans",
          "url": "http://www.cc.cec/OIB/intranet/plans/index.cfm"
