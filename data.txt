@@ -71,13 +71,10 @@ Bookmarks
 					t:Voice Network Management Center
 					SfB
 					t:Skype for Business
+						iCall
+						t:Helpdesk functionalities
 					SfM
 					t:Skype for Mobile
-					CUCM
-					t:Cisco Unified Call Manager
-					CMS
-					t:Cisco Meeting Server
-					iCall
 					MTS (fwc)
 					t:Mobile Telephony Service
 					DPS
@@ -97,8 +94,10 @@ Bookmarks
 					t:Unified Communications & Collaboration
 					VC
 					t:Visio Conference
-					WACS (fwc)
-					t:Web Audio Conferencing Service
+						CUCM
+						t:Cisco Unified Call Manager
+						CMS
+						t:Cisco Meeting Server
 
 				QPC
 				t:Quality / business Process / Contract management
@@ -114,6 +113,8 @@ Bookmarks
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
 					RACHEL (fwc)
 					SIDE2 (fwc)
+					WACS (fwc)
+					t:Web Audio Conferencing Service
 			C.5
 				EUSS (fwc)
 				t:End User Support Service

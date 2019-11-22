@@ -155,22 +155,17 @@
           },
           {
            "name": "SfB",
-           "tip": "Skype for Business"
+           "tip": "Skype for Business",
+           "children": [
+            {
+             "name": "iCall",
+             "tip": "Helpdesk functionalities"
+            }
+           ]
           },
           {
            "name": "SfM",
            "tip": "Skype for Mobile"
-          },
-          {
-           "name": "CUCM",
-           "tip": "Cisco Unified Call Manager"
-          },
-          {
-           "name": "CMS",
-           "tip": "Cisco Meeting Server"
-          },
-          {
-           "name": "iCall"
           },
           {
            "name": "MTS (fwc)",
@@ -207,11 +202,17 @@
           },
           {
            "name": "VC",
-           "tip": "Visio Conference"
-          },
-          {
-           "name": "WACS (fwc)",
-           "tip": "Web Audio Conferencing Service"
+           "tip": "Visio Conference",
+           "children": [
+            {
+             "name": "CUCM",
+             "tip": "Cisco Unified Call Manager"
+            },
+            {
+             "name": "CMS",
+             "tip": "Cisco Meeting Server"
+            }
+           ]
           }
          ]
         },
@@ -246,6 +247,10 @@
           },
           {
            "name": "SIDE2 (fwc)"
+          },
+          {
+           "name": "WACS (fwc)",
+           "tip": "Web Audio Conferencing Service"
           }
          ]
         }
