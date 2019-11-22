@@ -1602,10 +1602,10 @@
    ]
   },
   {
-   "name": "Tech references",
+   "name": "Library & refs",
    "children": [
     {
-     "name": "Library",
+     "name": "O'Reilly",
      "url": "https://docstore.mik.ua/orelly/bookshelfs.html",
      "tip": "O'Reilly's CD bookshelf"
     },

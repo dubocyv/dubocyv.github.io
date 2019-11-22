@@ -776,8 +776,8 @@ Bookmarks
 					RAMP
 					u:/ramp/
 # - - - - - - -
-	Tech references
-		Library
+	Library & refs
+		O'Reilly
 		u:https://docstore.mik.ua/orelly/bookshelfs.html
 		t:O'Reilly's CD bookshelf
 		ANT Tutorial
