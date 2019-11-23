@@ -318,18 +318,122 @@
 	<link rel="stylesheet" type="text/css" href="/css/epsdMenu.css">
 	<script>document.addEventListener("keyup", function(event) {var E=document.getElementById("HM").style;if (event.shiftKey) {switch (event.keyCode) {case 32:E.display.length &&(E.display != "block") ?E.display = "block" :E.display = "none";break;case 60:case 220:case 226:E.right = "0px";E.display = "block";break;}}else {switch (event.keyCode) {case 27:E.right = "0px";E.display = "block";break;case 32:E.right.length &&(E.right != "0px") ?E.right = "0px" :E.right = "-10px";break;case 60:case 220:case 226:E.right = "-10px";E.display = "none";break;}}});</script>
 	<div id="HM" class="cont-hiddenMenu">
-<!--
+
 	<div id="cmdb" class="flex-cont-HM">
 	<div id=Title>
-	CMDB</div>
+	Search</div>
 	<div class="flex-item-HM">
+	<form id="search-box" role="search-form">
+          <div class="search-box-line">
+            <input type="text" class="searchinput" id="searchinput" autocomplete="off" name="q" list="search-autocomplete-list" placeholder="What are you looking for?">
+            <datalist id="search-autocomplete-list"></datalist>
+            <div class="option-container">
+              <select name="searchtype" class="selectpicker search-type">
+                <option value="">Web</option>
+                <option value="news">News</option>
+              </select>
+              <select name="qlangcountry" class="selectpicker language">
+                <option value="">Any Country</option>
+                <option value="en-us">United States (English)</option>
+                <option value="en-uk">United Kingdom (English)</option>
+                <option value="en-ca">Canada (English)</option>
+                <option value="en-au">Australia (English)</option>
+                <option value="pt-ao">Angola (Português)</option>
+                <option value="es-ar">Argentina (Español)</option>
+                <option value="en-au">Australia (English)</option>
+                <option value="de-at">Austria (Deutsch)</option>
+                <option value="ar-bh">Bahrain (عَرَبِيّ‎)</option>
+                <option value="en-bb">Barbados (English)</option>
+                <option value="ru-by">Belarus (Россия)</option>
+                <option value="nl-be">Belgium (Dutch)</option>
+                <option value="fr-be">Belgium (Français)</option>
+                <option value="pt-br">Brazil (Português)</option>
+                <option value="en-vg">British Virgin Islands (English)</option>
+                <option value="bg-bg">Bulgaria (български)</option>
+                <option value="en-ca">Canada (English)</option>
+                <option value="fr-ca">Canada (Français)</option>
+                <option value="es-cl">Chile (Español)</option>
+                <option value="es-co">Colombia (Español)</option>
+                <option value="es-cr">Costa Rica (Español)</option>
+                <option value="es-cu">Cuba (Español)</option>
+                <option value="el-cy">Cyprus (ελληνικά)</option>
+                <option value="tr-cy">Cyprus (Türkiye)</option>
+                <option value="cs-cz">Czech Republic (Čeština)</option>
+                <option value="da-dk">Denmark (Dansk)</option>
+                <option value="es-do">Dominican Republic (Español)</option>
+                <option value="es-ec">Ecuador (Español)</option>
+                <option value="ar-eg">Egypt (عَرَبِيّ‎)</option>
+                <option value="fi-fi">Finland (Suomi)</option>
+                <option value="sv-fi">Finland (Svenska)</option>
+                <option value="fr-fr">France (Français)</option>
+                <option value="de-de">Germany (Deutsch)</option>
+                <option value="el-gr">Greece (ελληνικά)</option>
+                <option value="es-gt">Guatemala (Español)</option>
+                <option value="es-hn">Honduras (Español)</option>
+                <option value="hu-hu">Hungary (Magyarország)</option>
+                <option value="is-is">Iceland (Islenska)</option>
+                <option value="en-in">India (English)</option>
+                <option value="hi-in">India (हिन्दी )</option>
+                <option value="id-id">Indonesia (baˈhasa indoneˈsia)</option>
+                <option value="fa-ir">Iran (فارسی )</option>
+                <option value="ar-iq">Iraq (عَرَبِيّ‎)</option>
+                <option value="en-ie">Ireland (English)</option>
+                <option value="he-il">Israel (עִבְרִית‬)</option>
+                <option value="it-it">Italy (Italiano)</option>
+                <option value="ru-kz">Kazakhstan (Россия)</option>
+                <option value="lv-lv">Latvia (Latviešu Valoda)</option>
+                <option value="lt-lt">Lithuania (Lietuva)</option>
+                <option value="lb-lu">Luxembourg (Lëtzebuergesch)</option>
+                <option value="fr-mu">Mauritius (Français)</option>
+                <option value="es-mx">Mexico (Español)</option>
+                <option value="ro-md">Moldavia (Românește)</option>
+                <option value="ar-ma">Morocco (عَرَبِيّ‎)</option>
+                <option value="nl-nl">Netherlands (Dutch)</option>
+                <option value="en-nz">New Zealand (English)</option>
+                <option value="no-no">Norway (Norsk)</option>
+                <option value="es-pa">Panama (Español)</option>
+                <option value="es-py">Paraguay (Español)</option>
+                <option value="es-pe">Peru (Español)</option>
+                <option value="pl-pl">Poland (Polszczyzna)</option>
+                <option value="pt-pt">Portugal (Português)</option>
+                <option value="es-pr">Puerto Rico (Español)</option>
+                <option value="ro-ro">Romania (Românește)</option>
+                <option value="ru-ru">Russia (Россия)</option>
+                <option value="sr-rs">Serbia (български)</option>
+                <option value="en-sg">Singapore (English)</option>
+                <option value="en-za">South Africa (English)</option>
+                <option value="es-es">Spain (Español)</option>
+                <option value="nl-sr">Suriname (Dutch)</option>
+                <option value="sv-se">Sweden (Svenska)</option>
+                <option value="fr-ch">Switzerland (Français)</option>
+                <option value="de-ch">Switzerland (Deutsch)</option>
+                <option value="th-th">Thailand (ประเทศไทย)</option>
+                <option value="ar-tn">Tunisia (عَرَبِيّ‎)</option>
+                <option value="tr-tr">Turkey (Türkiye)</option>
+                <option value="en-tv">Tuvalu (English)</option>
+                <option value="ar-ae">United Arab Emirates (عَرَبِيّ)</option>
+                <option value="en-uk">United Kingdom (English)</option>
+                <option value="en-us">United States (English)</option>
+                <option value="es-us">United States (Español)</option>
+                <option value="es-uy">Uruguay (Español)</option>
+                <option value="es-ve">Venezuela (Español)</option>
+              </select>
+            </div>
+            <a class="btn btn-primary search-btn" data-ss1574512213="1">
+              <button type="submit" disabled="">
+                <span data-template-key="ready">Search</span>
+                <div data-template-key="searching" class="search-btn-spinner" style="display:none"></div>
+              </button>
+            </a>
+          </div>
+        </form>
 	<form target="_blank" action="/cgi-bin-opr/getCmdbInfo.cgi">
 	CI name<br>
 	<input type="text" value="" name="name" >
 	</form>
 	</div>
 	</div>
--->
+
 	<div id="epsd" class="flex-cont-HM">
 	<div id=Title>
 	SMT</div>
