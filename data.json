@@ -260,7 +260,8 @@
            "tip": "Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)"
           },
           {
-           "name": "RACHEL (fwc)"
+           "name": "RACHEL (fwc)",
+           "tip": "Remote Access to Commission Hosted Environments"
           },
           {
            "name": "SIDE2 (fwc)"
