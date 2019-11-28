@@ -1128,7 +1128,8 @@
                  "name": "Search",
                  "children": [
                   {
-                   "name": "Sherlock"
+                   "name": "Sherlock",
+                   "url": "https://sherlock.snmc.cec.eu.int/"
                   }
                  ]
                 }
@@ -1282,7 +1283,8 @@
                  "name": "ADSL-like",
                  "children": [
                   {
-                   "name": "CashRegister Checking"
+                   "name": "CashRegister Checking",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl"
                   },
                   {
                    "name": "ADSL-like List: Active",
@@ -1452,7 +1454,8 @@
                  "url": "https://splunk.tech.ec.europa.eu/"
                 },
                 {
-                 "name": "Paul Schou xlate"
+                 "name": "Paul Schou xlate",
+                 "url": "https://intragate.ec.europa.eu/snet/xlate.php"
                 },
                 {
                  "name": "Phonetic",
@@ -1474,7 +1477,8 @@
                  "name": "SMT",
                  "children": [
                   {
-                   "name": "SMT6 prod"
+                   "name": "SMT6 prod",
+                   "url": "https://intragate.ec.europa.eu/smtweb/index.do"
                   }
                  ]
                 },
@@ -1486,7 +1490,8 @@
                    "url": "https://s-vmaestro14.net1.cec.eu.int:9443/vsphere-client/"
                   },
                   {
-                   "name": "Vcenter Dev"
+                   "name": "Vcenter Dev",
+                   "url": "https://vsphere55.snmc.cec.eu.int:9443/vsphere-client/"
                   }
                  ]
                 }
@@ -1527,7 +1532,8 @@
                    "url": "https://intragate.ec.europa.eu/snet/vulnerability/"
                   },
                   {
-                   "name": "Reporting"
+                   "name": "Reporting",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/vulnerability/vulnerability_reports.pl"
                   }
                  ]
                 }

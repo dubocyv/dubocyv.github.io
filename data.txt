@@ -514,6 +514,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/blacklist/central_policy.txt
 								Search
 									Sherlock
+									u:https://sherlock.snmc.cec.eu.int/
 
 							Remote Access
 								Check
@@ -572,6 +573,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/SC_Check.pl
 								ADSL-like
 									CashRegister Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl
 									ADSL-like List: Active
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_list
 									ADSL-like List: History
@@ -645,6 +647,7 @@ Bookmarks
 								Splunk
 								u:https://splunk.tech.ec.europa.eu/
 								Paul Schou xlate
+								u:https://intragate.ec.europa.eu/snet/xlate.php
 								Phonetic
 								u:https://intragate.ec.europa.eu/snet/alpha.html
 								RE Subnet Generator
@@ -655,10 +658,12 @@ Bookmarks
 								u:https://intragate.ec.europa.eu/smtweb/index.do
 								SMT
 									SMT6 prod
+									u:https://intragate.ec.europa.eu/smtweb/index.do
 								VMware
 									Vcenter Prod
 									u:https://s-vmaestro14.net1.cec.eu.int:9443/vsphere-client/
 									Vcenter Dev
+									u:https://vsphere55.snmc.cec.eu.int:9443/vsphere-client/
 
 							Vulnerability
 								Check
@@ -675,6 +680,7 @@ Bookmarks
 									Vulnerability List
 									u:https://intragate.ec.europa.eu/snet/vulnerability/
 									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/vulnerability/vulnerability_reports.pl
 
 							WIFI
 								Cisco PI
