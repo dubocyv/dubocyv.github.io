@@ -648,7 +648,7 @@
                "name": "Bluegios",
                "children": [
                 {
-                 "name": "Service	",
+                 "name": "Service",
                  "children": [
                   {
                    "name": "INT JMO",
@@ -772,7 +772,7 @@
                "name": "Firewall",
                "children": [
                 {
-                 "name": "Check	",
+                 "name": "Check",
                  "children": [
                   {
                    "name": "Anomalie tracker",
@@ -801,7 +801,7 @@
                  ]
                 },
                 {
-                 "name": "Algo FW EC	",
+                 "name": "Algo FW EC",
                  "children": [
                   {
                    "name": "FW1bx Rules",
@@ -890,7 +890,7 @@
                  ]
                 },
                 {
-                 "name": "IR01 ACL	",
+                 "name": "IR01 ACL",
                  "children": [
                   {
                    "name": "DMZ SID list",
@@ -912,7 +912,7 @@
                  ]
                 },
                 {
-                 "name": "Search	",
+                 "name": "Search",
                  "children": [
                   {
                    "name": "Sherlock FW",
@@ -960,7 +960,7 @@
                  ]
                 },
                 {
-                 "name": "Report	",
+                 "name": "Report",
                  "children": [
                   {
                    "name": "VRF SID list",
@@ -1349,7 +1349,7 @@
                "name": "SMARTS",
                "children": [
                 {
-                 "name": "Analyse	",
+                 "name": "Analyse",
                  "children": [
                   {
                    "name": "SNMP Traps Analyse",
@@ -1362,7 +1362,7 @@
                  ]
                 },
                 {
-                 "name": "Problem Mgt	",
+                 "name": "Problem Mgt",
                  "children": [
                   {
                    "name": "Class Graphs Monthly",

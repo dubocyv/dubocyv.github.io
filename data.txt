@@ -311,7 +311,7 @@ Bookmarks
 								u:https://intragate.ec.europa.eu/snet/web2ldap/
 
 							Bluegios
-								Service	
+								Service
 									INT JMO
 									u:https://intragate.ec.europa.eu/snet/bluegios-int-jmo
 									INT HOST
@@ -355,7 +355,7 @@ Bookmarks
 									ReLog
 
 							Firewall
-								Check	
+								Check
 									Anomalie tracker
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/fwlogmgt/fw_anomalies_tracker.pl
 									FW Rules Auditing
@@ -368,7 +368,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl
 									Shared Apps
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/algosec.pl
-								Algo FW EC	
+								Algo FW EC
 									FW1bx Rules
 									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw100bx_root.html
 									FW1lu Rules
@@ -411,7 +411,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_lux_root.html
 									FW JRC ISP Rules
 									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwjrc_isp.html
-								IR01 ACL	
+								IR01 ACL
 									DMZ SID list
 									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=DMZ
 								Report
@@ -419,7 +419,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_147_67.pl?action=Submit&function=diego_Extract_network_147_67
 									DMZ List
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
-								Search	
+								Search
 									Sherlock FW
 									u:https://sherlock.snmc.cec.eu.int/cgi-bin/test.pl#tabs-2
 									IP from DMZ
@@ -438,7 +438,7 @@ Bookmarks
 								External Tools
 									Proteus
 									u:https://proteus.snmc.cec.eu.int/
-								Report	
+								Report
 									VRF SID list
 									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=VRF
 									Proteus History Search
@@ -570,12 +570,12 @@ Bookmarks
 									DMZ List
 
 							SMARTS
-								Analyse	
+								Analyse
 									SNMP Traps Analyse
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/daily_snmp-trap_chart.pl
 									Event Search
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/search_event.pl
-								Problem Mgt	
+								Problem Mgt
 									Class Graphs Monthly
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_class_pie.pl
 									Event Graphs Classly
