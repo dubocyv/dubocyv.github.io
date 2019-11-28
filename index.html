@@ -8,9 +8,7 @@
 	Bookmarks</title>
 	<link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
 	<link rel="stylesheet" type="text/css" href="/css/tree.css">
-<!--
 	<link rel="stylesheet" type="text/css" href="/css/menu.css">
--->
 	<link rel="stylesheet" type="text/css" href="/css/help.css">
 	<script src="/js/d3.min.js"></script>
 	<script src="/js/jquery.min.js"></script>
@@ -24,7 +22,6 @@
 </head>
 <body>
 	<nav role="navigation">
-<!--
 	<div id="menuToggle">
 	<input type="checkbox" id="mTC"/>
 	<span>
@@ -89,7 +86,6 @@
 	</a>
 	</ul>
 	</div>
--->
 	</nav>
 	<div id="logo">
 	<h2>
@@ -101,8 +97,10 @@
 	<br>
 	This page is a collection of bookmarks</span>
 	</h2>
+<!--
 	<h3 id="LastUpdt">
 	Last updated: 20191015 12:20</h3>
+-->
 	</div>
 	<div id="tree-container">
 	</div>
@@ -322,11 +320,10 @@
 	<link rel="stylesheet" type="text/css" href="/css/epsdMenu.css">
 	<script>document.addEventListener("keyup", function(event) {var E=document.getElementById("HM").style;if (event.shiftKey) {switch (event.keyCode) {case 32:E.display.length &&(E.display != "block") ?E.display = "block" :E.display = "none";break;case 60:case 220:case 226:E.right = "0px";E.display = "block";break;}}else {switch (event.keyCode) {case 27:E.right = "0px";E.display = "block";break;case 32:E.right.length &&(E.right != "0px") ?E.right = "0px" :E.right = "-10px";break;case 60:case 220:case 226:E.right = "-10px";E.display = "none";break;}}});</script>
 	<div id="HM" class="cont-hiddenMenu">
-
 <!--
 	<div id="cmdb" class="flex-cont-HM">
 	<div id=Title>
-	Search</div>
+	CMDB</div>
 	<div class="flex-item-HM">
 	<form target="_blank" action="/cgi-bin-opr/getCmdbInfo.cgi">
 	CI name<br>
@@ -334,7 +331,7 @@
 	</form>
 	</div>
 	</div>
-
+-->
 	<div id="epsd" class="flex-cont-HM">
 	<div id=Title>
 	SMT</div>
@@ -359,7 +356,6 @@
 	</div>
 	</div>
 	</div>
--->
 
 	<script>document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
 	<div id="Lfooter"><img src="/images/EClogo.svg"></div>
