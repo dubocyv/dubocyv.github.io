@@ -1,5 +1,6 @@
 Bookmarks
 	Dictionaries
+	s:
 		Google translate
 		u:"https://translate.google.com/#view=home&op=translate&sl=fr&tl=en"
 		Larousse
@@ -123,16 +124,18 @@ Bookmarks
 					t:Telephone Providing contract (InfoTel)
 					EXICON (fwc) *
 					INASS *
+#					t:Internet Access
 					ENS *
 					CSI
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
 					RACHEL (fwc)
 					t:Remote Access to Commission Hosted Environments
 					SIDE2 (fwc) *
-					TSE
-					t:Technical SErvice (provider's perspective)
-					BSE
-					t:Business SErvice (user's perspective)
+					Cost model
+						TSE
+						t:Technical Service Element (provider's perspective)
+						BSE
+						t:Business Service Element (user's perspective)
 					WACS (fwc)
 					t:Web Audio Conferencing Service
 			C.5
@@ -273,7 +276,6 @@ Bookmarks
 					SNet
 					t:Secured Network
 					s:
-#----------------------------
 						SNet site
 						u:"https://intragate.ec.europa.eu/snet"
 							DG tools
@@ -699,7 +701,7 @@ Bookmarks
 								u:https://intragate.ec.europa.eu/snet/cacti/
 								Prometheus-Grafana
 								u:https://intragate.ec.europa.eu/snet/grafana/
-#----------------------------
+
 						Kate (SNet Portal)
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
 							Perceval
@@ -775,12 +777,12 @@ Bookmarks
 					u:"https://webgate.ec.europa.eu/trade/intra"
 					DB 14(6)
 					u:"https://webgate.ec.europa.eu/db146"
-						Server Status
-						u:"https://webgate.ec.europa.eu/db146/serverAlive.jsp"
+#						Server Status
+#						u:"https://webgate.ec.europa.eu/db146/serverAlive.jsp"
 					DualUse
 					u:"https://webgate.ec.testa.eu/dualuse
-						Server Status
-						u:"https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
+#						Server Status
+#						u:"https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
 					EH
 					t:Export helpdesk
 					u:"https://trade.ec.europa.eu/tradehelp/"
@@ -791,11 +793,11 @@ Bookmarks
 					ISDB
 					t:Integrated Statistical DB
 					u:"https://webgate.ec.europa.eu/isdb"
-						Server Status
-						u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
+#						Server Status
+#						u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
 					Market access DB
-						Server Status
-						u:"http://madb.europa.eu/madb/serverAlive.jsp"
+#						Server Status
+#						u:"http://madb.europa.eu/madb/serverAlive.jsp"
 						Tariffs
 						u:"http://madb.europa.eu/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes="
 						Trade Barriers
@@ -807,12 +809,12 @@ Bookmarks
 					SIGL
 					t:Systeme Integre de Gestion des Licences
 					u:"https://webgate.ec.europa.eu/Sigl2"
-					Tron Server Status
-					u:"https://webgate.ec.europa.eu/tron/serverAlive.jsp"
+#					Tron Server Status
+#					u:"https://webgate.ec.europa.eu/tron/serverAlive.jsp"
 					ums
 					u:"https://webgate.ec.europa.eu/ums/applicationStatus.do"
-					NOTIF Server Status
-					u:"https://webgate.ec.europa.eu/notif/serverAlive.jsp"
+#					NOTIF Server Status
+#					u:"https://webgate.ec.europa.eu/notif/serverAlive.jsp"
 				Internal Websites
 					TRADE Intranet
 					u:"http://www.trade.cec.eu.int/intra/index.cfm"
