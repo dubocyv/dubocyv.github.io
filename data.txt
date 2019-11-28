@@ -84,7 +84,7 @@ Bookmarks
 					t:Skype for Mobile
 					MTS (fwc)
 					t:Mobile Telephony Service
-					DPS*
+					DPS *
 					PABX
 					t:Private Automatic Branch eXchange
 					u:https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
@@ -121,14 +121,14 @@ Bookmarks
 					t:Business Process Management
 					TOP3 (fwc)
 					t:Telephone Providing contract (InfoTel)
-					EXICON (fwc)*
-					INASS*
-					ENS*
+					EXICON (fwc) *
+					INASS *
+					ENS *
 					CSI
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
 					RACHEL (fwc)
 					t:Remote Access to Commission Hosted Environments
-					SIDE2 (fwc)*
+					SIDE2 (fwc) *
 					TSE
 					t:Technical SErvice (provider's perspective)
 					BSE
@@ -139,7 +139,7 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM
 				EUSS (fwc)
 				t:End User Support Service
-				YUM*
+				YUM *
 			C.6
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM
 				NUPS (fwc)
@@ -150,9 +150,9 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM
 				IAM
 				t:Identity & Access Management
-				COMREF*
-				CED*
-				CUD*
+				COMREF *
+				CED *
+				CUD *
 				ADPS
 				t:Active Directory Provisioning Service
 # - - - - - - -
@@ -272,15 +272,21 @@ Bookmarks
 
 					SNet
 					t:Secured Network
-					u:"https://intragate.ec.europa.eu/snet"
+					s:
+						SNet site
+						u:"https://intragate.ec.europa.eu/snet"
+							RedMine
+							u:"https://intragate.ec.europa.eu/snet/redmine/"
+							Cacti
+							u:"https://intragate.ec.europa.eu/snet/cacti/"
 						Kate (SNet Portal)
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
+							Perceval
+							u:http://perceval.net1.cec.eu.int/SitePages/SnetWelcome.aspx
+							Kaamelott
+							u:http://kaamelott.net1.cec.eu.int/Pages/Welcome.aspx
 							Docs & refs (University)
 							u:http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx
-						RedMine
-						u:"https://intragate.ec.europa.eu/snet/redmine/"
-						Cacti
-						u:"https://intragate.ec.europa.eu/snet/cacti/"
 
 					PUMA
 					u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"

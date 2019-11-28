@@ -181,7 +181,7 @@
            "tip": "Mobile Telephony Service"
           },
           {
-           "name": "DPS*"
+           "name": "DPS *"
           },
           {
            "name": "PABX",
@@ -251,13 +251,13 @@
            "tip": "Telephone Providing contract (InfoTel)"
           },
           {
-           "name": "EXICON (fwc)*"
+           "name": "EXICON (fwc) *"
           },
           {
-           "name": "INASS*"
+           "name": "INASS *"
           },
           {
-           "name": "ENS*"
+           "name": "ENS *"
           },
           {
            "name": "CSI",
@@ -268,7 +268,7 @@
            "tip": "Remote Access to Commission Hosted Environments"
           },
           {
-           "name": "SIDE2 (fwc)*"
+           "name": "SIDE2 (fwc) *"
           },
           {
            "name": "TSE",
@@ -295,7 +295,7 @@
          "tip": "End User Support Service"
         },
         {
-         "name": "YUM*"
+         "name": "YUM *"
         }
        ]
       },
@@ -322,13 +322,13 @@
          "tip": "Identity & Access Management"
         },
         {
-         "name": "COMREF*"
+         "name": "COMREF *"
         },
         {
-         "name": "CED*"
+         "name": "CED *"
         },
         {
-         "name": "CUD*"
+         "name": "CUD *"
         },
         {
          "name": "ADPS",
@@ -568,25 +568,39 @@
           {
            "name": "SNet",
            "tip": "Secured Network",
-           "url": "https://intragate.ec.europa.eu/snet",
+           "sort": "",
            "children": [
+            {
+             "name": "SNet site",
+             "url": "https://intragate.ec.europa.eu/snet",
+             "children": [
+              {
+               "name": "RedMine",
+               "url": "https://intragate.ec.europa.eu/snet/redmine/"
+              },
+              {
+               "name": "Cacti",
+               "url": "https://intragate.ec.europa.eu/snet/cacti/"
+              }
+             ]
+            },
             {
              "name": "Kate (SNet Portal)",
              "url": "http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx",
              "children": [
               {
+               "name": "Perceval",
+               "url": "http://perceval.net1.cec.eu.int/SitePages/SnetWelcome.aspx"
+              },
+              {
+               "name": "Kaamelott",
+               "url": "http://kaamelott.net1.cec.eu.int/Pages/Welcome.aspx"
+              },
+              {
                "name": "Docs & refs (University)",
                "url": "http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx"
               }
              ]
-            },
-            {
-             "name": "RedMine",
-             "url": "https://intragate.ec.europa.eu/snet/redmine/"
-            },
-            {
-             "name": "Cacti",
-             "url": "https://intragate.ec.europa.eu/snet/cacti/"
             }
            ]
           },
