@@ -328,16 +328,22 @@ Bookmarks
 
 							Certificates
 								Cert SID List
+								u:https://intragate.ec.europa.eu/snet/sid/visual?context=digital%20certificate%20management&object=digital%20certificate
 								Report
 									Reporting
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ssl_reports.pl
 
 							Databases
-								APPUDIGP
-								APPUDIGT
-								NRMDIGP
-								NRMDIGT
-								Proteus
+								APPUDIGPu:
+								https://intragate.ec.europa.eu/snet/hg/APPUDIGP
+								APPUDIGTu:
+								https://intragate.ec.europa.eu/snet/hg/APPUDIGT
+								NRMDIGPu:
+								https://intragate.ec.europa.eu/snet/hg/NRMDIGP
+								NRMDIGTu:
+								https://intragate.ec.europa.eu/snet/hg/NRMDIGT
+								Proteusu:
+								https://intragate.ec.europa.eu/snet/hg/Proteus
 
 							DNS
 								Check
@@ -345,14 +351,19 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/subnetList_DNSCheck.pl
 								Config
 									DNSui
+									u:https://intragate.ec.europa.eu/snet/dnsui/
 									DNS INT.
+									u:https://intragate.ec.europa.eu/snet/hg/Eriador/
 									DNS DMZ.
+									u:https://intragate.ec.europa.eu/snet/hg/Gondor/
 									DNS EXT.
+									u:https://intragate.ec.europa.eu/snet/hg/Mordor/
 								Tools
 									SNET DNS Tools
 									u:https://intragate.ec.europa.eu/snet/dnstools/
 								Logging
 									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
 
 							Firewall
 								Check
@@ -442,6 +453,7 @@ Bookmarks
 									VRF SID list
 									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=VRF
 									Proteus History Search
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ProteusHistory.pl
 									Proteus Report
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_value.pl
 									SID Proteus Report
@@ -452,28 +464,38 @@ Bookmarks
 							L4S
 								Check
 									REMI
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/L4S/ace_current_stat.pl
 								Config
 									Config L4S
+									u:https://intragate.ec.europa.eu/snet/hg/L4SConf
 									Config L4S Redmine
 									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_L4S/repository/show/resouces
 									Config L4S Old Redmine
 									u:https://intragate.ec.europa.eu/snet/redmine/projects/opt-l4s/repository/show/resouces
 									VIPWatcher
+									u:https://intragate.ec.europa.eu/snet/vipwatcher/
 									LBui
+									u:https://intragate.ec.europa.eu/snet/lbui/
 								Tools
 								Logging
 									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
 
 							Network
 								DCA
 								u:https://intragate.ec.europa.eu/snet/dca/index.html
 								Reporting
 									ACI reports
+									u:https://intragate.ec.europa.eu/snet/aci
 									Cisco PI reports
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ciscopi_reports.pl
 								Tools
 									Cisco PI
+									u:https://pi.snmc.cec.eu.int/
 									LUX_DC ACI
+									u:https://aci-dc-ct.snmc.cec.eu.int/
 									Cisco ACS
+									u:https://acs-jmo.snmc.cec.eu.int/
 
 							Proxy
 								Check
@@ -485,6 +507,7 @@ Bookmarks
 									Local Database
 									u:https://intragate.ec.europa.eu/snet/blacklist/blacklist.txt
 									Config Proxy
+									u:https://intragate.ec.europa.eu/snet/hg/BluecoatLibrary
 									Config Proxy Redmine
 									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
 									Central Policy
@@ -500,6 +523,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl
 								Config
 									RUM
+									u:https://irma.tech.cec.eu.int/
 
 							Reporting
 								Carrier
@@ -512,6 +536,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/reports_powercut.pl
 								Subnet DSL
 									Subn 10.17/16 inv.
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sid_subnet_10_17.pl
 
 							Reverse-Proxy
 								Check
@@ -521,34 +546,53 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
 								Config
 									BlueWatcher
+									u:https://intragate.ec.europa.eu/snet/rps/bluewatcher/index.html
 									Config RP
+									u:https://intragate.ec.europa.eu/snet/hg/BluecoatLibrary
 									Config RP Redmine
 									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
 								Mapping
 									Form upload
+									u:https://intragate.ec.europa.eu/snet/forms_upload/upload.html
 									MAPui
+									u:https://intragate.ec.europa.eu/snet/rps/main.html
 								Logging
 									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
 
 							SecurityConvention/ADSL-Like
 								SC
 									SC Sharepoint
+									u:http://kate.net1.cec.eu.int/NS/Lists/Security%20Convention%20DB/DG%20View.aspx
 									SC SID List
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=security%20convention
 									SC List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/SC_List.pl
 									SC Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/SC_Check.pl
 								ADSL-like
-									ADSL-like List: Active
-									ADSL-like List: History
-									ADSL-like List: All
-									ADSL-like SID Mgmnt
-									ADSL VRF Checking
 									CashRegister Checking
+									ADSL-like List: Active
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_list
+									ADSL-like List: History
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_combined_list
+									ADSL-like List: All
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_combined_list
+									ADSL-like SID Mgmnt
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=ADSL%20LIKE%20service
+									ADSL VRF Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/adsl-like.pl
+									CashRegister Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl
 
 							SID
 								Check
 									SID vs. Proteus Subnet
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet.pl
 									SID vs. Proteus Device
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_device.pl
 									SID CRUD
+									u:https://intragate.ec.europa.eu/snet/sid/crud
 									SID Visual
 									u:https://intragate.ec.europa.eu/snet/sid/visual
 									EC Subnet Nomemclature
@@ -557,17 +601,27 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_JRC.pl
 								Config
 									SID easiCAPs
+									u:https://intragate.ec.europa.eu/snet/sid/icaps
 								Reporting
 									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sid_reports.pl
 									SP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sp_list.pl
 									Diego
+									u:https://intragate.ec.europa.eu/snet/diego
 									Patching export
+									u:https://intragate.ec.europa.eu/snet/hg/snetis_Patching
 								CostModel
 									CostModel xls
+									u:https://intragate.ec.europa.eu/snet/sid/worksheet/cost_model.xls
 									ADSL-like List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_history_list
 									ADSL-like List: Active
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_list
 									AP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_List.pl?action=Submit&function=diego_ap_list
 									DMZ List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
 
 							SMARTS
 								Analyse
@@ -589,35 +643,50 @@ Bookmarks
 								IPv4 calc
 								u:https://intragate.ec.europa.eu/snet/cgi-bin/ipcalc.pl
 								Splunk
+								u:https://splunk.tech.ec.europa.eu/
 								Paul Schou xlate
 								Phonetic
+								u:https://intragate.ec.europa.eu/snet/alpha.html
 								RE Subnet Generator
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/gen_subnet_regex.pl
 								Wake on LAN
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/wol.pl
+								SMT6 prod
+								u:https://intragate.ec.europa.eu/smtweb/index.do
 								SMT
 									SMT6 prod
 								VMware
 									Vcenter Prod
+									u:https://s-vmaestro14.net1.cec.eu.int:9443/vsphere-client/
 									Vcenter Dev
 
 							Vulnerability
 								Check
 								Config
 									Vulnerability SP
+									u:http://kate.net1.cec.eu.int/NS/Lists/VunerabilityManagement/AllItems.aspx
 									Vulnerability SP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/Vulnerability_List.pl
 									Vulnerability SP List full
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/Vulnerability_List.pl?list=long
 									CPE registred
+									u:https://intragate.ec.europa.eu/snet/vulnerability/admin/whitelist
 								Reporting
 									Vulnerability List
+									u:https://intragate.ec.europa.eu/snet/vulnerability/
 									Reporting
 
 							WIFI
 								Cisco PI
+								u:https://pi.snmc.cec.eu.int/
 								AP SID List
+								u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=wireless%20access%20point
 								AP List
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_List.pl?action=Submit&function=diego_ap_list
 								AP Checking
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_Check.pl
 
 							externals tools
-							ext
 								Redmine
 								u:https://intragate.ec.europa.eu/snet/redmine/
 								Cacti
