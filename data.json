@@ -260,7 +260,7 @@
            "name": "ENS*"
           },
           {
-           "name": "CSI*",
+           "name": "CSI",
            "tip": "Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)"
           },
           {
