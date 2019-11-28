@@ -334,16 +334,16 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ssl_reports.pl
 
 							Databases
-								APPUDIGPu:
-								https://intragate.ec.europa.eu/snet/hg/APPUDIGP
-								APPUDIGTu:
-								https://intragate.ec.europa.eu/snet/hg/APPUDIGT
-								NRMDIGPu:
-								https://intragate.ec.europa.eu/snet/hg/NRMDIGP
-								NRMDIGTu:
-								https://intragate.ec.europa.eu/snet/hg/NRMDIGT
-								Proteusu:
-								https://intragate.ec.europa.eu/snet/hg/Proteus
+								APPUDIGP
+								u:https://intragate.ec.europa.eu/snet/hg/APPUDIGP
+								APPUDIGT
+								u:https://intragate.ec.europa.eu/snet/hg/APPUDIGT
+								NRMDIGP
+								u:https://intragate.ec.europa.eu/snet/hg/NRMDIGP
+								NRMDIGT
+								u:https://intragate.ec.europa.eu/snet/hg/NRMDIGT
+								Proteus
+								u:https://intragate.ec.europa.eu/snet/hg/Proteus
 
 							DNS
 								Check

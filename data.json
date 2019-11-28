@@ -705,23 +705,23 @@
                "name": "Databases",
                "children": [
                 {
-                 "name": "APPUDIGPu:",
+                 "name": "APPUDIGP",
                  "url": "https://intragate.ec.europa.eu/snet/hg/APPUDIGP"
                 },
                 {
-                 "name": "APPUDIGTu:",
+                 "name": "APPUDIGT",
                  "url": "https://intragate.ec.europa.eu/snet/hg/APPUDIGT"
                 },
                 {
-                 "name": "NRMDIGPu:",
+                 "name": "NRMDIGP",
                  "url": "https://intragate.ec.europa.eu/snet/hg/NRMDIGP"
                 },
                 {
-                 "name": "NRMDIGTu:",
+                 "name": "NRMDIGT",
                  "url": "https://intragate.ec.europa.eu/snet/hg/NRMDIGT"
                 },
                 {
-                 "name": "Proteusu:",
+                 "name": "Proteus",
                  "url": "https://intragate.ec.europa.eu/snet/hg/Proteus"
                 }
                ]
