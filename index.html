@@ -21,74 +21,6 @@
 	document.addEventListener("keyup", function(event) {var El=document.getElementById("logo").style;var Em=document.getElementById("menuToggle").style;if (event.shiftKey) {switch (event.keyCode) {case 32:El.display.length &&(El.display != "block") ?El.display = "block" :El.display = "none";Em.display.length &&(Em.display != "block") ?Em.display = "block" :Em.display = "none";break;case 60:case 220:case 226:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;}}else {switch (event.keyCode) {case 27:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;case 60:case 220:case 226:El.display = "none";Em.display = "none";$('#mTC').prop('checked', false);break;}}});</script>
 </head>
 <body>
-<!--
-	<nav role="navigation">
-	<div id="menuToggle">
-	<input type="checkbox" id="mTC"/>
-	<span>
-	</span>
-	<span>
-	</span>
-	<span>
-	</span>
-	<ul id="menu">
-	<p id=menuTitle>
-	Infrastructure Viewer</p>
-	<hr>
-	<a href="/infra">
-	<li>
-	Infrastructure</li>
-	</a>
-	<a href="/projects">
-	<li>
-	Projects</li>
-	</a>
-	<a href="/relations">
-	<li>
-	Projects flows</li>
-	</a>
-	<a href="/dbs">
-	<li>
-	DB</li>
-	</a>
-	<ul>
-	<a href="/dbs/sizes.html">
-	<li>
-	DB sizes</li>
-	</a>
-	</ul>
-	<a href="/unix">
-	<li>
-	Solaris</li>
-	</a>
-	<ul>
-	<a href="/unix/zonesDown.html">
-	<li>
-	Halted Solaris</li>
-	</a>
-	</ul>
-	<a href="/gw">
-	<li>
-	VLANs</li>
-	</a>
-	<a href="/subnets">
-	<li>
-	Subnets</li>
-	</a>
-	<a href="/cgi-bin-opr/dctemp.cgi" target="_blank" title="Datacentres temperatures">
-	<li>
-	<img src="/images/thermometer.svg" style="height:18px">
-	 DC temp</li>
-	</a>
-	<hr>
-	<a href="javascript:logout()" title="logout">
-	<li>
-	Logout</li>
-	</a>
-	</ul>
-	</div>
-	</nav>
--->
 	<div id="logo">
 	<h2>
 	DiGIT.C4<br>
@@ -99,10 +31,6 @@
 	<br>
 	This page is a collection of bookmarks</span>
 	</h2>
-<!--
-	<h3 id="LastUpdt">
-	Last updated: 20191015 12:20</h3>
--->
 	</div>
 	<div id="tree-container">
 	</div>
@@ -110,230 +38,13 @@
 	<iframe src="" id="cmdbInfo" name="winInfo">
 	</iframe>
 	</div>
-	<script type="text/javascript" charset="utf-8">
-	function toggleHelp() {var E=document.getElementById("helpItem").style;E.display.length &&(E.display != "none") ?E.display = "none" :E.display = "flex";E.opacity.length &&(E.opacity != "0") ?E.opacity = "0" :E.opacity = "1";}function toggleID(El,id) {var E=document.getElementById(id);(E.getAttribute("class") != "showHide_S") ?E.setAttribute("class","showHide_S") :E.setAttribute("class","showHide_H");(E.getAttribute("class") == "showHide_S") ?El.id = "B_S" :El.id = "B_H";}document.addEventListener("keyup", function(event) {var E=document.getElementById("helpItem").style;switch (event.keyCode) {case 27:E.display = "none";E.opacity = "0";break;case 188:toggleHelp ();break;}});</script>
-	<div id="helpItem">
-	<div id="hTt">
-	<h1 title="<ESC>
-	 to quit">
-	Help <small>
-	&mdash; cheatsheet &mdash;</small>
-	</h1>
-	<hr>
-	<h2>
-	<label>
-	General considerations <input type="button" id="B_S" value="&#9660;" onclick="toggleID(this,'GC')">
-	</label>
-	</h2>
-	<div class="showHide_S" id="GC">
-	Each node of the tree is identified by a circle and a label.<br>
-	Both are clickable with the same effect (see "mouse clicks" below).<br>
-	If the label is at the left of the circle, it means that this node has children. When a node has no children, the label is positioned to the right.<p>
-	Mouse wheel controls the zoom, centered at the pointer.<p>
-	Clicking anywhere on the background allows to move the canvas.<p>
-	<hr>
-	</div>
-	<h2>
-	<label>
-	Mouse clicks <input type="button" id="B_H" value="&#9660;" onclick="toggleID(this,'MC')">
-	</label>
-	</h2>
-	<div class="showHide" id="MC">
-	<dl>
-	<dt>
-	&lt;Click&gt;<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Open/Close a node. If the node is the last leaf and it is a link, it opens in a popup window</dd>
-	<dt>
-	<span class="key">
-	Shift</span>
-	&lt;Click&gt;<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Open/Close a node and close its neighbours</dd>
-	<dt>
-	<span class="key">
-	Alt</span>
-	&lt;Click&gt;<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Open/Close a node and expand/collapse all the leaves</dd>
-	<dt>
-	<span class="key">
-	Shift</span>
-	<span class="key">
-	Alt</span>
-	&lt;Click&gt;<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Expand/Collapse a node and close its neighbours</dd>
-	<dt>
-	<span class="key">
-	Ctrl</span>
-	&lt;Click&gt;</dt>
-	<dd>
-	Follow the link on another tab</dd>
-	<dt>
-	<span class="key">
-	Ctrl</span>
-	<span class="key">
-	Shift</span>
-	&lt;Click&gt;</dt>
-	<dd>
-	Follow the link in a popup window. When the last leaf is a link, when clicked, it opens in a popup window by default.</dd>
-	<dt>
-	<span class="key">
-	Ctrl</span>
-	<span class="key">
-	Alt</span>
-	&lt;Click&gt;</dt>
-	<dd>
-	Select the new root node of the tree.</dd>
-	</dl>
-	<hr>
-	</div>
-	<h2>
-	<label>
-	Keyboard shortcuts <input type="button" id="B_H" value="&#9660;" onclick="toggleID(this,'KS')">
-	</label>
-	</h2>
-	<div class="showHide" id="KS">
-	<dl>
-	<dt>
-	<span class="key">
-	ESC</span>
-	</dt>
-	<dd>
-	Reset the screen ; center the tree and display the menu and the decorations</dd>
-	<dt>
-	<span class="key">
-	Home</span>
-	</dt>
-	<dd>
-	Center the screen and reset the scaling</dd>
-	<dt>
-	<span class="key">
-	&sup2;</span>
-	<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Swap previous and current root node</dd>
-	<dt>
-	<span class="key">
-	&sup3;</span>
-	</dt>
-	<dd>
-	Reset the original root node</dd>
-	<dt>
-	<span class="key">
-	Space</span>
-	<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Mask the CMDB and EPSD menu</dd>
-	<dt>
-	<span class="key">
-	Shift</span>
-	<span class="key">
-	Space</span>
-	<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Hide everything but the tree</dd>
-	<dt>
-	<span class="key">
-	&lt;</span>
-	</dt>
-	<dd>
-	Hide everything but the tree</dd>
-	<dt>
-	<span class="key">
-	&gt;</span>
-	</dt>
-	<dd>
-	Show all the menus and decorations</dd>
-	<dt>
-	<span class="key">
-	O</span>
-	<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	Hide/show the options menu (search, expand, collapse)</dd>
-	<dt>
-	<span class="key">
-	E</span>
-	</dt>
-	<dd>
-	Expand the tree</dd>
-	<dt>
-	<span class="key">
-	C</span>
-	</dt>
-	<dd>
-	Collapse the tree</dd>
-	<dt>
-	<span class="key">
-	,</span>
-	 | <span class="key">
-	?</span>
-	<span title="toggle action" class="toggle">
-	&#8644;</span>
-	</dt>
-	<dd>
-	This help</dd>
-	</dl>
-	</div>
-	</div>
-	</div>
-	<script>
-	document.addEventListener("keyup", function(event) {var E=document.getElementById("options").style;if (event.shiftKey) {switch (event.keyCode) {case 32:case 79:E.display.length &&(E.display != "flex") ?E.display = "flex" :E.display = "none";break;case 67:collapseTree();break;case 69:expandTree();break;case 60:case 220:case 226:E.display = "flex";break;}}else {switch (event.keyCode) {case 27:E.display = "flex";break;case 60:case 220:case 226:E.display = "none";break;}}});</script>
-	<div id="options" class="flex-cont-options">
-	<div class="flex-item-options">
-	<input id="searchField" type="text">
-	<br>
-	<div id="searching">
-	</div>
-	<div id="clearResult" onclick="clearResult()">
-	Clear</div>
-	</div>
-	<div class="flex-item-options">
-	<input type="button" value="Search" onclick="search()">
-	</div>
-	<div class="flex-item-options">
-	<input type="button" value="Expand" onclick="expandTree()">
-	</div>
-	<div class="flex-item-options">
-	<input type="button" value="Collapse" onclick="collapseTree()">
-	</div>
-	<div class="flex-item-options">
-	<input type="button" value="?" onclick="toggleHelp()" title="Help">
-	</div>
-	</div>
-
-	<link rel="stylesheet" type="text/css" href="/css/epsdMenu.css">
+<script type="text/javascript" charset="utf-8">function toggleHelp() {var E=document.getElementById("helpItem").style;E.display.length &&(E.display != "none") ?E.display = "none" :E.display = "flex";E.opacity.length &&(E.opacity != "0") ?E.opacity = "0" :E.opacity = "1";}function toggleID(El,id) {var E=document.getElementById(id);(E.getAttribute("class") != "showHide_S") ?E.setAttribute("class","showHide_S") :E.setAttribute("class","showHide_H");(E.getAttribute("class") == "showHide_S") ?El.id = "B_S" :El.id = "B_H";}document.addEventListener("keyup", function(event) {var E=document.getElementById("helpItem").style;switch (event.keyCode) {case 27:E.display = "none";E.opacity = "0";break;case 188:toggleHelp ();break;}});</script>
+<div id="helpItem"><div id="hTt"><h1 title="<ESC> to quit"> Help <small> &mdash; cheatsheet &mdash;</small></h1><hr><h2><label> General considerations <input type="button" id="B_S" value="&#9660;" onclick="toggleID(this,'GC')"></label></h2><div class="showHide_S" id="GC"> Each node of the tree is identified by a circle and a label.<br> Both are clickable with the same effect (see "mouse clicks" below).<br> If the label is at the left of the circle, it means that this node has children. When a node has no children, the label is positioned to the right.<p> Mouse wheel controls the zoom, centered at the pointer.<p> Clicking anywhere on the background allows to move the canvas.<p><hr></div><h2><label> Mouse clicks <input type="button" id="B_H" value="&#9660;" onclick="toggleID(this,'MC')"></label></h2><div class="showHide" id="MC"><dl><dt> &lt;Click&gt;<span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Open/Close a node. If the node is the last leaf and it is a link, it opens in a popup window</dd><dt><span class="key"> Shift</span> &lt;Click&gt;<span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Open/Close a node and close its neighbours</dd><dt><span class="key"> Alt</span> &lt;Click&gt;<span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Open/Close a node and expand/collapse all the leaves</dd><dt><span class="key"> Shift</span><span class="key"> Alt</span> &lt;Click&gt;<span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Expand/Collapse a node and close its neighbours</dd><dt><span class="key"> Ctrl</span> &lt;Click&gt;</dt><dd> Follow the link on another tab</dd><dt><span class="key"> Ctrl</span><span class="key"> Shift</span> &lt;Click&gt;</dt><dd> Follow the link in a popup window. When the last leaf is a link, when clicked, it opens in a popup window by default.</dd><dt><span class="key"> Ctrl</span><span class="key"> Alt</span> &lt;Click&gt;</dt><dd> Select the new root node of the tree.</dd></dl><hr></div><h2><label> Keyboard shortcuts <input type="button" id="B_H" value="&#9660;" onclick="toggleID(this,'KS')"></label></h2><div class="showHide" id="KS"><dl><dt><span class="key"> ESC</span></dt><dd> Reset the screen ; center the tree and display the menu and the decorations</dd><dt><span class="key"> Home</span></dt><dd> Center the screen and reset the scaling</dd><dt><span class="key"> &sup2;</span><span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Swap previous and current root node</dd><dt><span class="key"> &sup3;</span></dt><dd> Reset the original root node</dd><dt><span class="key"> Space</span><span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Mask the CMDB and EPSD menu</dd><dt><span class="key"> Shift</span><span class="key"> Space</span><span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Hide everything but the tree</dd><dt><span class="key"> &lt;</span></dt><dd> Hide everything but the tree</dd><dt><span class="key"> &gt;</span></dt><dd> Show all the menus and decorations</dd><dt><span class="key"> O</span><span title="toggle action" class="toggle"> &#8644;</span></dt><dd> Hide/show the options menu (search, expand, collapse)</dd><dt><span class="key"> E</span></dt><dd> Expand the tree</dd><dt><span class="key"> C</span></dt><dd> Collapse the tree</dd><dt><span class="key"> ,</span> | <span class="key"> ?</span><span title="toggle action" class="toggle"> &#8644;</span></dt><dd> This help</dd></dl></div></div></div>
+<script>document.addEventListener("keyup", function(event) {var E=document.getElementById("options").style;if (event.shiftKey) {switch (event.keyCode) {case 32:case 79:E.display.length &&(E.display != "flex") ?E.display = "flex" :E.display = "none";break;case 67:collapseTree();break;case 69:expandTree();break;case 60:case 220:case 226:E.display = "flex";break;}}else {switch (event.keyCode) {case 27:E.display = "flex";break;case 60:case 220:case 226:E.display = "none";break;}}});</script>
+<div id="options" class="flex-cont-options"><div class="flex-item-options"><input id="searchField" type="text"><br><div id="searching"></div><div id="clearResult" onclick="clearResult()"> Clear</div></div><div class="flex-item-options"><input type="button" value="Search" onclick="search()"></div><div class="flex-item-options"><input type="button" value="Expand" onclick="expandTree()"></div><div class="flex-item-options"><input type="button" value="Collapse" onclick="collapseTree()"></div><div class="flex-item-options"><input type="button" value="?" onclick="toggleHelp()" title="Help"></div></div>
+<link rel="stylesheet" type="text/css" href="/css/epsdMenu.css">
 	<script>document.addEventListener("keyup", function(event) {var E=document.getElementById("HM").style;if (event.shiftKey) {switch (event.keyCode) {case 32:E.display.length &&(E.display != "block") ?E.display = "block" :E.display = "none";break;case 60:case 220:case 226:E.right = "0px";E.display = "block";break;}}else {switch (event.keyCode) {case 27:E.right = "0px";E.display = "block";break;case 32:E.right.length &&(E.right != "0px") ?E.right = "0px" :E.right = "-10px";break;case 60:case 220:case 226:E.right = "-10px";E.display = "none";break;}}});</script>
 	<div id="HM" class="cont-hiddenMenu">
-<!--
-	<div id="cmdb" class="flex-cont-HM">
-	<div id=Title>
-	CMDB</div>
-	<div class="flex-item-HM">
-	<form target="_blank" action="/cgi-bin-opr/getCmdbInfo.cgi">
-	CI name<br>
-	<input type="text" value="" name="name" >
-	</form>
-	</div>
-	</div>
--->
 	<div id="epsd" class="flex-cont-HM">
 	<div id=Title>
 	SMT</div>
@@ -361,7 +72,5 @@
 
 	<script>document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
 	<div id="Lfooter"><img src="/images/EClogo.svg"></div>
-
-	<div id="Rfooter"><!--<img src="/images/ITEClogo.png">--></div>
 </body>
 </html>
