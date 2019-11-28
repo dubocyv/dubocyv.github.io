@@ -73,7 +73,7 @@
        "children": [
         {
          "name": "DWP",
-         "tip": "Digital WorkPlace (C3, C5, C6)"
+         "tip": "Digital WorkPlace (C3, C5 & C6 involved)"
         }
        ]
       },
@@ -181,7 +181,7 @@
            "tip": "Mobile Telephony Service"
           },
           {
-           "name": "DPS"
+           "name": "DPS*"
           },
           {
            "name": "PABX",
@@ -251,16 +251,16 @@
            "tip": "Telephone Providing contract (InfoTel)"
           },
           {
-           "name": "EXICON (fwc)"
+           "name": "EXICON (fwc)*"
           },
           {
-           "name": "INASS"
+           "name": "INASS*"
           },
           {
-           "name": "ENS"
+           "name": "ENS*"
           },
           {
-           "name": "CSI",
+           "name": "CSI*",
            "tip": "Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)"
           },
           {
@@ -268,7 +268,7 @@
            "tip": "Remote Access to Commission Hosted Environments"
           },
           {
-           "name": "SIDE2 (fwc)"
+           "name": "SIDE2 (fwc)*"
           },
           {
            "name": "TSE",
@@ -295,7 +295,7 @@
          "tip": "End User Support Service"
         },
         {
-         "name": "YUM"
+         "name": "YUM*"
         }
        ]
       },
@@ -322,13 +322,13 @@
          "tip": "Identity & Access Management"
         },
         {
-         "name": "COMREF"
+         "name": "COMREF*"
         },
         {
-         "name": "CED"
+         "name": "CED*"
         },
         {
-         "name": "CUD"
+         "name": "CUD*"
         },
         {
          "name": "ADPS",
@@ -435,6 +435,7 @@
        "children": [
         {
          "name": "Ares",
+         "tip": "Electronic Records Management System",
          "url": "https://webgate.ec.testa.eu/Ares/welcome.do",
          "children": [
           {
@@ -500,7 +501,7 @@
        "url": "https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
       },
       {
-       "name": "Who is who?",
+       "name": "Who's who?",
        "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/"
       },
       {

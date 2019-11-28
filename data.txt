@@ -33,7 +33,7 @@ Bookmarks
 			t:Service Delivery Manager
 			Dir C
 				DWP
-				t:Digital WorkPlace (C3, C5, C6)
+				t:Digital WorkPlace (C3, C5 & C6 involved)
 			C.4
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
 				DN
@@ -84,7 +84,7 @@ Bookmarks
 					t:Skype for Mobile
 					MTS (fwc)
 					t:Mobile Telephony Service
-					DPS
+					DPS*
 					PABX
 					t:Private Automatic Branch eXchange
 					u:https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
@@ -121,14 +121,14 @@ Bookmarks
 					t:Business Process Management
 					TOP3 (fwc)
 					t:Telephone Providing contract (InfoTel)
-					EXICON (fwc)
-					INASS
-					ENS
-					CSI
+					EXICON (fwc)*
+					INASS*
+					ENS*
+					CSI*
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
 					RACHEL (fwc)
 					t:Remote Access to Commission Hosted Environments
-					SIDE2 (fwc)
+					SIDE2 (fwc)*
 					TSE
 					t:Technical SErvice (provider's perspective)
 					BSE
@@ -139,7 +139,7 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM
 				EUSS (fwc)
 				t:End User Support Service
-				YUM
+				YUM*
 			C.6
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM
 				NUPS (fwc)
@@ -150,9 +150,9 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM
 				IAM
 				t:Identity & Access Management
-				COMREF
-				CED
-				CUD
+				COMREF*
+				CED*
+				CUD*
 				ADPS
 				t:Active Directory Provisioning Service
 # - - - - - - -
@@ -202,6 +202,7 @@ Bookmarks
 # - - - - - - -
 			Admin
 				Ares
+				t:Electronic Records Management System
 				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
@@ -235,7 +236,7 @@ Bookmarks
 			Service Medical
 			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
 
-			Who is who?
+			Who's who?
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/
 
 # - - - - - - -
