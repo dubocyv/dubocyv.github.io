@@ -79,10 +79,12 @@
       },
       {
        "name": "C.4",
+       "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM",
        "children": [
         {
          "name": "DN",
          "tip": "Data Network",
+         "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=243570&orgSource=COM",
          "sort": "",
          "children": [
           {
@@ -145,6 +147,7 @@
         {
          "name": "TA",
          "tip": "Telecom Applications",
+         "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231265&orgSource=COM",
          "sort": "",
          "children": [
           {
@@ -235,6 +238,7 @@
         },
         {
          "name": "QPC",
+         "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231656&orgSource=COM",
          "tip": "Quality / business Process / Contract management",
          "sort": "",
          "children": [
@@ -267,6 +271,14 @@
            "name": "SIDE2 (fwc)"
           },
           {
+           "name": "TSE",
+           "tip": "Technical SErvice (provider's perspective)"
+          },
+          {
+           "name": "BSE",
+           "tip": "Business SErvice (user's perspective)"
+          },
+          {
            "name": "WACS (fwc)",
            "tip": "Web Audio Conferencing Service"
           }
@@ -276,6 +288,7 @@
       },
       {
        "name": "C.5",
+       "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM",
        "children": [
         {
          "name": "EUSS (fwc)",
@@ -288,6 +301,7 @@
       },
       {
        "name": "C.6",
+       "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM",
        "children": [
         {
          "name": "NUPS (fwc)",
@@ -301,6 +315,7 @@
       },
       {
        "name": "D.3",
+       "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM",
        "children": [
         {
          "name": "IAM",
@@ -483,6 +498,10 @@
       {
        "name": "Service Medical",
        "url": "https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
+      },
+      {
+       "name": "Who is who?",
+       "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/"
       },
       {
        "name": "DiGIT",

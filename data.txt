@@ -35,8 +35,10 @@ Bookmarks
 				DWP
 				t:Digital WorkPlace (C3, C5, C6)
 			C.4
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
 				DN
 				t:Data Network
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=243570&orgSource=COM
 				s:
 					NMS (fwc)
 					t:Network Managed Services (fwc)
@@ -66,6 +68,7 @@ Bookmarks
 
 				TA
 				t:Telecom Applications
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231265&orgSource=COM
 				s:
 					VICTORIA
 					t:Video Conference, Telephony & Real time communications Infrastructure & Applications
@@ -111,6 +114,7 @@ Bookmarks
 						t:Cisco Meeting Server
 
 				QPC
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231656&orgSource=COM
 				t:Quality / business Process / Contract management
 				s:
 					BPM
@@ -125,18 +129,25 @@ Bookmarks
 					RACHEL (fwc)
 					t:Remote Access to Commission Hosted Environments
 					SIDE2 (fwc)
+					TSE
+					t:Technical SErvice (provider's perspective)
+					BSE
+					t:Business SErvice (user's perspective)
 					WACS (fwc)
 					t:Web Audio Conferencing Service
 			C.5
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM
 				EUSS (fwc)
 				t:End User Support Service
 				YUM
 			C.6
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM
 				NUPS (fwc)
 				t:Network Users Proximity Service
 				MDM
 				t:Mobile Devices Management
 			D.3
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM
 				IAM
 				t:Identity & Access Management
 				COMREF
@@ -223,6 +234,9 @@ Bookmarks
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
 			Service Medical
 			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
+
+			Who is who?
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/
 
 # - - - - - - -
 			DiGIT
