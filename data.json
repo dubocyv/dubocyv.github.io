@@ -578,34 +578,44 @@
                "name": "DG tools",
                "children": [
                 {
-                 "name": "DG Packages Tools"
+                 "name": "DG Packages Tools",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/index.pl"
                 },
                 {
-                 "name": "DHCP report"
+                 "name": "DHCP report",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/dhcp_report.pl"
                 },
                 {
-                 "name": "From IP to SW/Slot/Port"
+                 "name": "From IP to SW/Slot/Port",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/ip2slotport_snmp.pl"
                 },
                 {
-                 "name": "Subnet database"
+                 "name": "Subnet database",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList.pl"
                 },
                 {
-                 "name": "Subnet database Full"
+                 "name": "Subnet database Full",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_uncensored.pl"
                 },
                 {
-                 "name": "Subnet database JRC"
+                 "name": "Subnet database JRC",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_jrc.pl"
                 },
                 {
-                 "name": "VRF report"
+                 "name": "VRF report",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/vrf_report.pl"
                 },
                 {
-                 "name": "Switch/Slot/Port Config."
+                 "name": "Switch/Slot/Port Config.",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/switchConfig_snmp.pl"
                 },
                 {
-                 "name": "Full building Patch"
+                 "name": "Full building Patch",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching_all.pl"
                 },
                 {
-                 "name": "Patching database"
+                 "name": "Patching database",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching.pl"
                 }
                ]
               },
@@ -613,19 +623,24 @@
                "name": "Authentication",
                "children": [
                 {
-                 "name": "EC LDAP Checker"
+                 "name": "EC LDAP Checker",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/LDAP_Group_Check.pl"
                 },
                 {
-                 "name": "EC internet LDAP"
+                 "name": "EC internet LDAP",
+                 "url": "http://www.cc.cec/home/ced_password/password_en.cfm"
                 },
                 {
-                 "name": "SNet LDAP Manager"
+                 "name": "SNet LDAP Manager",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
                 },
                 {
-                 "name": "User Dump"
+                 "name": "User Dump",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl"
                 },
                 {
-                 "name": "LDAP Dump"
+                 "name": "LDAP Dump",
+                 "url": "https://intragate.ec.europa.eu/snet/web2ldap/"
                 }
                ]
               },
@@ -633,30 +648,36 @@
                "name": "Bluegios",
                "children": [
                 {
-                 "name": "# Service",
+                 "name": "Service	",
                  "children": [
                   {
-                   "name": "INT JMO"
+                   "name": "INT JMO",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-int-jmo"
                   },
                   {
-                   "name": "INT HOST"
+                   "name": "INT HOST",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-int-host"
                   },
                   {
-                   "name": "EXT JMO (ipv6)"
+                   "name": "EXT JMO (ipv6)",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-ext-jmo"
                   },
                   {
-                   "name": "EXT HOST"
+                   "name": "EXT HOST",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-ext-host"
                   }
                  ]
                 },
                 {
-                 "name": "# Modem",
+                 "name": "Modem",
                  "children": [
                   {
-                   "name": "EXT JMO"
+                   "name": "EXT JMO",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-ext-jmo/modem"
                   },
                   {
-                   "name": "EXT HOST"
+                   "name": "EXT HOST",
+                   "url": "https://intragate.ec.europa.eu/snet/bluegios-ext-host/modem"
                   }
                  ]
                 }
@@ -669,10 +690,11 @@
                  "name": "Cert SID List"
                 },
                 {
-                 "name": "# Report",
+                 "name": "Report",
                  "children": [
                   {
-                   "name": "Reporting"
+                   "name": "Reporting",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ssl_reports.pl"
                   }
                  ]
                 }
@@ -702,15 +724,16 @@
                "name": "DNS",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
-                   "name": "Subnet DNS Check"
+                   "name": "Subnet DNS Check",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/subnetList_DNSCheck.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "DNSui"
@@ -727,15 +750,16 @@
                  ]
                 },
                 {
-                 "name": "# Tools",
+                 "name": "Tools",
                  "children": [
                   {
-                   "name": "SNET DNS Tools"
+                   "name": "SNET DNS Tools",
+                   "url": "https://intragate.ec.europa.eu/snet/dnstools/"
                   }
                  ]
                 },
                 {
-                 "name": "# Logging",
+                 "name": "Logging",
                  "children": [
                   {
                    "name": "ReLog"
@@ -748,143 +772,176 @@
                "name": "Firewall",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check	",
                  "children": [
                   {
-                   "name": "Anomalie tracker"
+                   "name": "Anomalie tracker",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/fwlogmgt/fw_anomalies_tracker.pl"
                   },
                   {
-                   "name": "FW Rules Auditing"
+                   "name": "FW Rules Auditing",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/FW/FirewallStat.pl"
                   },
                   {
-                   "name": "Report Top Anomalies"
+                   "name": "Report Top Anomalies",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_drop.pl"
                   },
                   {
-                   "name": "Check FW objects"
+                   "name": "Check FW objects",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/FW/anomalies_tracker.pl"
                   },
                   {
-                   "name": "Algosec reports"
+                   "name": "Algosec reports",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl"
                   },
                   {
-                   "name": "Shared Apps"
+                   "name": "Shared Apps",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/FW/algosec.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Algo FW EC",
+                 "name": "Algo FW EC	",
                  "children": [
                   {
-                   "name": "FW1bx Rules"
+                   "name": "FW1bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw100bx_root.html"
                   },
                   {
-                   "name": "FW1lu Rules"
+                   "name": "FW1lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw100lu_root.html"
                   },
                   {
-                   "name": "FW2bx Rules"
+                   "name": "FW2bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw200bx_root.html"
                   },
                   {
-                   "name": "FW2lu Rules"
+                   "name": "FW2lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw200lu_root.html"
                   },
                   {
-                   "name": "FW3bx Rules"
+                   "name": "FW3bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw300bx.html"
                   },
                   {
-                   "name": "FW3lu Rules"
+                   "name": "FW3lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw300lu.html"
                   },
                   {
-                   "name": "FW4bx Rules"
+                   "name": "FW4bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw400bx.html"
                   },
                   {
-                   "name": "FW4lu Rules"
+                   "name": "FW4lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw400lu.html"
                   },
                   {
-                   "name": "FW5bx Rules"
+                   "name": "FW5bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw500bx.html"
                   },
                   {
-                   "name": "FW5lu Rules"
+                   "name": "FW5lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw500lu.html"
                   },
                   {
-                   "name": "FW6bx DC Rules"
+                   "name": "FW6bx DC Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw600bx_root.html"
                   },
                   {
-                   "name": "FW6lu DC Rules"
+                   "name": "FW6lu DC Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw600lu_root.html"
                   },
                   {
-                   "name": "FW7bx CENT Rules"
+                   "name": "FW7bx CENT Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw700lu_root.html"
                   },
                   {
-                   "name": "FW7lu CENT Rules"
+                   "name": "FW7lu CENT Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw700bx_root.html"
                   },
                   {
-                   "name": "FW8bx Rules"
+                   "name": "FW8bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw800bx_root.html"
                   },
                   {
-                   "name": "FW8lu Rules"
+                   "name": "FW8lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw800lu_root.html"
                   },
                   {
-                   "name": "FW9bx Rules"
+                   "name": "FW9bx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw900bx_root.html"
                   },
                   {
-                   "name": "FW9lu Rules"
+                   "name": "FW9lu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fw900lu_root.html"
                   },
                   {
-                   "name": "FWSNetbx Rules"
+                   "name": "FWSNetbx Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_bxl_root.html"
                   },
                   {
-                   "name": "FWSNetlu Rules"
+                   "name": "FWSNetlu Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_lux_root.html"
                   },
                   {
-                   "name": "FW JRC ISP Rules"
+                   "name": "FW JRC ISP Rules",
+                   "url": "https://intragate.ec.europa.eu/snet/FW/algosec_fwjrc_isp.html"
                   }
                  ]
                 },
                 {
-                 "name": "# IR01 ACL",
+                 "name": "IR01 ACL	",
                  "children": [
                   {
-                   "name": "Internet-ACL"
+                   "name": "DMZ SID list",
+                   "url": "https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=DMZ"
                   }
                  ]
                 },
                 {
-                 "name": "# Report",
+                 "name": "Report",
                  "children": [
                   {
-                   "name": "DMZ SID list"
+                   "name": "Report DMZ 147.67/16",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_147_67.pl?action=Submit&function=diego_Extract_network_147_67"
                   },
                   {
-                   "name": "Report DMZ 147.67/16"
-                  },
-                  {
-                   "name": "DMZ List"
+                   "name": "DMZ List",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit"
                   }
                  ]
                 },
                 {
-                 "name": "# Search",
+                 "name": "Search	",
                  "children": [
                   {
-                   "name": "Sherlock FW"
+                   "name": "Sherlock FW",
+                   "url": "https://sherlock.snmc.cec.eu.int/cgi-bin/test.pl#tabs-2"
                   },
                   {
-                   "name": "IP from DMZ"
+                   "name": "IP from DMZ",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/FW/IP_DMZ_check.pl"
                   },
                   {
-                   "name": "Algosec report"
+                   "name": "Algosec report",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# External Tools",
+                 "name": "External Tools",
                  "children": [
                   {
-                   "name": "Algosec"
+                   "name": "Algosec",
+                   "url": "https://valgosec-jmo.snmc.cec.eu.int/"
                   },
                   {
-                   "name": "BusinessFlow"
+                   "name": "BusinessFlow",
+                   "url": "https://valgosec-jmo.snmc.cec.eu.int/BusinessFlow"
                   },
                   {
-                   "name": "BusinessFlow RP"
+                   "name": "BusinessFlow RP",
+                   "url": "https://intragate.ec.europa.eu/snet/BusinessFlow"
                   }
                  ]
                 }
@@ -894,30 +951,35 @@
                "name": "IPAM Proteus",
                "children": [
                 {
-                 "name": "# External Tools",
+                 "name": "External Tools",
                  "children": [
                   {
-                   "name": "Proteus"
+                   "name": "Proteus",
+                   "url": "https://proteus.snmc.cec.eu.int/"
                   }
                  ]
                 },
                 {
-                 "name": "# Report",
+                 "name": "Report	",
                  "children": [
                   {
-                   "name": "VRF SID list"
+                   "name": "VRF SID list",
+                   "url": "https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=VRF"
                   },
                   {
                    "name": "Proteus History Search"
                   },
                   {
-                   "name": "Proteus Report"
+                   "name": "Proteus Report",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_value.pl"
                   },
                   {
-                   "name": "SID Proteus Report"
+                   "name": "SID Proteus Report",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ipam_reports.pl"
                   },
                   {
-                   "name": "Proteus Subnet DC"
+                   "name": "Proteus Subnet DC",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_subnet_dc.pl"
                   }
                  ]
                 }
@@ -927,7 +989,7 @@
                "name": "L4S",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
                    "name": "REMI"
@@ -935,16 +997,18 @@
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "Config L4S"
                   },
                   {
-                   "name": "Config L4S Redmine"
+                   "name": "Config L4S Redmine",
+                   "url": "https://intragate.ec.europa.eu/snet/redmine/projects/repo_L4S/repository/show/resouces"
                   },
                   {
-                   "name": "Config L4S Old Redmine"
+                   "name": "Config L4S Old Redmine",
+                   "url": "https://intragate.ec.europa.eu/snet/redmine/projects/opt-l4s/repository/show/resouces"
                   },
                   {
                    "name": "VIPWatcher"
@@ -955,10 +1019,10 @@
                  ]
                 },
                 {
-                 "name": "# Tools"
+                 "name": "Tools"
                 },
                 {
-                 "name": "# Logging",
+                 "name": "Logging",
                  "children": [
                   {
                    "name": "ReLog"
@@ -971,10 +1035,11 @@
                "name": "Network",
                "children": [
                 {
-                 "name": "DCA"
+                 "name": "DCA",
+                 "url": "https://intragate.ec.europa.eu/snet/dca/index.html"
                 },
                 {
-                 "name": "# Reporting",
+                 "name": "Reporting",
                  "children": [
                   {
                    "name": "ACI reports"
@@ -985,7 +1050,7 @@
                  ]
                 },
                 {
-                 "name": "# Tools",
+                 "name": "Tools",
                  "children": [
                   {
                    "name": "Cisco PI"
@@ -1004,35 +1069,40 @@
                "name": "Proxy",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
-                   "name": "Proxy PAC tester"
+                   "name": "Proxy PAC tester",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ProxyPacTester.pl"
                   },
                   {
-                   "name": "SGOS5 Health Check"
+                   "name": "SGOS5 Health Check",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
-                   "name": "Local Database"
+                   "name": "Local Database",
+                   "url": "https://intragate.ec.europa.eu/snet/blacklist/blacklist.txt"
                   },
                   {
                    "name": "Config Proxy"
                   },
                   {
-                   "name": "Config Proxy Redmine"
+                   "name": "Config Proxy Redmine",
+                   "url": "https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository"
                   },
                   {
-                   "name": "Central Policy"
+                   "name": "Central Policy",
+                   "url": "https://intragate.ec.europa.eu/snet/blacklist/central_policy.txt"
                   }
                  ]
                 },
                 {
-                 "name": "# Search",
+                 "name": "Search",
                  "children": [
                   {
                    "name": "Sherlock"
@@ -1045,18 +1115,20 @@
                "name": "Remote Access",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
-                   "name": "Check User"
+                   "name": "Check User",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/check_users_in_AD_group.pl"
                   },
                   {
-                   "name": "Get User"
+                   "name": "Get User",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "RUM"
@@ -1069,26 +1141,29 @@
                "name": "Reporting",
                "children": [
                 {
-                 "name": "# Carrier",
+                 "name": "Carrier",
                  "children": [
                   {
-                   "name": "Carrier Services"
+                   "name": "Carrier Services",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_CarrierServices.pl"
                   },
                   {
-                   "name": "Cacti Volume Report"
+                   "name": "Cacti Volume Report",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cacti_volume_report.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Power",
+                 "name": "Power",
                  "children": [
                   {
-                   "name": "Power Report"
+                   "name": "Power Report",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/reports_powercut.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Subnet DSL",
+                 "name": "Subnet DSL",
                  "children": [
                   {
                    "name": "Subn 10.17/16 inv."
@@ -1101,18 +1176,20 @@
                "name": "Reverse-Proxy",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
-                   "name": "Droopy"
+                   "name": "Droopy",
+                   "url": "https://droopy.snmc.cec.eu.int/"
                   },
                   {
-                   "name": "SGOS5 Health Check"
+                   "name": "SGOS5 Health Check",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "BlueWatcher"
@@ -1121,12 +1198,13 @@
                    "name": "Config RP"
                   },
                   {
-                   "name": "Config RP Redmine"
+                   "name": "Config RP Redmine",
+                   "url": "https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository"
                   }
                  ]
                 },
                 {
-                 "name": "# Mapping",
+                 "name": "Mapping",
                  "children": [
                   {
                    "name": "Form upload"
@@ -1137,7 +1215,7 @@
                  ]
                 },
                 {
-                 "name": "# Logging",
+                 "name": "Logging",
                  "children": [
                   {
                    "name": "ReLog"
@@ -1150,7 +1228,7 @@
                "name": "SecurityConvention/ADSL-Like",
                "children": [
                 {
-                 "name": "# SC",
+                 "name": "SC",
                  "children": [
                   {
                    "name": "SC Sharepoint"
@@ -1167,7 +1245,7 @@
                  ]
                 },
                 {
-                 "name": "# ADSL-like",
+                 "name": "ADSL-like",
                  "children": [
                   {
                    "name": "ADSL-like List: Active"
@@ -1195,7 +1273,7 @@
                "name": "SID",
                "children": [
                 {
-                 "name": "# Check",
+                 "name": "Check",
                  "children": [
                   {
                    "name": "SID vs. Proteus Subnet"
@@ -1207,18 +1285,21 @@
                    "name": "SID CRUD"
                   },
                   {
-                   "name": "SID Visual"
+                   "name": "SID Visual",
+                   "url": "https://intragate.ec.europa.eu/snet/sid/visual"
                   },
                   {
-                   "name": "EC Subnet Nomemclature"
+                   "name": "EC Subnet Nomemclature",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_EC.pl"
                   },
                   {
-                   "name": "JRC Subnet Nomemclature"
+                   "name": "JRC Subnet Nomemclature",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_JRC.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "SID easiCAPs"
@@ -1226,7 +1307,7 @@
                  ]
                 },
                 {
-                 "name": "# Reporting",
+                 "name": "Reporting",
                  "children": [
                   {
                    "name": "Reporting"
@@ -1243,7 +1324,7 @@
                  ]
                 },
                 {
-                 "name": "# CostModel",
+                 "name": "CostModel",
                  "children": [
                   {
                    "name": "CostModel xls"
@@ -1268,30 +1349,36 @@
                "name": "SMARTS",
                "children": [
                 {
-                 "name": "# Analyse",
+                 "name": "Analyse	",
                  "children": [
                   {
-                   "name": "SNMP Traps Analyse"
+                   "name": "SNMP Traps Analyse",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/daily_snmp-trap_chart.pl"
                   },
                   {
-                   "name": "Event Search"
+                   "name": "Event Search",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/search_event.pl"
                   }
                  ]
                 },
                 {
-                 "name": "# Problem Mgt",
+                 "name": "Problem Mgt	",
                  "children": [
                   {
-                   "name": "Class Graphs Monthly"
+                   "name": "Class Graphs Monthly",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_class_pie.pl"
                   },
                   {
-                   "name": "Event Graphs Classly"
+                   "name": "Event Graphs Classly",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_event_pie.pl"
                   },
                   {
-                   "name": "Instance Graphs Evently"
+                   "name": "Instance Graphs Evently",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_instance_pie.pl"
                   },
                   {
-                   "name": "Evolution Class Graphs"
+                   "name": "Evolution Class Graphs",
+                   "url": "https://intragate.ec.europa.eu/snet/cgi-bin/smarts/evolution_class_chart.pl"
                   }
                  ]
                 }
@@ -1301,7 +1388,8 @@
                "name": "SNet tools",
                "children": [
                 {
-                 "name": "IPv4 calc"
+                 "name": "IPv4 calc",
+                 "url": "https://intragate.ec.europa.eu/snet/cgi-bin/ipcalc.pl"
                 },
                 {
                  "name": "Splunk"
@@ -1319,7 +1407,7 @@
                  "name": "Wake on LAN"
                 },
                 {
-                 "name": "# SMT",
+                 "name": "SMT",
                  "children": [
                   {
                    "name": "SMT6 prod"
@@ -1327,7 +1415,7 @@
                  ]
                 },
                 {
-                 "name": "# VMware",
+                 "name": "VMware",
                  "children": [
                   {
                    "name": "Vcenter Prod"
@@ -1343,10 +1431,10 @@
                "name": "Vulnerability",
                "children": [
                 {
-                 "name": "# Check"
+                 "name": "Check"
                 },
                 {
-                 "name": "# Config",
+                 "name": "Config",
                  "children": [
                   {
                    "name": "Vulnerability SP"
@@ -1363,7 +1451,7 @@
                  ]
                 },
                 {
-                 "name": "# Reporting",
+                 "name": "Reporting",
                  "children": [
                   {
                    "name": "Vulnerability List"
@@ -1393,18 +1481,22 @@
                ]
               },
               {
-               "name": "externals tools",
+               "name": "externals tools"
+              },
+              {
+               "name": "ext",
                "children": [
                 {
-                 "name": "Prometheus-Grafana"
-                },
-                {
-                 "name": "RedMine",
+                 "name": "Redmine",
                  "url": "https://intragate.ec.europa.eu/snet/redmine/"
                 },
                 {
                  "name": "Cacti",
                  "url": "https://intragate.ec.europa.eu/snet/cacti/"
+                },
+                {
+                 "name": "Prometheus-Grafana",
+                 "url": "https://intragate.ec.europa.eu/snet/grafana/"
                 }
                ]
               }

@@ -273,41 +273,64 @@ Bookmarks
 					SNet
 					t:Secured Network
 					s:
+#----------------------------
 						SNet site
 						u:"https://intragate.ec.europa.eu/snet"
 							DG tools
 								DG Packages Tools
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/index.pl
 								DHCP report
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/dhcp_report.pl
 								From IP to SW/Slot/Port
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/ip2slotport_snmp.pl
 								Subnet database
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList.pl
 								Subnet database Full
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_uncensored.pl
 								Subnet database JRC
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_jrc.pl
 								VRF report
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/vrf_report.pl
 								Switch/Slot/Port Config.
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/switchConfig_snmp.pl
 								Full building Patch
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching_all.pl
 								Patching database
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching.pl
 
 							Authentication
 								EC LDAP Checker
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/LDAP_Group_Check.pl
 								EC internet LDAP
+								u:http://www.cc.cec/home/ced_password/password_en.cfm
 								SNet LDAP Manager
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl
 								User Dump
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl
 								LDAP Dump
+								u:https://intragate.ec.europa.eu/snet/web2ldap/
 
 							Bluegios
-								# Service
+								Service	
 									INT JMO
+									u:https://intragate.ec.europa.eu/snet/bluegios-int-jmo
 									INT HOST
+									u:https://intragate.ec.europa.eu/snet/bluegios-int-host
 									EXT JMO (ipv6)
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-jmo
 									EXT HOST
-								# Modem
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-host
+								Modem
 									EXT JMO
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-jmo/modem
 									EXT HOST
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-host/modem
 
 							Certificates
 								Cert SID List
-								# Report
+								Report
 									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ssl_reports.pl
 
 							Databases
 								APPUDIGP
@@ -317,145 +340,203 @@ Bookmarks
 								Proteus
 
 							DNS
-								# Check
+								Check
 									Subnet DNS Check
-								# Config
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/subnetList_DNSCheck.pl
+								Config
 									DNSui
 									DNS INT.
 									DNS DMZ.
 									DNS EXT.
-								# Tools
+								Tools
 									SNET DNS Tools
-								# Logging
+									u:https://intragate.ec.europa.eu/snet/dnstools/
+								Logging
 									ReLog
 
 							Firewall
-								# Check
+								Check	
 									Anomalie tracker
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/fwlogmgt/fw_anomalies_tracker.pl
 									FW Rules Auditing
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/FirewallStat.pl
 									Report Top Anomalies
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_drop.pl
 									Check FW objects
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/anomalies_tracker.pl
 									Algosec reports
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl
 									Shared Apps
-								# Algo FW EC
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/algosec.pl
+								Algo FW EC	
 									FW1bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw100bx_root.html
 									FW1lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw100lu_root.html
 									FW2bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw200bx_root.html
 									FW2lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw200lu_root.html
 									FW3bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw300bx.html
 									FW3lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw300lu.html
 									FW4bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw400bx.html
 									FW4lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw400lu.html
 									FW5bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw500bx.html
 									FW5lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw500lu.html
 									FW6bx DC Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw600bx_root.html
 									FW6lu DC Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw600lu_root.html
 									FW7bx CENT Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw700lu_root.html
 									FW7lu CENT Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw700bx_root.html
 									FW8bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw800bx_root.html
 									FW8lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw800lu_root.html
 									FW9bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw900bx_root.html
 									FW9lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw900lu_root.html
 									FWSNetbx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_bxl_root.html
 									FWSNetlu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_lux_root.html
 									FW JRC ISP Rules
-								# IR01 ACL
-									Internet-ACL
-								# Report
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwjrc_isp.html
+								IR01 ACL	
 									DMZ SID list
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=DMZ
+								Report
 									Report DMZ 147.67/16
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_147_67.pl?action=Submit&function=diego_Extract_network_147_67
 									DMZ List
-								# Search
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
+								Search	
 									Sherlock FW
+									u:https://sherlock.snmc.cec.eu.int/cgi-bin/test.pl#tabs-2
 									IP from DMZ
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/IP_DMZ_check.pl
 									Algosec report
-								# External Tools
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl
+								External Tools
 									Algosec
+									u:https://valgosec-jmo.snmc.cec.eu.int/
 									BusinessFlow
+									u:https://valgosec-jmo.snmc.cec.eu.int/BusinessFlow
 									BusinessFlow RP
+									u:https://intragate.ec.europa.eu/snet/BusinessFlow
 
 							IPAM Proteus
-								# External Tools
+								External Tools
 									Proteus
-								# Report
+									u:https://proteus.snmc.cec.eu.int/
+								Report	
 									VRF SID list
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=VRF
 									Proteus History Search
 									Proteus Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_value.pl
 									SID Proteus Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ipam_reports.pl
 									Proteus Subnet DC
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_subnet_dc.pl
 
 							L4S
-								# Check
+								Check
 									REMI
-								# Config
+								Config
 									Config L4S
 									Config L4S Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_L4S/repository/show/resouces
 									Config L4S Old Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/opt-l4s/repository/show/resouces
 									VIPWatcher
 									LBui
-								# Tools
-								# Logging
+								Tools
+								Logging
 									ReLog
 
 							Network
 								DCA
-								# Reporting
+								u:https://intragate.ec.europa.eu/snet/dca/index.html
+								Reporting
 									ACI reports
 									Cisco PI reports
-								# Tools
+								Tools
 									Cisco PI
 									LUX_DC ACI
 									Cisco ACS
 
 							Proxy
-								# Check
+								Check
 									Proxy PAC tester
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ProxyPacTester.pl
 									SGOS5 Health Check
-								# Config
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
+								Config
 									Local Database
+									u:https://intragate.ec.europa.eu/snet/blacklist/blacklist.txt
 									Config Proxy
 									Config Proxy Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
 									Central Policy
-								# Search
+									u:https://intragate.ec.europa.eu/snet/blacklist/central_policy.txt
+								Search
 									Sherlock
 
 							Remote Access
-								# Check
+								Check
 									Check User
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/check_users_in_AD_group.pl
 									Get User
-								# Config
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl
+								Config
 									RUM
 
 							Reporting
-								# Carrier
+								Carrier
 									Carrier Services
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_CarrierServices.pl
 									Cacti Volume Report
-								# Power
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cacti_volume_report.pl
+								Power
 									Power Report
-								# Subnet DSL
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/reports_powercut.pl
+								Subnet DSL
 									Subn 10.17/16 inv.
 
 							Reverse-Proxy
-								# Check
+								Check
 									Droopy
+									u:https://droopy.snmc.cec.eu.int/
 									SGOS5 Health Check
-								# Config
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
+								Config
 									BlueWatcher
 									Config RP
 									Config RP Redmine
-								# Mapping
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
+								Mapping
 									Form upload
 									MAPui
-								# Logging
+								Logging
 									ReLog
 
 							SecurityConvention/ADSL-Like
-								# SC
+								SC
 									SC Sharepoint
 									SC SID List
 									SC List
 									SC Checking
-								# ADSL-like
+								ADSL-like
 									ADSL-like List: Active
 									ADSL-like List: History
 									ADSL-like List: All
@@ -464,21 +545,24 @@ Bookmarks
 									CashRegister Checking
 
 							SID
-								# Check
+								Check
 									SID vs. Proteus Subnet
 									SID vs. Proteus Device
 									SID CRUD
 									SID Visual
+									u:https://intragate.ec.europa.eu/snet/sid/visual
 									EC Subnet Nomemclature
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_EC.pl
 									JRC Subnet Nomemclature
-								# Config
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_JRC.pl
+								Config
 									SID easiCAPs
-								# Reporting
+								Reporting
 									Reporting
 									SP List
 									Diego
 									Patching export
-								# CostModel
+								CostModel
 									CostModel xls
 									ADSL-like List
 									ADSL-like List: Active
@@ -486,36 +570,43 @@ Bookmarks
 									DMZ List
 
 							SMARTS
-								# Analyse
+								Analyse	
 									SNMP Traps Analyse
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/daily_snmp-trap_chart.pl
 									Event Search
-								# Problem Mgt
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/search_event.pl
+								Problem Mgt	
 									Class Graphs Monthly
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_class_pie.pl
 									Event Graphs Classly
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_event_pie.pl
 									Instance Graphs Evently
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_instance_pie.pl
 									Evolution Class Graphs
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/evolution_class_chart.pl
 
 							SNet tools
 								IPv4 calc
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/ipcalc.pl
 								Splunk
 								Paul Schou xlate
 								Phonetic
 								RE Subnet Generator
 								Wake on LAN
-								# SMT
+								SMT
 									SMT6 prod
-								# VMware
+								VMware
 									Vcenter Prod
 									Vcenter Dev
 
 							Vulnerability
-								# Check
-								# Config
+								Check
+								Config
 									Vulnerability SP
 									Vulnerability SP List
 									Vulnerability SP List full
 									CPE registred
-								# Reporting
+								Reporting
 									Vulnerability List
 									Reporting
 
@@ -526,12 +617,14 @@ Bookmarks
 								AP Checking
 
 							externals tools
-								Prometheus-Grafana
-								RedMine
-								u:"https://intragate.ec.europa.eu/snet/redmine/"
+							ext
+								Redmine
+								u:https://intragate.ec.europa.eu/snet/redmine/
 								Cacti
-								u:"https://intragate.ec.europa.eu/snet/cacti/"
-
+								u:https://intragate.ec.europa.eu/snet/cacti/
+								Prometheus-Grafana
+								u:https://intragate.ec.europa.eu/snet/grafana/
+#----------------------------
 						Kate (SNet Portal)
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
 							Perceval
