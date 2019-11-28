@@ -275,10 +275,263 @@ Bookmarks
 					s:
 						SNet site
 						u:"https://intragate.ec.europa.eu/snet"
-							RedMine
-							u:"https://intragate.ec.europa.eu/snet/redmine/"
-							Cacti
-							u:"https://intragate.ec.europa.eu/snet/cacti/"
+							DG tools
+								DG Packages Tools
+								DHCP report
+								From IP to SW/Slot/Port
+								Subnet database
+								Subnet database Full
+								Subnet database JRC
+								VRF report
+								Switch/Slot/Port Config.
+								Full building Patch
+								Patching database
+
+							Authentication
+								EC LDAP Checker
+								EC internet LDAP
+								SNet LDAP Manager
+								User Dump
+								LDAP Dump
+
+							Bluegios
+								# Service
+									INT JMO
+									INT HOST
+									EXT JMO (ipv6)
+									EXT HOST
+								# Modem
+									EXT JMO
+									EXT HOST
+
+							Certificates
+								Cert SID List
+								# Report
+									Reporting
+
+							Databases
+								APPUDIGP
+								APPUDIGT
+								NRMDIGP
+								NRMDIGT
+								Proteus
+
+							DNS
+								# Check
+									Subnet DNS Check
+								# Config
+									DNSui
+									DNS INT.
+									DNS DMZ.
+									DNS EXT.
+								# Tools
+									SNET DNS Tools
+								# Logging
+									ReLog
+
+							Firewall
+								# Check
+									Anomalie tracker
+									FW Rules Auditing
+									Report Top Anomalies
+									Check FW objects
+									Algosec reports
+									Shared Apps
+								# Algo FW EC
+									FW1bx Rules
+									FW1lu Rules
+									FW2bx Rules
+									FW2lu Rules
+									FW3bx Rules
+									FW3lu Rules
+									FW4bx Rules
+									FW4lu Rules
+									FW5bx Rules
+									FW5lu Rules
+									FW6bx DC Rules
+									FW6lu DC Rules
+									FW7bx CENT Rules
+									FW7lu CENT Rules
+									FW8bx Rules
+									FW8lu Rules
+									FW9bx Rules
+									FW9lu Rules
+									FWSNetbx Rules
+									FWSNetlu Rules
+									FW JRC ISP Rules
+								# IR01 ACL
+									Internet-ACL
+								# Report
+									DMZ SID list
+									Report DMZ 147.67/16
+									DMZ List
+								# Search
+									Sherlock FW
+									IP from DMZ
+									Algosec report
+								# External Tools
+									Algosec
+									BusinessFlow
+									BusinessFlow RP
+
+							IPAM Proteus
+								# External Tools
+									Proteus
+								# Report
+									VRF SID list
+									Proteus History Search
+									Proteus Report
+									SID Proteus Report
+									Proteus Subnet DC
+
+							L4S
+								# Check
+									REMI
+								# Config
+									Config L4S
+									Config L4S Redmine
+									Config L4S Old Redmine
+									VIPWatcher
+									LBui
+								# Tools
+								# Logging
+									ReLog
+
+							Network
+								DCA
+								# Reporting
+									ACI reports
+									Cisco PI reports
+								# Tools
+									Cisco PI
+									LUX_DC ACI
+									Cisco ACS
+
+							Proxy
+								# Check
+									Proxy PAC tester
+									SGOS5 Health Check
+								# Config
+									Local Database
+									Config Proxy
+									Config Proxy Redmine
+									Central Policy
+								# Search
+									Sherlock
+
+							Remote Access
+								# Check
+									Check User
+									Get User
+								# Config
+									RUM
+
+							Reporting
+								# Carrier
+									Carrier Services
+									Cacti Volume Report
+								# Power
+									Power Report
+								# Subnet DSL
+									Subn 10.17/16 inv.
+
+							Reverse-Proxy
+								# Check
+									Droopy
+									SGOS5 Health Check
+								# Config
+									BlueWatcher
+									Config RP
+									Config RP Redmine
+								# Mapping
+									Form upload
+									MAPui
+								# Logging
+									ReLog
+
+							SecurityConvention/ADSL-Like
+								# SC
+									SC Sharepoint
+									SC SID List
+									SC List
+									SC Checking
+								# ADSL-like
+									ADSL-like List: Active
+									ADSL-like List: History
+									ADSL-like List: All
+									ADSL-like SID Mgmnt
+									ADSL VRF Checking
+									CashRegister Checking
+
+							SID
+								# Check
+									SID vs. Proteus Subnet
+									SID vs. Proteus Device
+									SID CRUD
+									SID Visual
+									EC Subnet Nomemclature
+									JRC Subnet Nomemclature
+								# Config
+									SID easiCAPs
+								# Reporting
+									Reporting
+									SP List
+									Diego
+									Patching export
+								# CostModel
+									CostModel xls
+									ADSL-like List
+									ADSL-like List: Active
+									AP List
+									DMZ List
+
+							SMARTS
+								# Analyse
+									SNMP Traps Analyse
+									Event Search
+								# Problem Mgt
+									Class Graphs Monthly
+									Event Graphs Classly
+									Instance Graphs Evently
+									Evolution Class Graphs
+
+							SNet tools
+								IPv4 calc
+								Splunk
+								Paul Schou xlate
+								Phonetic
+								RE Subnet Generator
+								Wake on LAN
+								# SMT
+									SMT6 prod
+								# VMware
+									Vcenter Prod
+									Vcenter Dev
+
+							Vulnerability
+								# Check
+								# Config
+									Vulnerability SP
+									Vulnerability SP List
+									Vulnerability SP List full
+									CPE registred
+								# Reporting
+									Vulnerability List
+									Reporting
+
+							WIFI
+								Cisco PI
+								AP SID List
+								AP List
+								AP Checking
+
+							externals tools
+								Prometheus-Grafana
+								RedMine
+								u:"https://intragate.ec.europa.eu/snet/redmine/"
+								Cacti
+								u:"https://intragate.ec.europa.eu/snet/cacti/"
+
 						Kate (SNet Portal)
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
 							Perceval

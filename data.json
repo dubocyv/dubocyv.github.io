@@ -575,12 +575,838 @@
              "url": "https://intragate.ec.europa.eu/snet",
              "children": [
               {
-               "name": "RedMine",
-               "url": "https://intragate.ec.europa.eu/snet/redmine/"
+               "name": "DG tools",
+               "children": [
+                {
+                 "name": "DG Packages Tools"
+                },
+                {
+                 "name": "DHCP report"
+                },
+                {
+                 "name": "From IP to SW/Slot/Port"
+                },
+                {
+                 "name": "Subnet database"
+                },
+                {
+                 "name": "Subnet database Full"
+                },
+                {
+                 "name": "Subnet database JRC"
+                },
+                {
+                 "name": "VRF report"
+                },
+                {
+                 "name": "Switch/Slot/Port Config."
+                },
+                {
+                 "name": "Full building Patch"
+                },
+                {
+                 "name": "Patching database"
+                }
+               ]
               },
               {
-               "name": "Cacti",
-               "url": "https://intragate.ec.europa.eu/snet/cacti/"
+               "name": "Authentication",
+               "children": [
+                {
+                 "name": "EC LDAP Checker"
+                },
+                {
+                 "name": "EC internet LDAP"
+                },
+                {
+                 "name": "SNet LDAP Manager"
+                },
+                {
+                 "name": "User Dump"
+                },
+                {
+                 "name": "LDAP Dump"
+                }
+               ]
+              },
+              {
+               "name": "Bluegios",
+               "children": [
+                {
+                 "name": "# Service",
+                 "children": [
+                  {
+                   "name": "INT JMO"
+                  },
+                  {
+                   "name": "INT HOST"
+                  },
+                  {
+                   "name": "EXT JMO (ipv6)"
+                  },
+                  {
+                   "name": "EXT HOST"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Modem",
+                 "children": [
+                  {
+                   "name": "EXT JMO"
+                  },
+                  {
+                   "name": "EXT HOST"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Certificates",
+               "children": [
+                {
+                 "name": "Cert SID List"
+                },
+                {
+                 "name": "# Report",
+                 "children": [
+                  {
+                   "name": "Reporting"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Databases",
+               "children": [
+                {
+                 "name": "APPUDIGP"
+                },
+                {
+                 "name": "APPUDIGT"
+                },
+                {
+                 "name": "NRMDIGP"
+                },
+                {
+                 "name": "NRMDIGT"
+                },
+                {
+                 "name": "Proteus"
+                }
+               ]
+              },
+              {
+               "name": "DNS",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "Subnet DNS Check"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "DNSui"
+                  },
+                  {
+                   "name": "DNS INT."
+                  },
+                  {
+                   "name": "DNS DMZ."
+                  },
+                  {
+                   "name": "DNS EXT."
+                  }
+                 ]
+                },
+                {
+                 "name": "# Tools",
+                 "children": [
+                  {
+                   "name": "SNET DNS Tools"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Logging",
+                 "children": [
+                  {
+                   "name": "ReLog"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Firewall",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "Anomalie tracker"
+                  },
+                  {
+                   "name": "FW Rules Auditing"
+                  },
+                  {
+                   "name": "Report Top Anomalies"
+                  },
+                  {
+                   "name": "Check FW objects"
+                  },
+                  {
+                   "name": "Algosec reports"
+                  },
+                  {
+                   "name": "Shared Apps"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Algo FW EC",
+                 "children": [
+                  {
+                   "name": "FW1bx Rules"
+                  },
+                  {
+                   "name": "FW1lu Rules"
+                  },
+                  {
+                   "name": "FW2bx Rules"
+                  },
+                  {
+                   "name": "FW2lu Rules"
+                  },
+                  {
+                   "name": "FW3bx Rules"
+                  },
+                  {
+                   "name": "FW3lu Rules"
+                  },
+                  {
+                   "name": "FW4bx Rules"
+                  },
+                  {
+                   "name": "FW4lu Rules"
+                  },
+                  {
+                   "name": "FW5bx Rules"
+                  },
+                  {
+                   "name": "FW5lu Rules"
+                  },
+                  {
+                   "name": "FW6bx DC Rules"
+                  },
+                  {
+                   "name": "FW6lu DC Rules"
+                  },
+                  {
+                   "name": "FW7bx CENT Rules"
+                  },
+                  {
+                   "name": "FW7lu CENT Rules"
+                  },
+                  {
+                   "name": "FW8bx Rules"
+                  },
+                  {
+                   "name": "FW8lu Rules"
+                  },
+                  {
+                   "name": "FW9bx Rules"
+                  },
+                  {
+                   "name": "FW9lu Rules"
+                  },
+                  {
+                   "name": "FWSNetbx Rules"
+                  },
+                  {
+                   "name": "FWSNetlu Rules"
+                  },
+                  {
+                   "name": "FW JRC ISP Rules"
+                  }
+                 ]
+                },
+                {
+                 "name": "# IR01 ACL",
+                 "children": [
+                  {
+                   "name": "Internet-ACL"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Report",
+                 "children": [
+                  {
+                   "name": "DMZ SID list"
+                  },
+                  {
+                   "name": "Report DMZ 147.67/16"
+                  },
+                  {
+                   "name": "DMZ List"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Search",
+                 "children": [
+                  {
+                   "name": "Sherlock FW"
+                  },
+                  {
+                   "name": "IP from DMZ"
+                  },
+                  {
+                   "name": "Algosec report"
+                  }
+                 ]
+                },
+                {
+                 "name": "# External Tools",
+                 "children": [
+                  {
+                   "name": "Algosec"
+                  },
+                  {
+                   "name": "BusinessFlow"
+                  },
+                  {
+                   "name": "BusinessFlow RP"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "IPAM Proteus",
+               "children": [
+                {
+                 "name": "# External Tools",
+                 "children": [
+                  {
+                   "name": "Proteus"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Report",
+                 "children": [
+                  {
+                   "name": "VRF SID list"
+                  },
+                  {
+                   "name": "Proteus History Search"
+                  },
+                  {
+                   "name": "Proteus Report"
+                  },
+                  {
+                   "name": "SID Proteus Report"
+                  },
+                  {
+                   "name": "Proteus Subnet DC"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "L4S",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "REMI"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "Config L4S"
+                  },
+                  {
+                   "name": "Config L4S Redmine"
+                  },
+                  {
+                   "name": "Config L4S Old Redmine"
+                  },
+                  {
+                   "name": "VIPWatcher"
+                  },
+                  {
+                   "name": "LBui"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Tools"
+                },
+                {
+                 "name": "# Logging",
+                 "children": [
+                  {
+                   "name": "ReLog"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Network",
+               "children": [
+                {
+                 "name": "DCA"
+                },
+                {
+                 "name": "# Reporting",
+                 "children": [
+                  {
+                   "name": "ACI reports"
+                  },
+                  {
+                   "name": "Cisco PI reports"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Tools",
+                 "children": [
+                  {
+                   "name": "Cisco PI"
+                  },
+                  {
+                   "name": "LUX_DC ACI"
+                  },
+                  {
+                   "name": "Cisco ACS"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Proxy",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "Proxy PAC tester"
+                  },
+                  {
+                   "name": "SGOS5 Health Check"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "Local Database"
+                  },
+                  {
+                   "name": "Config Proxy"
+                  },
+                  {
+                   "name": "Config Proxy Redmine"
+                  },
+                  {
+                   "name": "Central Policy"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Search",
+                 "children": [
+                  {
+                   "name": "Sherlock"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Remote Access",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "Check User"
+                  },
+                  {
+                   "name": "Get User"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "RUM"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Reporting",
+               "children": [
+                {
+                 "name": "# Carrier",
+                 "children": [
+                  {
+                   "name": "Carrier Services"
+                  },
+                  {
+                   "name": "Cacti Volume Report"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Power",
+                 "children": [
+                  {
+                   "name": "Power Report"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Subnet DSL",
+                 "children": [
+                  {
+                   "name": "Subn 10.17/16 inv."
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Reverse-Proxy",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "Droopy"
+                  },
+                  {
+                   "name": "SGOS5 Health Check"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "BlueWatcher"
+                  },
+                  {
+                   "name": "Config RP"
+                  },
+                  {
+                   "name": "Config RP Redmine"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Mapping",
+                 "children": [
+                  {
+                   "name": "Form upload"
+                  },
+                  {
+                   "name": "MAPui"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Logging",
+                 "children": [
+                  {
+                   "name": "ReLog"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "SecurityConvention/ADSL-Like",
+               "children": [
+                {
+                 "name": "# SC",
+                 "children": [
+                  {
+                   "name": "SC Sharepoint"
+                  },
+                  {
+                   "name": "SC SID List"
+                  },
+                  {
+                   "name": "SC List"
+                  },
+                  {
+                   "name": "SC Checking"
+                  }
+                 ]
+                },
+                {
+                 "name": "# ADSL-like",
+                 "children": [
+                  {
+                   "name": "ADSL-like List: Active"
+                  },
+                  {
+                   "name": "ADSL-like List: History"
+                  },
+                  {
+                   "name": "ADSL-like List: All"
+                  },
+                  {
+                   "name": "ADSL-like SID Mgmnt"
+                  },
+                  {
+                   "name": "ADSL VRF Checking"
+                  },
+                  {
+                   "name": "CashRegister Checking"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "SID",
+               "children": [
+                {
+                 "name": "# Check",
+                 "children": [
+                  {
+                   "name": "SID vs. Proteus Subnet"
+                  },
+                  {
+                   "name": "SID vs. Proteus Device"
+                  },
+                  {
+                   "name": "SID CRUD"
+                  },
+                  {
+                   "name": "SID Visual"
+                  },
+                  {
+                   "name": "EC Subnet Nomemclature"
+                  },
+                  {
+                   "name": "JRC Subnet Nomemclature"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "SID easiCAPs"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Reporting",
+                 "children": [
+                  {
+                   "name": "Reporting"
+                  },
+                  {
+                   "name": "SP List"
+                  },
+                  {
+                   "name": "Diego"
+                  },
+                  {
+                   "name": "Patching export"
+                  }
+                 ]
+                },
+                {
+                 "name": "# CostModel",
+                 "children": [
+                  {
+                   "name": "CostModel xls"
+                  },
+                  {
+                   "name": "ADSL-like List"
+                  },
+                  {
+                   "name": "ADSL-like List: Active"
+                  },
+                  {
+                   "name": "AP List"
+                  },
+                  {
+                   "name": "DMZ List"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "SMARTS",
+               "children": [
+                {
+                 "name": "# Analyse",
+                 "children": [
+                  {
+                   "name": "SNMP Traps Analyse"
+                  },
+                  {
+                   "name": "Event Search"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Problem Mgt",
+                 "children": [
+                  {
+                   "name": "Class Graphs Monthly"
+                  },
+                  {
+                   "name": "Event Graphs Classly"
+                  },
+                  {
+                   "name": "Instance Graphs Evently"
+                  },
+                  {
+                   "name": "Evolution Class Graphs"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "SNet tools",
+               "children": [
+                {
+                 "name": "IPv4 calc"
+                },
+                {
+                 "name": "Splunk"
+                },
+                {
+                 "name": "Paul Schou xlate"
+                },
+                {
+                 "name": "Phonetic"
+                },
+                {
+                 "name": "RE Subnet Generator"
+                },
+                {
+                 "name": "Wake on LAN"
+                },
+                {
+                 "name": "# SMT",
+                 "children": [
+                  {
+                   "name": "SMT6 prod"
+                  }
+                 ]
+                },
+                {
+                 "name": "# VMware",
+                 "children": [
+                  {
+                   "name": "Vcenter Prod"
+                  },
+                  {
+                   "name": "Vcenter Dev"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "Vulnerability",
+               "children": [
+                {
+                 "name": "# Check"
+                },
+                {
+                 "name": "# Config",
+                 "children": [
+                  {
+                   "name": "Vulnerability SP"
+                  },
+                  {
+                   "name": "Vulnerability SP List"
+                  },
+                  {
+                   "name": "Vulnerability SP List full"
+                  },
+                  {
+                   "name": "CPE registred"
+                  }
+                 ]
+                },
+                {
+                 "name": "# Reporting",
+                 "children": [
+                  {
+                   "name": "Vulnerability List"
+                  },
+                  {
+                   "name": "Reporting"
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "name": "WIFI",
+               "children": [
+                {
+                 "name": "Cisco PI"
+                },
+                {
+                 "name": "AP SID List"
+                },
+                {
+                 "name": "AP List"
+                },
+                {
+                 "name": "AP Checking"
+                }
+               ]
+              },
+              {
+               "name": "externals tools",
+               "children": [
+                {
+                 "name": "Prometheus-Grafana"
+                },
+                {
+                 "name": "RedMine",
+                 "url": "https://intragate.ec.europa.eu/snet/redmine/"
+                },
+                {
+                 "name": "Cacti",
+                 "url": "https://intragate.ec.europa.eu/snet/cacti/"
+                }
+               ]
               }
              ]
             },
