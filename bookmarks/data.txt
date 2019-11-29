@@ -177,13 +177,21 @@ Bookmarks
 			u:"http://portal.consilium.testa.eu/vacancy/"
 			EPSO
 			u:"https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
-			CERT-EU
-			t:News Monitor
-			u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
-				CVE
-				t:Common Vulnerability Enumeration
-				CPE
-				t:Commom Platform Enumeration
+			Media monitoring
+				EMM
+				t:Europe Media Monitor
+				u:https://emm.newsbrief.eu/overview.html
+				CERT-EU
+				t:CERT-EU News Monitor
+				u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
+					CVE
+					t:Common Vulnerability Enumeration
+					CPE
+					t:Commom Platform Enumeration
+				Medisys
+				u:https://medisys.newsbrief.eu/
+			Europe info
+			u:https://europa.eu/european-union/contact_en
 # - - - - - - -
 		EC
 		u:https://myintracomm.ec.europa.eu/
@@ -765,6 +773,13 @@ Bookmarks
 					u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/training-guide.aspx
 				Budget en ligne
 				u:https://eur-lex.europa.eu/budget/www/index-fr.htm
+# - - - - - - -
+			JRC
+			u:https://ec.europa.eu/jrc/en
+			t:Joint Research Centre
+				Digital Media Hub
+				u:https://visitors-centre.jrc.ec.europa.eu/en/media
+
 # - - - - - - -
 			Trade
 			u:"https://myintracomm.ec.europa.eu/dg/trade/"
