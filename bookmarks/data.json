@@ -42,11 +42,39 @@
       {
        "name": "EPPO",
        "tip": "European Public Prosecutor's Office"
+      },
+      {
+       "name": "CIRCABC",
+       "url": "https://circabc.europa.eu/ui/welcome",
+       "tip": "CIRCABC provides a secured working area to share information over thousands of users and interest groups."
+      },
+      {
+       "name": "TED",
+       "tip": "Tenders Electronic Daily",
+       "url": "http://ted.europa.eu",
+       "children": [
+        {
+         "name": "eTendering",
+         "tip": "Call for tenders' publication",
+         "url": "http://etendering.ted.europa.eu"
+        },
+        {
+         "name": "SIMAP",
+         "url": "http://simap.ted.europa.eu"
+        }
+       ]
+      },
+      {
+       "name": "GAMA",
+       "url": "https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx",
+       "tip": "Administrative contracts analysis group",
+       "desc": "'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA."
       }
      ]
     },
     {
      "name": "DiGIT",
+     "sort": "",
      "children": [
       {
        "name": "GovTech",
@@ -283,6 +311,9 @@
              "tip": "Business Service Element (user's perspective)"
             }
            ]
+          },
+          {
+           "name": "TELSYS *"
           },
           {
            "name": "WACS (fwc)",

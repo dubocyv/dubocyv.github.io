@@ -20,7 +20,23 @@ Bookmarks
 			t:Corporate Management Board
 			EPPO
 			t:European Public Prosecutor's Office
+			CIRCABC
+			u:https://circabc.europa.eu/ui/welcome
+			t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
+			TED
+			t:Tenders Electronic Daily
+			u:http://ted.europa.eu
+				eTendering
+				t:Call for tenders' publication
+				u:http://etendering.ted.europa.eu
+				SIMAP
+				u:http://simap.ted.europa.eu
+			GAMA
+			u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
+			t:Administrative contracts analysis group
+			d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
 		DiGIT
+		s:
 			GovTech
 			t:GovTech aims to build better services for citizens and better tools for public servants.
 			MAP
@@ -136,6 +152,7 @@ Bookmarks
 						t:Technical Service Element (provider's perspective)
 						BSE
 						t:Business Service Element (user's perspective)
+					TELSYS *
 					WACS (fwc)
 					t:Web Audio Conferencing Service
 			C.5
