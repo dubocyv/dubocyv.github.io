@@ -21,6 +21,7 @@
 	document.addEventListener("keyup", function(event) {var El=document.getElementById("logo").style;var Em=document.getElementById("menuToggle").style;if (event.shiftKey) {switch (event.keyCode) {case 32:El.display.length &&(El.display != "block") ?El.display = "block" :El.display = "none";Em.display.length &&(Em.display != "block") ?Em.display = "block" :Em.display = "none";break;case 60:case 220:case 226:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;}}else {switch (event.keyCode) {case 27:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;case 60:case 220:case 226:El.display = "none";Em.display = "none";$('#mTC').prop('checked', false);break;}}});</script>
 </head>
 <body>
+	<div id="menuToggle"></div>
 	<div id="logo">
 	<h2>
 	DiGIT.C4<br>
