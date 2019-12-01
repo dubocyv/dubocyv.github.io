@@ -30,6 +30,7 @@ Bookmarks
 				t:Call for tenders' publication
 				u:http://etendering.ted.europa.eu
 				SIMAP
+				d:information system for public procurement (fr. <b>s</b>ystème d'<b>i</b>nformation pour les <b>ma</b>rchés <b>p</b>ublics).
 				u:http://simap.ted.europa.eu
 			GAMA
 			u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
