@@ -13,7 +13,7 @@ Bookmarks
 	Glossary
 		Global
 		s:
-			ISA�
+			ISA²
 			t:Interoperability solutions for public administrations, businesses and citizens
 			u:https://ec.europa.eu/isa2
 			CMB
@@ -30,7 +30,7 @@ Bookmarks
 				t:Tender documentation for EU calls for competitions
 				u:http://etendering.ted.europa.eu
 				SIMAP
-				t:Information system for public procurement (fr. Syst�me d'Information pour les MArch�s Publics).
+				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
 				u:http://simap.ted.europa.eu
 					eSenders
 					t:Information for and about TED eSenders
@@ -195,7 +195,7 @@ Bookmarks
 			RCAM/JSIS
 			u:"https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
 			Europass
-			t:Curriculum vitae - Passeport européen de compétences | Composer
+			t:Curriculum vitae - Passeport europÃ©en de compÃ©tences | Composer
 			u:"https://europass.cedefop.europa.eu/editors/fr/cv/compose"
 			EUPosts
 			u:"http://portal.consilium.testa.eu/vacancy/"
@@ -279,7 +279,7 @@ Bookmarks
 			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
 				MITS (My IT Support)
 				u:"https://webgate.ec.testa.eu/mits/home.do"
-				Suppléances Calendar
+				SupplÃ©ances Calendar
 				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 				MM Presentations
 				u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
@@ -928,7 +928,7 @@ Bookmarks
 			EP
 				Europarl
 				u:http://www.europarl.ep.parl.union.eu/
-					Séance en direct
+					SÃ©ance en direct
 					u:http://www.europarl.europa.eu/sed
 				Intranet
 					De
@@ -946,7 +946,7 @@ Bookmarks
 					ITECNet
 					u:https://itecnet.in.ep.europa.eu/home.html
 				KMPortal
-				t:Knowledge Management Portal on Parliament’s activities
+				t:Knowledge Management Portal on Parliamentâ€™s activities
 				u:http://www.kmportal.ep.parl.union.eu/kmportal/home.htm
 				Admin
 					Streamline
@@ -1019,7 +1019,7 @@ Bookmarks
 				PROJSUP
 					BPM
 						Engage
-						t:Project management methodology of the EP’s organisational projects
+						t:Project management methodology of the EPâ€™s organisational projects
 						u:https://engage.in.ep.europa.eu/gen
 						Connect (ARIS)
 						u:http://www.aris.ep.parl.union.eu/
