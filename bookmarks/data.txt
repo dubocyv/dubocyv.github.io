@@ -24,14 +24,20 @@ Bookmarks
 			u:https://circabc.europa.eu/ui/welcome
 			t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
 			TED
-			t:Tenders Electronic Daily
+			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond
 			u:http://ted.europa.eu
 				eTendering
-				t:Call for tenders' publication
+				t:Tender documentation for EU calls for competitions
 				u:http://etendering.ted.europa.eu
 				SIMAP
-				d:information system for public procurement (fr. <b>s</b>ystème d'<b>i</b>nformation pour les <b>ma</b>rchés <b>p</b>ublics).
+				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
 				u:http://simap.ted.europa.eu
+					eSenders
+					t:Information for and about TED eSenders
+					u:https://simap.ted.europa.eu/ted-esenders
+					eNotices
+					t:Online application to prepare and publish public procurement notices
+					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
 			GAMA
 			u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
 			t:Administrative contracts analysis group
