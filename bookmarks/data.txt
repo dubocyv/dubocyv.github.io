@@ -13,7 +13,7 @@ Bookmarks
 	Glossary
 		Global
 		s:
-			ISAÂ²
+			ISA²
 			t:Interoperability solutions for public administrations, businesses and citizens
 			u:https://ec.europa.eu/isa2
 			CMB
