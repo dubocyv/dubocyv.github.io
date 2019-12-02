@@ -73,5 +73,6 @@
 
 	<script>document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
 	<div id="Lfooter"><img src="/images/EClogo.svg"></div>
+	<div id="Rfooter"></div>
 </body>
 </html>
