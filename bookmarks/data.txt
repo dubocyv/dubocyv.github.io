@@ -58,7 +58,33 @@ Bookmarks
 			Dir C
 				DWP
 				t:Digital WorkPlace (C3, C5 & C6 involved)
-			C.4
+			C1
+				Cost model
+				t:Allows financing of DiGIT C
+					Composition
+						Pricing
+						t:Exercice allowing unit price calculation + extra layer before publication
+						Chargeback
+						t:Client consumption billing
+						Showback
+						t:Client consumption shown but not billed. Clients reports are visible on 'Unified reporting'.
+					Service definitions
+						TSE
+						t:Technical Service Element (provider's perspective).
+						d:Technical Service Element is an internal (technical) element in a certain sector, to which we map the activity codes and the hosting of the IS (if any).
+						BSE
+						t:Business Service Element (client's perspective)
+						d:Business Service Element is the service itself, the one we sell to our customers. A BSE can have one TSE mapped to it 100% or can be combined by several TSEs from different Units/Directorates.
+						Cost Driver
+						d:Cost Driver is the measurable element which defines the unit cost of each element:<dl><dt>TSE’s cost driver</dt><dd>virtual driver (100%)</dd><dt>BSE’s cost driver</dt><dd>the value of the driver on the 1st of January Y(n).</dd></dl>The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
+						Costing
+						t:The exercise of calculating the real unit cost at the end of the annual pricing exercise
+						Pricing
+						t:The extra layer added by the Director before publishing
+						UCL
+						t:Unit Cost List
+
+			C4
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
 				DN
 				t:Data Network
@@ -154,37 +180,21 @@ Bookmarks
 					RACHEL (fwc)
 					t:Remote Access to Commission Hosted Environments
 					SIDE2 (fwc) *
-					Cost model
-						Composition
-							Pricing
-							t:Exercice allowing unit price calculation + extra layer before publication
-							Chargeback
-							t:Client consumption billing
-							Showback
-							t:Client consumption shown but not billed. Clients reports are visible on 'Unified reporting'.
-						Service definition
-						t:A BSE can be composed of one or several TSE (from the same unit or not). TSE and BSE each have an owner.
-							TSE
-							t:Technical Service Element (provider's perspective). Basic technical element on which the budget is allocated, following its activity code and its hosting cost (if any)
-							BSE
-							t:Business Service Element (user's perspective)
-							Cost driver
-							t:Measurable element allowing the definition of the unit cost of each TSE and BSE. The cost driver of a TSE is a virtual driver (100%) or identical to its BSE. The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
 					TELSYS *
 					WACS (fwc)
 					t:Web Audio Conferencing Service
-			C.5
+			C5
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM
 				EUSS (fwc)
 				t:End User Support Service
 				YUM *
-			C.6
+			C6
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM
 				NUPS (fwc)
 				t:Network Users Proximity Service
 				MDM
 				t:Mobile Devices Management
-			D.3
+			D3
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM
 				IAM
 				t:Identity & Access Management
