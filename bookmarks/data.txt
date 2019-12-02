@@ -59,6 +59,7 @@ Bookmarks
 				DWP
 				t:Digital WorkPlace (C3, C5 & C6 involved)
 			C1
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231956&orgSource=COM
 				Cost model
 				t:Allows financing of DiGIT C
 					Composition
