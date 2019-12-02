@@ -62,6 +62,7 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231956&orgSource=COM
 				Cost model
 				t:Allows financing of DiGIT C
+				i:/images/costModelPricingWorkflow.png
 					Composition
 						Pricing
 						t:Exercice allowing unit price calculation + extra layer before publication

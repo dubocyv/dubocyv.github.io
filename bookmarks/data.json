@@ -126,6 +126,7 @@
         {
          "name": "Cost model",
          "tip": "Allows financing of DiGIT C",
+         "img": "/images/costModelPricingWorkflow.png",
          "children": [
           {
            "name": "Composition",
