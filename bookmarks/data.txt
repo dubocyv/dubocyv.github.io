@@ -155,10 +155,21 @@ Bookmarks
 					t:Remote Access to Commission Hosted Environments
 					SIDE2 (fwc) *
 					Cost model
-						TSE
-						t:Technical Service Element (provider's perspective)
-						BSE
-						t:Business Service Element (user's perspective)
+						Composition
+							Pricing
+							t:Exercice allowing unit price calculation + extra layer before publication
+							Chargeback
+							t:Client consumption billing
+							Showback
+							t:Client consumption shown but not billed. Clients reports are visible on 'Unified reporting'.
+						Service definition
+						t:A BSE can be composed of one or several TSE (from the same unit or not). TSE and BSE each have an owner.
+							TSE
+							t:Technical Service Element (provider's perspective). Basic technical element on which the budget is allocated, following its activity code and its hosting cost (if any)
+							BSE
+							t:Business Service Element (user's perspective)
+							Cost driver
+							t:Measurable element allowing the definition of the unit cost of each TSE and BSE. The cost driver of a TSE is a virtual driver (100%) or identical to its BSE. The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
 					TELSYS *
 					WACS (fwc)
 					t:Web Audio Conferencing Service
@@ -298,6 +309,10 @@ Bookmarks
 					u:"https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
 					DC calendar
 					u:"http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx"
+					OPS4DEV
+					u:https://webcast.ec.europa.eu/ops4devs
+						201911 slides & wiki
+						u:https://webgate.ec.europa.eu/fpfis/wikis/display/ITGOV/Ops4Devs+November+2019+Presentations
 
 				C4
 					SharePoint C4
@@ -622,12 +637,14 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl
 
 							SID
+							t:Semantic Information Database (CMDB)
 								Check
 									SID vs. Proteus Subnet
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet.pl
 									SID vs. Proteus Device
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_device.pl
 									SID CRUD
+									t:Direct SID access
 									u:https://intragate.ec.europa.eu/snet/sid/crud
 									SID Visual
 									u:https://intragate.ec.europa.eu/snet/sid/visual
@@ -644,6 +661,7 @@ Bookmarks
 									SP List
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sp_list.pl
 									Diego
+									t:Read-only access to SID
 									u:https://intragate.ec.europa.eu/snet/diego
 									Patching export
 									u:https://intragate.ec.europa.eu/snet/hg/snetis_Patching

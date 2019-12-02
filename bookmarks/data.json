@@ -316,12 +316,39 @@
            "name": "Cost model",
            "children": [
             {
-             "name": "TSE",
-             "tip": "Technical Service Element (provider's perspective)"
+             "name": "Composition",
+             "children": [
+              {
+               "name": "Pricing",
+               "tip": "Exercice allowing unit price calculation + extra layer before publication"
+              },
+              {
+               "name": "Chargeback",
+               "tip": "Client consumption billing"
+              },
+              {
+               "name": "Showback",
+               "tip": "Client consumption shown but not billed. Clients reports are visible on 'Unified reporting'."
+              }
+             ]
             },
             {
-             "name": "BSE",
-             "tip": "Business Service Element (user's perspective)"
+             "name": "Service definition",
+             "tip": "A BSE can be composed of one or several TSE (from the same unit or not). TSE and BSE each have an owner.",
+             "children": [
+              {
+               "name": "TSE",
+               "tip": "Technical Service Element (provider's perspective). Basic technical element on which the budget is allocated, following its activity code and its hosting cost (if any)"
+              },
+              {
+               "name": "BSE",
+               "tip": "Business Service Element (user's perspective)"
+              },
+              {
+               "name": "Cost driver",
+               "tip": "Measurable element allowing the definition of the unit cost of each TSE and BSE. The cost driver of a TSE is a virtual driver (100%) or identical to its BSE. The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year."
+              }
+             ]
             }
            ]
           },
@@ -617,6 +644,16 @@
           {
            "name": "DC calendar",
            "url": "http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx"
+          },
+          {
+           "name": "OPS4DEV",
+           "url": "https://webcast.ec.europa.eu/ops4devs",
+           "children": [
+            {
+             "name": "201911 slides & wiki",
+             "url": "https://webgate.ec.europa.eu/fpfis/wikis/display/ITGOV/Ops4Devs+November+2019+Presentations"
+            }
+           ]
           }
          ]
         },
@@ -1384,6 +1421,7 @@
               },
               {
                "name": "SID",
+               "tip": "Semantic Information Database (CMDB)",
                "children": [
                 {
                  "name": "Check",
@@ -1398,6 +1436,7 @@
                   },
                   {
                    "name": "SID CRUD",
+                   "tip": "Direct SID access",
                    "url": "https://intragate.ec.europa.eu/snet/sid/crud"
                   },
                   {
@@ -1436,6 +1475,7 @@
                   },
                   {
                    "name": "Diego",
+                   "tip": "Read-only access to SID",
                    "url": "https://intragate.ec.europa.eu/snet/diego"
                   },
                   {

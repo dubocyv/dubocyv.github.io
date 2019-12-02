@@ -21,7 +21,6 @@
 	document.addEventListener("keyup", function(event) {var El=document.getElementById("logo").style;var Em=document.getElementById("menuToggle").style;if (event.shiftKey) {switch (event.keyCode) {case 32:El.display.length &&(El.display != "block") ?El.display = "block" :El.display = "none";Em.display.length &&(Em.display != "block") ?Em.display = "block" :Em.display = "none";break;case 60:case 220:case 226:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;}}else {switch (event.keyCode) {case 27:El.display = "block";Em.display = "block";$('#mTC').prop('checked', false);break;case 60:case 220:case 226:El.display = "none";Em.display = "none";$('#mTC').prop('checked', false);break;}}});</script>
 </head>
 <body>
-	<div id="menuToggle"></div>
 	<div id="logo">
 	<h2>
 	DiGIT.C4<br>
@@ -30,7 +29,7 @@
 	Useful bookmarks</b>
 	<hr>
 	<br>
-	This page is a collection of bookmarks</span>
+	This page is a collection of bookmarks and information centered around C.4 activities</span>
 	</h2>
 	</div>
 	<div id="tree-container">
@@ -73,6 +72,5 @@
 
 	<script>document.addEventListener("keyup", function(event) {var EL=document.getElementById("Lfooter").style;var ER=document.getElementById("Rfooter").style;if (event.shiftKey) {switch (event.keyCode) {case 32:EL.display.length &&(EL.display != "block") ?EL.display = "block" :EL.display = "none";ER.display.length &&(ER.display != "block") ?ER.display = "block" :ER.display = "none";break;case 60:case 220:case 226:EL.display = "block";ER.display = "block";break;}}else {switch (event.keyCode) {case 27:EL.display = "block";ER.display = "block";break;case 60:case 220:case 226:EL.display = "none";ER.display = "none";break;}}if (event.keyCode == 27) {}if (event.shiftKey) {if (event.key == ' ') {}}});</script>
 	<div id="Lfooter"><img src="/images/EClogo.svg"></div>
-	<div id="Rfooter"><!--<img src="/images/EClogo.svg">--></div>
 </body>
 </html>
