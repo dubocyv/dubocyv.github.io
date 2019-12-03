@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191203 13:43",
+ "tip": "_UPDATED_20191203 17:12",
  "children": [
   {
    "name": "Dictionaries",
@@ -47,6 +47,9 @@
       {
        "name": "RAL",
        "tip": "Reste A Liquider (Still to be paid)"
+      },
+      {
+       "name": "DAP *"
       }
      ]
     },
@@ -69,6 +72,77 @@
       {
        "name": "SDM",
        "tip": "Service Delivery Manager"
+      },
+      {
+       "name": ""
+      },
+      {
+       "name": "ITIL",
+       "tip": "IT Information Library",
+       "sort": "",
+       "children": [
+        {
+         "name": "CAB",
+         "tip": "Change Advisory Board",
+         "children": [
+          {
+           "name": "ECAB",
+           "tip": "Emergency Change Advisory Board"
+          }
+         ]
+        },
+        {
+         "name": "CI",
+         "tip": "Configuration Item"
+        },
+        {
+         "name": "CSI",
+         "tip": "Continual Service Improvement"
+        },
+        {
+         "name": "CMS",
+         "tip": "Configuration Management System",
+         "children": [
+          {
+           "name": "CMDB",
+           "tip": "Configuration Management DB"
+          }
+         ]
+        },
+        {
+         "name": "KPI",
+         "tip": "Key Performance Indicator"
+        },
+        {
+         "name": "RFC",
+         "tip": "Request For Change"
+        },
+        {
+         "name": "SLA",
+         "tip": "Service Level Agreement",
+         "desc": "The SLA describes the IT service, documents service level targets, and specifies the responsibilities of the IT service provider and the customer."
+        },
+        {
+         "name": "SLR",
+         "tip": "Service Level Requirements",
+         "desc": "The Service Level Requirements document contains the requirements for a service from the client viewpoint, defining detailed service level targets, mutual responsibilities, and other requirements specific to a certain (group of) customers."
+        },
+        {
+         "name": "TTD",
+         "tip": "Time To Deliver"
+        },
+        {
+         "name": "TTR",
+         "tip": "Time To Repair"
+        },
+        {
+         "name": "UC",
+         "tip": "Underpinning Contract"
+        }
+       ]
+      },
+      {
+       "name": ""
       },
       {
        "name": "Dir C",
@@ -213,6 +287,12 @@
          "url": "https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231265&orgSource=COM",
          "sort": "",
          "children": [
+          {
+           "name": "SIP",
+           "tip": "Session Initiation Protocol",
+           "desc": "A SIP address is a URI that addresses a specific telephone extension on a voice over IP system. Such a number could be a private branch exchange or an E. 164 telephone number dialled through a specific gateway. The scheme was defined in RFC 3261. SIP is used for signaling and controlling multimedia communication sessions in applications of Internet telephony for voice and video calls, in private IP telephone systems, in instant messaging over Internet Protocol (IP) networks as well as mobile phone calling over LTE (VoLTE).",
+           "url": "https://en.wikipedia.org/wiki/Session_Initiation_Protocol"
+          },
           {
            "name": "VICTORIA",
            "tip": "Video Conference, Telephony & Real time communications Infrastructure & Applications"

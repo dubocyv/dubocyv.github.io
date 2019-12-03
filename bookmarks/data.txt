@@ -21,6 +21,7 @@ Bookmarks
 		BUDG
 			RAL
 			t:Reste A Liquider (Still to be paid)
+			DAP *
 
 		DiGIT
 		s:
@@ -32,6 +33,39 @@ Bookmarks
 			t:Sevice Asset & Configuration Items
 			SDM
 			t:Service Delivery Manager
+			
+			ITIL
+			t:IT Information Library
+			s:
+				CAB
+				t:Change Advisory Board
+					ECAB
+					t:Emergency Change Advisory Board
+				CI
+				t:Configuration Item
+				CSI
+				t:Continual Service Improvement
+				CMS
+				t:Configuration Management System
+					CMDB
+					t:Configuration Management DB
+				KPI
+				t:Key Performance Indicator
+				RFC
+				t:Request For Change
+				SLA
+				t:Service Level Agreement
+				d:The SLA describes the IT service, documents service level targets, and specifies the responsibilities of the IT service provider and the customer.
+				SLR
+				t:Service Level Requirements
+				d:The Service Level Requirements document contains the requirements for a service from the client viewpoint, defining detailed service level targets, mutual responsibilities, and other requirements specific to a certain (group of) customers.
+				TTD
+				t:Time To Deliver
+				TTR
+				t:Time To Repair
+				UC
+				t:Underpinning Contract
+			
 			Dir C
 				DWP
 				t:Digital WorkPlace (C3, C5 & C6 involved)
@@ -99,6 +133,10 @@ Bookmarks
 				t:Telecom Applications
 				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231265&orgSource=COM
 				s:
+					SIP
+					t:Session Initiation Protocol
+					d:A SIP address is a URI that addresses a specific telephone extension on a voice over IP system. Such a number could be a private branch exchange or an E. 164 telephone number dialled through a specific gateway. The scheme was defined in RFC 3261. SIP is used for signaling and controlling multimedia communication sessions in applications of Internet telephony for voice and video calls, in private IP telephone systems, in instant messaging over Internet Protocol (IP) networks as well as mobile phone calling over LTE (VoLTE).
+					u:https://en.wikipedia.org/wiki/Session_Initiation_Protocol
 					VICTORIA
 					t:Video Conference, Telephony & Real time communications Infrastructure & Applications
 					CdC
