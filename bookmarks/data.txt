@@ -18,22 +18,6 @@ Bookmarks
 			EPPO
 			t:European Public Prosecutor's Office
 
-		BUDG
-			RAL
-			t:Reste A Liquider (Still to be paid)
-			DAP *
-
-		DiGIT
-		s:
-			GovTech
-			t:GovTech aims to build better services for citizens and better tools for public servants.
-			HLPI
-			t:High Level Performance Indicators
-			SACI
-			t:Sevice Asset & Configuration Items
-			SDM
-			t:Service Delivery Manager
-			
 			ITIL
 			t:IT Information Library
 			s:
@@ -65,7 +49,23 @@ Bookmarks
 				t:Time To Repair
 				UC
 				t:Underpinning Contract
-			
+
+		BUDG
+			RAL
+			t:Reste A Liquider (Still to be paid)
+			DAP *
+
+		DiGIT
+		s:
+			GovTech
+			t:GovTech aims to build better services for citizens and better tools for public servants.
+			HLPI
+			t:High Level Performance Indicators
+			SACI
+			t:Sevice Asset & Configuration Items
+			SDM
+			t:Service Delivery Manager
+
 			Dir C
 				DWP
 				t:Digital WorkPlace (C3, C5 & C6 involved)
