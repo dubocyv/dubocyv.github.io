@@ -42,6 +42,11 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
 			t:Administrative contracts analysis group
 			d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
+
+		BUDG
+			RAL
+			t:Reste A Liquider (Still to be paid)
+
 		DiGIT
 		s:
 			GovTech
@@ -78,7 +83,7 @@ Bookmarks
 						t:Business Service Element (client's perspective)
 						d:Business Service Element is the service itself, the one we sell to our customers. A BSE can have one TSE mapped to it 100% or can be combined by several TSEs from different Units/Directorates.
 						Cost Driver
-						d:Cost Driver is the measurable element which defines the unit cost of each element:<dl><dt>TSE’s cost driver</dt><dd>virtual driver (100%)</dd><dt>BSE’s cost driver</dt><dd>the value of the driver on the 1st of January Y(n).</dd></dl>The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
+						d:Cost Driver is the measurable element which defines the unit cost of each element:<dl><dt>TSE's cost driver</dt><dd>virtual driver (100%)</dd><dt>BSE's cost driver</dt><dd>the value of the driver on the 1st of January Y(n).</dd></dl>The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
 						Costing
 						t:The exercise of calculating the real unit cost at the end of the annual pricing exercise
 						Pricing
