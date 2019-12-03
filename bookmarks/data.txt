@@ -13,35 +13,10 @@ Bookmarks
 	Glossary
 		Global
 		s:
-			ISA²
-			t:Interoperability solutions for public administrations, businesses and citizens
-			u:https://ec.europa.eu/isa2
 			CMB
 			t:Corporate Management Board
 			EPPO
 			t:European Public Prosecutor's Office
-			CIRCABC
-			u:https://circabc.europa.eu/ui/welcome
-			t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
-			TED
-			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond
-			u:http://ted.europa.eu
-				eTendering
-				t:Tender documentation for EU calls for competitions
-				u:http://etendering.ted.europa.eu
-				SIMAP
-				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
-				u:http://simap.ted.europa.eu
-					eSenders
-					t:Information for and about TED eSenders
-					u:https://simap.ted.europa.eu/ted-esenders
-					eNotices
-					t:Online application to prepare and publish public procurement notices
-					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
-			GAMA
-			u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
-			t:Administrative contracts analysis group
-			d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
 
 		BUDG
 			RAL
@@ -51,9 +26,6 @@ Bookmarks
 		s:
 			GovTech
 			t:GovTech aims to build better services for citizens and better tools for public servants.
-			MAP
-			t:Multi Annual Planning tool (using Chrome or Firefox)
-			u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
 			HLPI
 			t:High Level Performance Indicators
 			SACI
@@ -179,9 +151,10 @@ Bookmarks
 					TOP3 (fwc)
 					t:Telephone Providing contract (InfoTel)
 					EXICON (fwc) *
-					INASS *
-#					t:Internet Access
-					ENS *
+					INAS
+#					t:INternet Access Services
+					ENS
+					t:External Netwark Services
 					CSI
 					t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
 					RACHEL (fwc)
@@ -213,6 +186,7 @@ Bookmarks
 # - - - - - - -
 	EU
 		Common
+		s:
 			EU Login
 			t:ECAS authentication
 			u:https://ecas.ec.europa.eu/cas/login
@@ -244,6 +218,22 @@ Bookmarks
 				u:https://medisys.newsbrief.eu/
 			Europe info
 			u:https://europa.eu/european-union/contact_en
+
+			TED
+			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond
+			u:http://ted.europa.eu
+				eTendering
+				t:Tender documentation for EU calls for competitions
+				u:http://etendering.ted.europa.eu
+				SIMAP
+				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
+				u:http://simap.ted.europa.eu
+					eSenders
+					t:Information for and about TED eSenders
+					u:https://simap.ted.europa.eu/ted-esenders
+					eNotices
+					t:Online application to prepare and publish public procurement notices
+					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
 # - - - - - - -
 		EC
 		u:https://myintracomm.ec.europa.eu/
@@ -264,6 +254,7 @@ Bookmarks
 
 # - - - - - - -
 			Admin
+			s:
 				Ares
 				t:Electronic Records Management System
 				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
@@ -294,6 +285,17 @@ Bookmarks
 				t:Identity and Access Management
 				u:http://www.cc.cec/itservices/en/content/identity-and-access-management
 
+				ISA²
+				t:Interoperability solutions for public administrations, businesses and citizens
+				u:https://ec.europa.eu/isa2
+				CIRCABC
+				u:https://circabc.europa.eu/ui/welcome
+				t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
+				GAMA
+				u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
+				t:Administrative contracts analysis group
+				d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
+
 			MyWorkplace
 			u:"https://webgate.ec.testa.eu/myworkplace/home"
 			Service Medical
@@ -311,6 +313,9 @@ Bookmarks
 				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 				MM Presentations
 				u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
+				MAP
+				t:Multi Annual Planning tool (using Chrome or Firefox)
+				u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
 
 				C2
 					FLAM

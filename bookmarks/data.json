@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191203 13:31",
+ "tip": "_UPDATED_20191203 13:43",
  "children": [
   {
    "name": "Dictionaries",
@@ -32,57 +32,12 @@
      "sort": "",
      "children": [
       {
-       "name": "ISA²",
-       "tip": "Interoperability solutions for public administrations, businesses and citizens",
-       "url": "https://ec.europa.eu/isa2"
-      },
-      {
        "name": "CMB",
        "tip": "Corporate Management Board"
       },
       {
        "name": "EPPO",
        "tip": "European Public Prosecutor's Office"
-      },
-      {
-       "name": "CIRCABC",
-       "url": "https://circabc.europa.eu/ui/welcome",
-       "tip": "CIRCABC provides a secured working area to share information over thousands of users and interest groups."
-      },
-      {
-       "name": "TED",
-       "tip": "Tenders Electronic Daily, publishing public procurement notices from EU and beyond",
-       "url": "http://ted.europa.eu",
-       "children": [
-        {
-         "name": "eTendering",
-         "tip": "Tender documentation for EU calls for competitions",
-         "url": "http://etendering.ted.europa.eu"
-        },
-        {
-         "name": "SIMAP",
-         "tip": "Information system for public procurement (fr. Système d'Information pour les MArchés Publics).",
-         "url": "http://simap.ted.europa.eu",
-         "children": [
-          {
-           "name": "eSenders",
-           "tip": "Information for and about TED eSenders",
-           "url": "https://simap.ted.europa.eu/ted-esenders"
-          },
-          {
-           "name": "eNotices",
-           "tip": "Online application to prepare and publish public procurement notices",
-           "url": "http://simap.europa.eu/enotices/changeLanguage.do?language=en"
-          }
-         ]
-        }
-       ]
-      },
-      {
-       "name": "GAMA",
-       "url": "https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx",
-       "tip": "Administrative contracts analysis group",
-       "desc": "'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA."
       }
      ]
     },
@@ -102,11 +57,6 @@
       {
        "name": "GovTech",
        "tip": "GovTech aims to build better services for citizens and better tools for public servants."
-      },
-      {
-       "name": "MAP",
-       "tip": "Multi Annual Planning tool (using Chrome or Firefox)",
-       "url": "https://webgate.ec.testa.eu/myworkplace/map-tool/tree"
       },
       {
        "name": "HLPI",
@@ -367,10 +317,11 @@
            "name": "EXICON (fwc) *"
           },
           {
-           "name": "INASS *"
+           "name": "INAS"
           },
           {
-           "name": "ENS *"
+           "name": "ENS",
+           "tip": "External Netwark Services"
           },
           {
            "name": "CSI",
@@ -453,6 +404,7 @@
    "children": [
     {
      "name": "Common",
+     "sort": "",
      "children": [
       {
        "name": "EU Login",
@@ -518,6 +470,35 @@
       {
        "name": "Europe info",
        "url": "https://europa.eu/european-union/contact_en"
+      },
+      {
+       "name": "TED",
+       "tip": "Tenders Electronic Daily, publishing public procurement notices from EU and beyond",
+       "url": "http://ted.europa.eu",
+       "children": [
+        {
+         "name": "eTendering",
+         "tip": "Tender documentation for EU calls for competitions",
+         "url": "http://etendering.ted.europa.eu"
+        },
+        {
+         "name": "SIMAP",
+         "tip": "Information system for public procurement (fr. Système d'Information pour les MArchés Publics).",
+         "url": "http://simap.ted.europa.eu",
+         "children": [
+          {
+           "name": "eSenders",
+           "tip": "Information for and about TED eSenders",
+           "url": "https://simap.ted.europa.eu/ted-esenders"
+          },
+          {
+           "name": "eNotices",
+           "tip": "Online application to prepare and publish public procurement notices",
+           "url": "http://simap.europa.eu/enotices/changeLanguage.do?language=en"
+          }
+         ]
+        }
+       ]
       }
      ]
     },
@@ -558,6 +539,7 @@
       },
       {
        "name": "Admin",
+       "sort": "",
        "children": [
         {
          "name": "Ares",
@@ -615,6 +597,22 @@
          "name": "IAM info",
          "tip": "Identity and Access Management",
          "url": "http://www.cc.cec/itservices/en/content/identity-and-access-management"
+        },
+        {
+         "name": "ISA²",
+         "tip": "Interoperability solutions for public administrations, businesses and citizens",
+         "url": "https://ec.europa.eu/isa2"
+        },
+        {
+         "name": "CIRCABC",
+         "url": "https://circabc.europa.eu/ui/welcome",
+         "tip": "CIRCABC provides a secured working area to share information over thousands of users and interest groups."
+        },
+        {
+         "name": "GAMA",
+         "url": "https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx",
+         "tip": "Administrative contracts analysis group",
+         "desc": "'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA."
         }
        ]
       },
@@ -645,6 +643,11 @@
         {
          "name": "MM Presentations",
          "url": "https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
+        },
+        {
+         "name": "MAP",
+         "tip": "Multi Annual Planning tool (using Chrome or Firefox)",
+         "url": "https://webgate.ec.testa.eu/myworkplace/map-tool/tree"
         },
         {
          "name": "C2",
