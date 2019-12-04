@@ -871,7 +871,7 @@ Bookmarks
 				Support
 					Helpdesk IT
 						Mail
-						u:mail://EC-HELPDESK-IT@ec.europa.eu
+						u:mailto:EC-HELPDESK-IT@ec.europa.eu
 						Tel
 						u:tel://77777
 					VideoConference

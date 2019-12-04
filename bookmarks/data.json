@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 18:01",
+ "tip": "_UPDATED_20191204 18:03",
  "children": [
   {
    "name": "Dictionaries",
@@ -1911,7 +1911,7 @@
            "children": [
             {
              "name": "Mail",
-             "url": "mail://EC-HELPDESK-IT@ec.europa.eu"
+             "url": "mailto:EC-HELPDESK-IT@ec.europa.eu"
             },
             {
              "name": "Tel",
