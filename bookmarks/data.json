@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 17:44",
+ "tip": "_UPDATED_20191204 18:01",
  "children": [
   {
    "name": "Dictionaries",
@@ -1906,6 +1906,19 @@
         {
          "name": "Support",
          "children": [
+          {
+           "name": "Helpdesk IT",
+           "children": [
+            {
+             "name": "Mail",
+             "url": "mail://EC-HELPDESK-IT@ec.europa.eu"
+            },
+            {
+             "name": "Tel",
+             "url": "tel://77777"
+            }
+           ]
+          },
           {
            "name": "VideoConference",
            "children": [

@@ -869,6 +869,11 @@ Bookmarks
 				u:"https://portal.testa.eu/jetspeed/portal/"
 
 				Support
+					Helpdesk IT
+						Mail
+						u:mail://EC-HELPDESK-IT@ec.europa.eu
+						Tel
+						u:tel://77777
 					VideoConference
 						SCIC rooms
 						u:tel://54321
