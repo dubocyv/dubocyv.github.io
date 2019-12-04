@@ -67,6 +67,8 @@ Bookmarks
 			t:Service Delivery Manager
 
 			Dir C
+			t:Digital Workplace & Infrastructure
+			u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C/default.aspx
 				DWP
 				t:Digital WorkPlace (C3, C5 & C6 involved)
 			C1
@@ -104,7 +106,8 @@ Bookmarks
 				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=243570&orgSource=COM
 				s:
 					NMS (fwc)
-					t:Network Managed Services (fwc)
+					t:Network Managed Services
+					u:https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx
 						SNet
 						t:Secured Network
 							SID
@@ -117,10 +120,6 @@ Bookmarks
 								t:Direct SID access
 					SDN
 					t:Software Defined Network
-					NIS (fwc)
-					t:Network Intervention Service (fwc)
-					Natacha (fwc)
-					t:Network and Telecom Acquisition CHAnnel
 					SHS
 					t:Secure Hosting Service
 					VRF
@@ -186,9 +185,6 @@ Bookmarks
 				s:
 					BPM
 					t:Business Process Management
-					TOP3 (fwc)
-					t:Telephone Providing contract (InfoTel)
-					EXICON (fwc) *
 					INAS
 #					t:INternet Access Services
 					ENS
@@ -347,7 +343,7 @@ Bookmarks
 			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
 				MITS (My IT Support)
 				u:"https://webgate.ec.testa.eu/mits/home.do"
-				SupplÃ©ances Calendar
+				Suppléances Calendar
 				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 				MM Presentations
 				u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
@@ -377,8 +373,24 @@ Bookmarks
 				C4
 					SharePoint C4
 					u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx"
+					s:
 						Budget
 						u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
+						TOP (fwc)
+						t:Telephone Providing contract (InfoTel)
+						u:https://myintracomm-collab.ec.europa.eu/networks/TOPDOC/SitePages/Home.aspx
+						EXICON (fwc)
+						t:EXternal Internet CONnectivity
+						u:https://myintracomm-collab.ec.europa.eu/networks/EXICON/default.aspx
+						NMS (fwc)
+						t:Network Managed Services
+						u:https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx
+						NIS (fwc)
+						t:Network Intervention Service
+						u:https://myintracomm-collab.ec.europa.eu/networks/NISDOC
+						Natacha (fwc)
+						t:Network and Telecom Acquisition CHAnnel
+						u:https://myintracomm-collab.ec.europa.eu/networks/NATACHA4/SitePages/Home.aspx
 
 					SNet
 					t:Secured Network

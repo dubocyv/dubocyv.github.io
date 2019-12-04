@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 11:40",
+ "tip": "_UPDATED_20191204 17:44",
  "children": [
   {
    "name": "Dictionaries",
@@ -140,6 +140,8 @@
       },
       {
        "name": "Dir C",
+       "tip": "Digital Workplace & Infrastructure",
+       "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C/default.aspx",
        "children": [
         {
          "name": "DWP",
@@ -220,7 +222,8 @@
          "children": [
           {
            "name": "NMS (fwc)",
-           "tip": "Network Managed Services (fwc)",
+           "tip": "Network Managed Services",
+           "url": "https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx",
            "children": [
             {
              "name": "SNet",
@@ -251,14 +254,6 @@
           {
            "name": "SDN",
            "tip": "Software Defined Network"
-          },
-          {
-           "name": "NIS (fwc)",
-           "tip": "Network Intervention Service (fwc)"
-          },
-          {
-           "name": "Natacha (fwc)",
-           "tip": "Network and Telecom Acquisition CHAnnel"
           },
           {
            "name": "SHS",
@@ -382,13 +377,6 @@
           {
            "name": "BPM",
            "tip": "Business Process Management"
-          },
-          {
-           "name": "TOP3 (fwc)",
-           "tip": "Telephone Providing contract (InfoTel)"
-          },
-          {
-           "name": "EXICON (fwc) *"
           },
           {
            "name": "INAS"
@@ -711,7 +699,7 @@
          "url": "https://webgate.ec.testa.eu/mits/home.do"
         },
         {
-         "name": "SupplÃ©ances Calendar",
+         "name": "Suppléances Calendar",
          "url": "https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
         },
         {
@@ -771,10 +759,36 @@
           {
            "name": "SharePoint C4",
            "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx",
+           "sort": "",
            "children": [
             {
              "name": "Budget",
              "url": "https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
+            },
+            {
+             "name": "TOP (fwc)",
+             "tip": "Telephone Providing contract (InfoTel)",
+             "url": "https://myintracomm-collab.ec.europa.eu/networks/TOPDOC/SitePages/Home.aspx"
+            },
+            {
+             "name": "EXICON (fwc)",
+             "tip": "EXternal Internet CONnectivity",
+             "url": "https://myintracomm-collab.ec.europa.eu/networks/EXICON/default.aspx"
+            },
+            {
+             "name": "NMS (fwc)",
+             "tip": "Network Managed Services",
+             "url": "https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx"
+            },
+            {
+             "name": "NIS (fwc)",
+             "tip": "Network Intervention Service",
+             "url": "https://myintracomm-collab.ec.europa.eu/networks/NISDOC"
+            },
+            {
+             "name": "Natacha (fwc)",
+             "tip": "Network and Telecom Acquisition CHAnnel",
+             "url": "https://myintracomm-collab.ec.europa.eu/networks/NATACHA4/SitePages/Home.aspx"
             }
            ]
           },
