@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 11:31",
+ "tip": "_UPDATED_20191204 11:40",
  "children": [
   {
    "name": "Dictionaries",
@@ -38,43 +38,6 @@
       {
        "name": "EPPO",
        "tip": "European Public Prosecutor's Office"
-      }
-     ]
-    },
-    {
-     "name": "BUDG",
-     "children": [
-      {
-       "name": "RAL",
-       "tip": "Reste A Liquider (Still to be paid)"
-      },
-      {
-       "name": "DAP *"
-      }
-     ]
-    },
-    {
-     "name": "DiGIT",
-     "sort": "",
-     "children": [
-      {
-       "name": "GovTech",
-       "tip": "GovTech aims to build better services for citizens and better tools for public servants."
-      },
-      {
-       "name": "HLPI",
-       "tip": "High Level Performance Indicators"
-      },
-      {
-       "name": "SACI",
-       "tip": "Sevice Asset & Configuration Items"
-      },
-      {
-       "name": "SDM",
-       "tip": "Service Delivery Manager"
-      },
-      {
-       "name": ""
       },
       {
        "name": "ITIL",
@@ -140,9 +103,40 @@
          "tip": "Underpinning Contract"
         }
        ]
+      }
+     ]
+    },
+    {
+     "name": "BUDG",
+     "children": [
+      {
+       "name": "RAL",
+       "tip": "Reste A Liquider (Still to be paid)"
       },
       {
-       "name": ""
+       "name": "DAP *"
+      }
+     ]
+    },
+    {
+     "name": "DiGIT",
+     "sort": "",
+     "children": [
+      {
+       "name": "GovTech",
+       "tip": "GovTech aims to build better services for citizens and better tools for public servants."
+      },
+      {
+       "name": "HLPI",
+       "tip": "High Level Performance Indicators"
+      },
+      {
+       "name": "SACI",
+       "tip": "Sevice Asset & Configuration Items"
+      },
+      {
+       "name": "SDM",
+       "tip": "Service Delivery Manager"
       },
       {
        "name": "Dir C",
