@@ -306,6 +306,7 @@ Bookmarks
 				t:DG HR website
 				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
 				MiPS
+				t:Mission Processing System
 				u:"http://www.cc.cec/mips/api/home"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"

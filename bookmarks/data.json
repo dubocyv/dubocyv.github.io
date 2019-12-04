@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 18:03",
+ "tip": "_UPDATED_20191204 18:08",
  "children": [
   {
    "name": "Dictionaries",
@@ -639,6 +639,7 @@
         },
         {
          "name": "MiPS",
+         "tip": "Mission Processing System",
          "url": "http://www.cc.cec/mips/api/home",
          "children": [
           {
