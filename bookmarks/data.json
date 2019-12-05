@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191205 10:43",
+ "tip": "_UPDATED_20191205 16:30",
  "children": [
   {
    "name": "Dictionaries",
@@ -243,7 +243,7 @@
                 },
                 {
                  "name": "CRUD/View",
-                 "tip": "Direct SID access"
+                 "tip": "Direct SID access (Create Read Update Delete)"
                 }
                ]
               }
@@ -535,7 +535,8 @@
        "url": "https://europa.eu/european-union/contact_en",
        "children": [
         {
-         "name": "Europe Direct",
+         "name": "EDCC",
+         "tip": "Europe Direct Contact Center",
          "url": "https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en"
         }
        ]
@@ -957,6 +958,7 @@
                 },
                 {
                  "name": "Proteus",
+                 "tip": "IP Address Manager",
                  "url": "https://intragate.ec.europa.eu/snet/hg/Proteus"
                 }
                ]
@@ -1195,6 +1197,7 @@
               },
               {
                "name": "IPAM Proteus",
+               "tip": "IP Address Manager",
                "children": [
                 {
                  "name": "External Tools",
@@ -1288,6 +1291,7 @@
                "children": [
                 {
                  "name": "DCA",
+                 "tip": "Device Configuration API",
                  "url": "https://intragate.ec.europa.eu/snet/dca/index.html"
                 },
                 {
@@ -1566,7 +1570,7 @@
                   },
                   {
                    "name": "SID CRUD",
-                   "tip": "Direct SID access",
+                   "tip": "Direct SID access (Create Read Update Delete)",
                    "url": "https://intragate.ec.europa.eu/snet/sid/crud"
                   },
                   {
@@ -1588,6 +1592,7 @@
                  "children": [
                   {
                    "name": "SID easiCAPs",
+                   "tip": "Computer Assisted Patching (Connection Register)",
                    "url": "https://intragate.ec.europa.eu/snet/sid/icaps"
                   }
                  ]

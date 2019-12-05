@@ -117,7 +117,7 @@ Bookmarks
 								Diego
 								t:Read-only access to SID
 								CRUD/View
-								t:Direct SID access
+								t:Direct SID access (Create Read Update Delete)
 					SDN
 					t:Software Defined Network
 					SHS
@@ -253,7 +253,8 @@ Bookmarks
 			Europe info
 			t:EU institutions contacts
 			u:https://europa.eu/european-union/contact_en
-				Europe Direct
+				EDCC
+				t:Europe Direct Contact Center
 				u:https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en
 
 			TED
@@ -468,6 +469,7 @@ Bookmarks
 								NRMDIGT
 								u:https://intragate.ec.europa.eu/snet/hg/NRMDIGT
 								Proteus
+								t:IP Address Manager
 								u:https://intragate.ec.europa.eu/snet/hg/Proteus
 
 							DNS
@@ -571,6 +573,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/BusinessFlow
 
 							IPAM Proteus
+							t:IP Address Manager
 								External Tools
 									Proteus
 									u:https://proteus.snmc.cec.eu.int/
@@ -608,6 +611,7 @@ Bookmarks
 
 							Network
 								DCA
+								t:Device Configuration API
 								u:https://intragate.ec.europa.eu/snet/dca/index.html
 								Reporting
 									ACI reports
@@ -720,7 +724,7 @@ Bookmarks
 									SID vs. Proteus Device
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_device.pl
 									SID CRUD
-									t:Direct SID access
+									t:Direct SID access (Create Read Update Delete)
 									u:https://intragate.ec.europa.eu/snet/sid/crud
 									SID Visual
 									u:https://intragate.ec.europa.eu/snet/sid/visual
@@ -730,6 +734,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_JRC.pl
 								Config
 									SID easiCAPs
+									t:Computer Assisted Patching (Connection Register)
 									u:https://intragate.ec.europa.eu/snet/sid/icaps
 								Reporting
 									Reporting
