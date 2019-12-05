@@ -251,7 +251,10 @@ Bookmarks
 				Medisys
 				u:https://medisys.newsbrief.eu/
 			Europe info
+			t:EU institutions contacts
 			u:https://europa.eu/european-union/contact_en
+				Europe Direct
+				u:https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en
 
 			TED
 			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond

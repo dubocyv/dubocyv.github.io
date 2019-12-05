@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191205 08:59",
+ "tip": "_UPDATED_20191205 10:43",
  "children": [
   {
    "name": "Dictionaries",
@@ -531,7 +531,14 @@
       },
       {
        "name": "Europe info",
-       "url": "https://europa.eu/european-union/contact_en"
+       "tip": "EU institutions contacts",
+       "url": "https://europa.eu/european-union/contact_en",
+       "children": [
+        {
+         "name": "Europe Direct",
+         "url": "https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en"
+        }
+       ]
       },
       {
        "name": "TED",
