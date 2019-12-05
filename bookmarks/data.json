@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191204 18:08",
+ "tip": "_UPDATED_20191205 08:59",
  "children": [
   {
    "name": "Dictionaries",
@@ -1827,70 +1827,70 @@
                "url": "http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx"
               }
              ]
-            }
-           ]
-          },
-          {
-           "name": "Weather Map",
-           "url": "https://weathermap.snmc.cec.eu.int/",
-           "children": [
-            {
-             "name": "Backbone network",
-             "url": "https://weathermap.snmc.cec.eu.int/snet_static_backbone.html"
             },
             {
-             "name": "Building network",
+             "name": "Weather Map",
+             "url": "https://weathermap.snmc.cec.eu.int/",
              "children": [
               {
-               "name": "BERL",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_berl.html"
+               "name": "Backbone network",
+               "url": "https://weathermap.snmc.cec.eu.int/snet_static_backbone.html"
               },
               {
-               "name": "BREY",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_brey.html"
+               "name": "Building network",
+               "children": [
+                {
+                 "name": "BERL",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_berl.html"
+                },
+                {
+                 "name": "BREY",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_brey.html"
+                },
+                {
+                 "name": "L130",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_l130.html"
+                },
+                {
+                 "name": "BETZ",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_betz.html"
+                },
+                {
+                 "name": "WIND",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_wind.html"
+                }
+               ]
               },
               {
-               "name": "L130",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_l130.html"
+               "name": "DC network",
+               "children": [
+                {
+                 "name": "BETZ",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_aci_betz-dc.html"
+                },
+                {
+                 "name": "WIND",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_aci_wind-dc.html"
+                },
+                {
+                 "name": "WIND_LEGACY",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_core_legacy_wind-dc-cr01.html"
+                },
+                {
+                 "name": "HTC",
+                 "url": "https://weathermap.snmc.cec.eu.int/snet_aci_htc-dc.html"
+                }
+               ]
               },
               {
-               "name": "BETZ",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_betz.html"
+               "name": "Internet access",
+               "url": "https://weathermap.snmc.cec.eu.int/snet_static_tc_internet.html"
               },
               {
-               "name": "WIND",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_wind.html"
+               "name": "Firewall",
+               "url": "https://weathermap.snmc.cec.eu.int/snet_static_firewall.html"
               }
              ]
-            },
-            {
-             "name": "DC network",
-             "children": [
-              {
-               "name": "BETZ",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_aci_betz-dc.html"
-              },
-              {
-               "name": "WIND",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_aci_wind-dc.html"
-              },
-              {
-               "name": "WIND_LEGACY",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_core_legacy_wind-dc-cr01.html"
-              },
-              {
-               "name": "HTC",
-               "url": "https://weathermap.snmc.cec.eu.int/snet_aci_htc-dc.html"
-              }
-             ]
-            },
-            {
-             "name": "Internet access",
-             "url": "https://weathermap.snmc.cec.eu.int/snet_static_tc_internet.html"
-            },
-            {
-             "name": "Firewall",
-             "url": "https://weathermap.snmc.cec.eu.int/snet_static_firewall.html"
             }
            ]
           },

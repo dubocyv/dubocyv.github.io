@@ -834,34 +834,34 @@ Bookmarks
 							Docs & refs (University)
 							u:http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx
 
-					Weather Map
-					u:https://weathermap.snmc.cec.eu.int/
-						Backbone network
-						u:https://weathermap.snmc.cec.eu.int/snet_static_backbone.html
-						Building network
-							BERL
-							u:https://weathermap.snmc.cec.eu.int/snet_core_berl.html
-							BREY
-							u:https://weathermap.snmc.cec.eu.int/snet_core_brey.html
-							L130
-							u:https://weathermap.snmc.cec.eu.int/snet_core_l130.html
-							BETZ
-							u:https://weathermap.snmc.cec.eu.int/snet_core_betz.html
-							WIND
-							u:https://weathermap.snmc.cec.eu.int/snet_core_wind.html
-						DC network
-							BETZ
-							u:https://weathermap.snmc.cec.eu.int/snet_aci_betz-dc.html
-							WIND
-							u:https://weathermap.snmc.cec.eu.int/snet_aci_wind-dc.html
-							WIND_LEGACY
-							u:https://weathermap.snmc.cec.eu.int/snet_core_legacy_wind-dc-cr01.html
-							HTC
-							u:https://weathermap.snmc.cec.eu.int/snet_aci_htc-dc.html
-						Internet access
-						u:https://weathermap.snmc.cec.eu.int/snet_static_tc_internet.html
-						Firewall
-						u:https://weathermap.snmc.cec.eu.int/snet_static_firewall.html
+						Weather Map
+						u:https://weathermap.snmc.cec.eu.int/
+							Backbone network
+							u:https://weathermap.snmc.cec.eu.int/snet_static_backbone.html
+							Building network
+								BERL
+								u:https://weathermap.snmc.cec.eu.int/snet_core_berl.html
+								BREY
+								u:https://weathermap.snmc.cec.eu.int/snet_core_brey.html
+								L130
+								u:https://weathermap.snmc.cec.eu.int/snet_core_l130.html
+								BETZ
+								u:https://weathermap.snmc.cec.eu.int/snet_core_betz.html
+								WIND
+								u:https://weathermap.snmc.cec.eu.int/snet_core_wind.html
+							DC network
+								BETZ
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_betz-dc.html
+								WIND
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_wind-dc.html
+								WIND_LEGACY
+								u:https://weathermap.snmc.cec.eu.int/snet_core_legacy_wind-dc-cr01.html
+								HTC
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_htc-dc.html
+							Internet access
+							u:https://weathermap.snmc.cec.eu.int/snet_static_tc_internet.html
+							Firewall
+							u:https://weathermap.snmc.cec.eu.int/snet_static_firewall.html
 
 					PUMA
 					u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"
