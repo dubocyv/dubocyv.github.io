@@ -437,6 +437,7 @@ Bookmarks
 								u:https://intragate.ec.europa.eu/snet/web2ldap/
 
 							Bluegios
+							t:Remote monitoring services tools
 								Service
 									INT JMO
 									u:https://intragate.ec.europa.eu/snet/bluegios-int-jmo
@@ -601,6 +602,7 @@ Bookmarks
 									Config L4S Old Redmine
 									u:https://intragate.ec.europa.eu/snet/redmine/projects/opt-l4s/repository/show/resouces
 									VIPWatcher
+									t:Load balancer VIP configured
 									u:https://intragate.ec.europa.eu/snet/vipwatcher/
 									LBui
 									u:https://intragate.ec.europa.eu/snet/lbui/
@@ -676,6 +678,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
 								Config
 									BlueWatcher
+									t:Reverse proxy mappings
 									u:https://intragate.ec.europa.eu/snet/rps/bluewatcher/index.html
 									Config RP
 									u:https://intragate.ec.europa.eu/snet/hg/BluecoatLibrary
@@ -759,6 +762,7 @@ Bookmarks
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
 
 							SMARTS
+							t:(EMC²) System Management ARTS: Global Network, Security and Backup monitoring tool.
 								Analyse
 									SNMP Traps Analyse
 									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/daily_snmp-trap_chart.pl
@@ -817,6 +821,7 @@ Bookmarks
 
 							WIFI
 								Cisco PI
+								t:Management Tool for the Wifi and Wired infrastructure
 								u:https://pi.snmc.cec.eu.int/
 								AP SID List
 								u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=wireless%20access%20point
@@ -833,11 +838,13 @@ Bookmarks
 								Prometheus-Grafana
 								u:https://intragate.ec.europa.eu/snet/grafana/
 
-						Kate (SNet Portal)
+						Kate
+						t:MOSS (Microsoft Office SharePoint Server) 2007 SharePoint Portal
 						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
 							Perceval
 							u:http://perceval.net1.cec.eu.int/SitePages/SnetWelcome.aspx
 							Kaamelott
+							t:Microsoft Project Server 2007
 							u:http://kaamelott.net1.cec.eu.int/Pages/Welcome.aspx
 							Docs & refs (University)
 							u:http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx

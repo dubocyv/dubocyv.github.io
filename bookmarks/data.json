@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191205 16:30",
+ "tip": "_UPDATED_20191206 08:42",
  "children": [
   {
    "name": "Dictionaries",
@@ -882,6 +882,7 @@
               },
               {
                "name": "Bluegios",
+               "tip": "Remote monitoring services tools",
                "children": [
                 {
                  "name": "Service",
@@ -1264,6 +1265,7 @@
                   },
                   {
                    "name": "VIPWatcher",
+                   "tip": "Load balancer VIP configured",
                    "url": "https://intragate.ec.europa.eu/snet/vipwatcher/"
                   },
                   {
@@ -1458,6 +1460,7 @@
                  "children": [
                   {
                    "name": "BlueWatcher",
+                   "tip": "Reverse proxy mappings",
                    "url": "https://intragate.ec.europa.eu/snet/rps/bluewatcher/index.html"
                   },
                   {
@@ -1648,6 +1651,7 @@
               },
               {
                "name": "SMARTS",
+               "tip": "(EMC²) System Management ARTS: Global Network, Security and Backup monitoring tool.",
                "children": [
                 {
                  "name": "Analyse",
@@ -1787,6 +1791,7 @@
                "children": [
                 {
                  "name": "Cisco PI",
+                 "tip": "Management Tool for the Wifi and Wired infrastructure",
                  "url": "https://pi.snmc.cec.eu.int/"
                 },
                 {
@@ -1823,7 +1828,8 @@
              ]
             },
             {
-             "name": "Kate (SNet Portal)",
+             "name": "Kate",
+             "tip": "MOSS (Microsoft Office SharePoint Server) 2007 SharePoint Portal",
              "url": "http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx",
              "children": [
               {
@@ -1832,6 +1838,7 @@
               },
               {
                "name": "Kaamelott",
+               "tip": "Microsoft Project Server 2007",
                "url": "http://kaamelott.net1.cec.eu.int/Pages/Welcome.aspx"
               },
               {
