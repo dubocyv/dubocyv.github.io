@@ -933,10 +933,11 @@ Bookmarks
 			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
 				ABAC
 				u:http://www.cc.cec/dgbudg/sibu/
-					Helpdesk mail
-					u:mailto:EC-ABAC-HELPDESK@ec.europa.eu
-					Helpdesk tel
-					u:tel:+3222964600
+					Helpdesk
+						Mail
+						u:mailto:EC-ABAC-HELPDESK@ec.europa.eu
+						Tel
+						u:tel:+3222964600
 
 					Accounting (Lnx sap)
 					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
