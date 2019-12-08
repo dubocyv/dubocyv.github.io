@@ -346,8 +346,6 @@ Bookmarks
 # - - - - - - -
 			DiGIT
 			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
-				MITS (My IT Support)
-				u:"https://webgate.ec.testa.eu/mits/home.do"
 				Suppléances Calendar
 				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
 				MM Presentations
@@ -885,7 +883,9 @@ Bookmarks
 				u:"https://portal.testa.eu/jetspeed/portal/"
 
 				Support
-					Helpdesk IT
+					MITS (My IT Support)
+					t:Helpdesk IT
+					u:https://webgate.ec.testa.eu/mits/home.do
 						Mail
 						u:mailto:EC-HELPDESK-IT@ec.europa.eu
 						Tel

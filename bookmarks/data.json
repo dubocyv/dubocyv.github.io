@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191206 08:42",
+ "tip": "_UPDATED_20191208 18:19",
  "children": [
   {
    "name": "Dictionaries",
@@ -703,10 +703,6 @@
        "name": "DiGIT",
        "url": "https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx",
        "children": [
-        {
-         "name": "MITS (My IT Support)",
-         "url": "https://webgate.ec.testa.eu/mits/home.do"
-        },
         {
          "name": "Suppléances Calendar",
          "url": "https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
@@ -1927,7 +1923,9 @@
          "name": "Support",
          "children": [
           {
-           "name": "Helpdesk IT",
+           "name": "MITS (My IT Support)",
+           "tip": "Helpdesk IT",
+           "url": "https://webgate.ec.testa.eu/mits/home.do",
            "children": [
             {
              "name": "Mail",
