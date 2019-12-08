@@ -884,7 +884,7 @@ Bookmarks
 
 				Support
 					MITS (My IT Support)
-					t:Helpdesk IT
+					t:IT Helpdesk
 					u:https://webgate.ec.testa.eu/mits/home.do
 						Mail
 						u:mailto:EC-HELPDESK-IT@ec.europa.eu
@@ -931,6 +931,34 @@ Bookmarks
 # - - - - - - -
 			BUDG
 			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
+				ABAC
+				u:http://www.cc.cec/dgbudg/sibu/
+					Helpdesk mail
+					u:mailto:EC-ABAC-HELPDESK@ec.europa.eu
+					Helpdesk tel
+					u:tel:+3222964600
+
+					Accounting (Lnx sap)
+					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
+					Assets (Lnx wls)
+					u:https://intragate.ec.europa.eu/webastsgaprd_astsgp1/assetsapp
+					Assets (Scd cf0)
+					u:https://intragate.ec.europa.eu/webastshpprd_hp1/assetsapp
+					Contracts (Scd cf0)
+					u:https://intragate.ec.europa.eu/webcntshpprd_hp1/cnts
+					Datawarehouse (Lnx wls)
+					u:https://intragate.ec.europa.eu/webdwhsgcprd_dwhsgp1/dwhxo/USER_FOLDER/
+					Datawarehouse (Mst wxi)
+					u:https://webgate.ec.testa.eu/webdwhufmprd_p/InfoViewApp/
+					Datawarehouse SAP BO (BO 4.2)
+					u:https://webgate.ec.testa.eu/BUDG_ABAC_DWH/BOE/BI/
+					SupplyAssetsMgt (Lnx sap)
+					u:https://intragate.ec.europa.eu/sapsammidprd_p05i/sammroot/bc/gui/sap/its/webgui
+					Workflow (Lnx wls)
+					u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac
+					Badg budg (Lnx wls)
+					u:https://intragate.ec.europa.eu/webbadggaprd_badggp1/badgebud
+
 				BudgWeb
 				u:https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx
 					Training

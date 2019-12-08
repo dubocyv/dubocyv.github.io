@@ -1,6 +1,6 @@
 {
  "name": "Bookmarks",
- "tip": "_UPDATED_20191208 18:19",
+ "tip": "_UPDATED_20191208 19:05",
  "children": [
   {
    "name": "Dictionaries",
@@ -1924,7 +1924,7 @@
          "children": [
           {
            "name": "MITS (My IT Support)",
-           "tip": "Helpdesk IT",
+           "tip": "IT Helpdesk",
            "url": "https://webgate.ec.testa.eu/mits/home.do",
            "children": [
             {
@@ -2018,6 +2018,60 @@
        "name": "BUDG",
        "url": "https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx",
        "children": [
+        {
+         "name": "ABAC",
+         "url": "http://www.cc.cec/dgbudg/sibu/",
+         "children": [
+          {
+           "name": "Helpdesk mail",
+           "url": "mailto:EC-ABAC-HELPDESK@ec.europa.eu"
+          },
+          {
+           "name": "Helpdesk tel",
+           "url": "tel:+3222964600"
+          },
+          {
+           "name": "Accounting (Lnx sap)",
+           "url": "https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui"
+          },
+          {
+           "name": "Assets (Lnx wls)",
+           "url": "https://intragate.ec.europa.eu/webastsgaprd_astsgp1/assetsapp"
+          },
+          {
+           "name": "Assets (Scd cf0)",
+           "url": "https://intragate.ec.europa.eu/webastshpprd_hp1/assetsapp"
+          },
+          {
+           "name": "Contracts (Scd cf0)",
+           "url": "https://intragate.ec.europa.eu/webcntshpprd_hp1/cnts"
+          },
+          {
+           "name": "Datawarehouse (Lnx wls)",
+           "url": "https://intragate.ec.europa.eu/webdwhsgcprd_dwhsgp1/dwhxo/USER_FOLDER/"
+          },
+          {
+           "name": "Datawarehouse (Mst wxi)",
+           "url": "https://webgate.ec.testa.eu/webdwhufmprd_p/InfoViewApp/"
+          },
+          {
+           "name": "Datawarehouse SAP BO (BO 4.2)",
+           "url": "https://webgate.ec.testa.eu/BUDG_ABAC_DWH/BOE/BI/"
+          },
+          {
+           "name": "SupplyAssetsMgt (Lnx sap)",
+           "url": "https://intragate.ec.europa.eu/sapsammidprd_p05i/sammroot/bc/gui/sap/its/webgui"
+          },
+          {
+           "name": "Workflow (Lnx wls)",
+           "url": "https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac"
+          },
+          {
+           "name": "Badg budg (Lnx wls)",
+           "url": "https://intragate.ec.europa.eu/webbadggaprd_badggp1/badgebud"
+          }
+         ]
+        },
         {
          "name": "BudgWeb",
          "url": "https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx",
