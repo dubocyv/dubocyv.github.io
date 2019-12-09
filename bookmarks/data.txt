@@ -939,6 +939,28 @@ Bookmarks
 						Tel
 						u:tel:+3222964600
 
+					Doc
+						Presentation
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/abac/support/Pages/its-020-020_intro.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/abac/support/Pages/its-020-020_intro.aspx
+						User documentation
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/abac/docs/Pages/its-020-060_doc.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/abac/docs/Pages/its-020-060_doc.aspx
+						Training
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/dgb/training/guide/Pages/abac-commission.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/abac-commission.aspx
+						e-Learning
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/dgb/training/guide/Pages/abac-e-learning.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/abac-e-learning.aspx
+
 					Accounting (Lnx sap)
 					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
 					Assets (Lnx wls)
