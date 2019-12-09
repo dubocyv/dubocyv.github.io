@@ -398,6 +398,9 @@ Bookmarks
 					SNet
 					t:Secured Network
 					s:
+						Alerting
+						u:https://intragate.acceptance.ec.europa.eu/snet/wiki/index.php/Alerting
+
 						SNet site
 						u:"https://intragate.ec.europa.eu/snet"
 							DG tools
