@@ -298,22 +298,30 @@ Bookmarks
 				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
-				Sysper2
-				u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
-					Absences
-					u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
-					Flexitime encoding
-					u:"https://webgate.ec.testa.eu/presence/editPresences.do"
-					(MyRemote)
-					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
 				Staff matters
 				t:DG HR website
 				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
+					Sysper2
+					u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
+						Absences
+						u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
+						Flexitime encoding
+						u:"https://webgate.ec.testa.eu/presence/editPresences.do"
+						(MyRemote)
+						u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+					Pay calculator
+					u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
+
+				Mobility
+				t:Public transportation fincancial contribution
+				u:http://www.cc.cec/mobilitynet/abo/external_ecas/abo_frontend_adm.cfm
+
 				MiPS
 				t:Mission Processing System
 				u:"http://www.cc.cec/mips/api/home"
 					(MyRemote)
 					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+
 				EU Learn
 				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
 
@@ -967,6 +975,7 @@ Bookmarks
 					Accounting (Lnx sap)
 					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
 					Assets (Lnx wls)
+					t:IT tool used by the Commission and other EU bodies for the daily management of goods and services, interfaced with the general financial system of the Commission ABAC.
 					u:https://intragate.ec.europa.eu/webastsgaprd_astsgp1/assetsapp
 					Assets (Scd cf0)
 					u:https://intragate.ec.europa.eu/webastshpprd_hp1/assetsapp
@@ -981,6 +990,7 @@ Bookmarks
 					SupplyAssetsMgt (Lnx sap)
 					u:https://intragate.ec.europa.eu/sapsammidprd_p05i/sammroot/bc/gui/sap/its/webgui
 					Workflow (Lnx wls)
+					d:ABAC Workflow is the module used for daily financial/budgetary management by the majority of users. Each user has specific responsibilities in line with the Financial Regulation and its Rules of Application. This is reflected as the user signs documents -according to his/her role- (e.g. Initiating Agent, Verifying Agent, Authorising Officer by Subdelegation) passing through an omni-present “workflow”.
 					u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac
 					Badg budg (Lnx wls)
 					u:https://intragate.ec.europa.eu/webbadggaprd_badggp1/badgebud
