@@ -2,13 +2,13 @@ Bookmarks
 	Dictionaries
 	s:
 		Google translate
-		u:"https://translate.google.com/#view=home&op=translate&sl=fr&tl=en"
+		u:https://translate.google.com/#view=home&op=translate&sl=fr&tl=en
 		Larousse
-		u:"https://www.larousse.fr/dictionnaires/francais"
+		u:https://www.larousse.fr/dictionnaires/francais
 		Linguee 
-		u:"http://www.linguee.fr/francais-anglais"
+		u:http://www.linguee.fr/francais-anglais
 		Wikipedia
-		u:"http://en.wikipedia.org/wiki/Main_Page"
+		u:http://en.wikipedia.org/wiki/Main_Page
 
 	Glossary
 		Global
@@ -227,23 +227,23 @@ Bookmarks
 				Info
 				u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
 				EU Login mobile
-				u:"https://ecas.ec.europa.eu/cas/mobile"
+				u:https://ecas.ec.europa.eu/cas/mobile
 			RCAM/JSIS
-			u:"https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914"
+			u:https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914
 			Europass
 			t:Curriculum vitae - Passeport europÃ©en de compÃ©tences | Composer
-			u:"https://europass.cedefop.europa.eu/editors/fr/cv/compose"
+			u:https://europass.cedefop.europa.eu/editors/fr/cv/compose
 			EUPosts
-			u:"http://portal.consilium.testa.eu/vacancy/"
+			u:http://portal.consilium.testa.eu/vacancy/
 			EPSO
-			u:"https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok"
+			u:https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok
 			Media monitoring
 				EMM
 				t:Europe Media Monitor
 				u:https://emm.newsbrief.eu/overview.html
 				CERT-EU
 				t:CERT-EU News Monitor
-				u:"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html"
+				u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
 					CVE
 					t:Common Vulnerability Enumeration
 					CPE
@@ -276,57 +276,57 @@ Bookmarks
 		EC
 		u:https://myintracomm.ec.europa.eu/
 			Office365
-			u:"https://www.office.com/?auth=2&home=1"
+			u:https://www.office.com/?auth=2&home=1
 				OneDrive
-				u:"https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx"
+				u:https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx
 
 			Remote access
 				Myremote Teleworking
-				u:"https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi"
+				u:https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi
 				WebMail
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J"
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J
 				MyIntracom
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N"
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N
 				RCAM/JSIS
-				u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs"
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs
 
 # - - - - - - -
 			Admin
 			s:
 				Ares
 				t:Electronic Records Management System
-				u:"https://webgate.ec.testa.eu/Ares/welcome.do"
+				u:https://webgate.ec.testa.eu/Ares/welcome.do
 					(MyRemote)
-					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L"
+					u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L
 				Staff matters
 				t:DG HR website
-				u:"https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx"
+				u:https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx
 					Sysper2
-					u:"https://intracomm.ec.testa.eu/SYSPER2/home/menu.do"
+					u:https://intracomm.ec.testa.eu/SYSPER2/home/menu.do
 						Absences
-						u:"https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do"
+						u:https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do
 						Flexitime encoding
-						u:"https://webgate.ec.testa.eu/presence/editPresences.do"
+						u:https://webgate.ec.testa.eu/presence/editPresences.do
 						(MyRemote)
-						u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fqw32mp212QwvTC0DFzZ5K%2Fw3ywm0a"
+						u:https://myremote.ec.europa.eu/dana/home/launch.cgi
 					Pay calculator
 					u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
 
-				Mobility
-				t:Public transportation fincancial contribution
-				u:http://www.cc.cec/mobilitynet/abo/external_ecas/abo_frontend_adm.cfm
+					Mobility
+					t:Public transportation fincancial contribution
+					u:http://www.cc.cec/mobilitynet/abo/external_ecas/abo_frontend_adm.cfm
 
 				MiPS
 				t:Mission Processing System
-				u:"http://www.cc.cec/mips/api/home"
+				u:http://www.cc.cec/mips/api/home
 					(MyRemote)
-					u:"https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B"
+					u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B
 
 				EU Learn
-				u:"https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055"
+				u:https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055
 
 				eGestel
-				u:"http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot"
+				u:http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot
 
 				IAM info
 				t:Identity and Access Management
@@ -344,20 +344,20 @@ Bookmarks
 				d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
 
 			MyWorkplace
-			u:"https://webgate.ec.testa.eu/myworkplace/home"
+			u:https://webgate.ec.testa.eu/myworkplace/home
 			Service Medical
-			u:"https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx"
+			u:https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx
 
 			Who's who?
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/
 
 # - - - - - - -
 			DiGIT
-			u:"https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx"
+			u:https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx
 				Suppléances Calendar
-				u:"https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx"
+				u:https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx
 				MM Presentations
-				u:"https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx"
+				u:https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx
 				MAP
 				t:Multi Annual Planning tool (using Chrome or Firefox)
 				u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
@@ -365,17 +365,17 @@ Bookmarks
 				C2
 					FLAM
 					t:Fast & Light Access Module for CMDB
-					u:"https://intragate.ec.europa.eu/flam"
+					u:https://intragate.ec.europa.eu/flam
 						Environment graph
-						u:"https://intragate.ec.europa.eu/flam/graphenv.htm?"
+						u:https://intragate.ec.europa.eu/flam/graphenv.htm?
 						CI's per IS
-						u:"https://intragate.ec.europa.eu/flam/cilistperis.htm"
+						u:https://intragate.ec.europa.eu/flam/cilistperis.htm
 					Jasspr
-					u:"http://intragate.ec.europa.eu/jasspr/home.php"
+					u:http://intragate.ec.europa.eu/jasspr/home.php
 					Unified reporting
-					u:"https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp"
+					u:https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp
 					DC calendar
-					u:"http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx"
+					u:http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx
 					OPS4DEV
 					u:https://webcast.ec.europa.eu/ops4devs
 						201911 slides & wiki
@@ -383,10 +383,10 @@ Bookmarks
 
 				C4
 					SharePoint C4
-					u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx"
+					u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx
 					s:
 						Budget
-						u:"https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx"
+						u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx
 						TOP (fwc)
 						t:Telephone Providing contract (InfoTel)
 						u:https://myintracomm-collab.ec.europa.eu/networks/TOPDOC/SitePages/Home.aspx
@@ -410,7 +410,7 @@ Bookmarks
 						u:https://intragate.acceptance.ec.europa.eu/snet/wiki/index.php/Alerting
 
 						SNet site
-						u:"https://intragate.ec.europa.eu/snet"
+						u:https://intragate.ec.europa.eu/snet
 							DG tools
 								DG Packages Tools
 								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/index.pl
@@ -888,10 +888,10 @@ Bookmarks
 							u:https://weathermap.snmc.cec.eu.int/snet_static_firewall.html
 
 					PUMA
-					u:"https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard"
+					u:https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard
 
 				Testa
-				u:"https://portal.testa.eu/jetspeed/portal/"
+				u:https://portal.testa.eu/jetspeed/portal/
 
 				Support
 					MITS (My IT Support)
@@ -916,20 +916,20 @@ Bookmarks
 				t:Reset passwords
 				s:
 					LDAP
-					u:"http://www.cc.cec/home/rstIPecas/password_en.cfm"
+					u:http://www.cc.cec/home/rstIPecas/password_en.cfm
 					EU Login (ECAS)
-					u:"https://ecas.ec.europa.eu/cas/change/changePassword.cgi"
+					u:https://ecas.ec.europa.eu/cas/change/changePassword.cgi
 					SNET LDAP
-					u:"https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl"
+					u:https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl
 
 				(OLD)
-				u:"http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx"
+				u:http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx
 					DigitLine home page
-					u:"http://www.cc.cec/digitline/index_en.cfm"
+					u:http://www.cc.cec/digitline/index_en.cfm
 					SoftGrid
-					u:"http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm"
+					u:http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm
 					RAINBOW - Metadirectory tool
-					u:"http://www.cc.cec/ced/rainbow/index.cfm"
+					u:http://www.cc.cec/ced/rainbow/index.cfm
 
 # - - - - - - -
 			OIB
@@ -943,6 +943,7 @@ Bookmarks
 			BUDG
 			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
 				ABAC
+				t:Accrual Based ACcountancy
 				u:http://www.cc.cec/dgbudg/sibu/
 					Helpdesk
 						Mail
@@ -1010,98 +1011,98 @@ Bookmarks
 
 # - - - - - - -
 			Trade
-			u:"https://myintracomm.ec.europa.eu/dg/trade/"
+			u:https://myintracomm.ec.europa.eu/dg/trade/
 				Internet Trade Websites
-				u:"http://trade.ec.europa.eu/"
+				u:http://trade.ec.europa.eu/
 				External Websites
 					Trade
-					u:"http://ec.europa.eu/trade/index_new_en.htm"
+					u:http://ec.europa.eu/trade/index_new_en.htm
 					Trade intranet
-					u:"https://webgate.ec.europa.eu/trade/intra"
+					u:https://webgate.ec.europa.eu/trade/intra
 					DB 14(6)
-					u:"https://webgate.ec.europa.eu/db146"
+					u:https://webgate.ec.europa.eu/db146
 #						Server Status
-#						u:"https://webgate.ec.europa.eu/db146/serverAlive.jsp"
+#						u:https://webgate.ec.europa.eu/db146/serverAlive.jsp
 					DualUse
-					u:"https://webgate.ec.testa.eu/dualuse
+					u:https://webgate.ec.testa.eu/dualuse
 #						Server Status
-#						u:"https://webgate.ec.testa.eu/dualuse/serverAlive.jsp"
+#						u:https://webgate.ec.testa.eu/dualuse/serverAlive.jsp
 					EH
 					t:Export helpdesk
-					u:"https://trade.ec.europa.eu/tradehelp/"
+					u:https://trade.ec.europa.eu/tradehelp/
 #					EUTN
-#					u:"https://webgate.ec.europa.eu/eutn/serverAlive.htm"
+#					u:https://webgate.ec.europa.eu/eutn/serverAlive.htm
 #						EUTN register
-#						u:"http://trade.ec.europa.eu/eutn/register.htm?localeId=en"
+#						u:http://trade.ec.europa.eu/eutn/register.htm?localeId=en
 					ISDB
 					t:Integrated Statistical DB
-					u:"https://webgate.ec.europa.eu/isdb"
+					u:https://webgate.ec.europa.eu/isdb
 #						Server Status
-#						u:"https://webgate.ec.europa.eu/isdb/serverAlive.jsp"
+#						u:https://webgate.ec.europa.eu/isdb/serverAlive.jsp
 					Market access DB
 #						Server Status
-#						u:"http://madb.europa.eu/madb/serverAlive.jsp"
+#						u:http://madb.europa.eu/madb/serverAlive.jsp
 						Tariffs
-						u:"http://madb.europa.eu/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes="
+						u:http://madb.europa.eu/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes=
 						Trade Barriers
-						u:"http://madb.europa.eu/madb/barriers_select.htm"
+						u:http://madb.europa.eu/madb/barriers_select.htm
 						Statistics
-						u:"http://madb.europa.eu/madb/statistical.htm?from=form&cb_reporters=EU27&cb_partners=all&list_years=2004&ahscode1=00&submit=Search+HS+code"
+						u:http://madb.europa.eu/madb/statistical.htm?from=form&cb_reporters=EU27&cb_partners=all&list_years=2004&ahscode1=00&submit=Search+HS+code
 						Tariffs
-						u:"http://madb.europa.eu/madb/atDutyDetailPubli.htm?datasetid=MAAT-PE11-03v001&hscode=01029010&countries=PE&datacat_id=AT&keyword=&submit=&pathtoimage=http://madb.europa.eu/at/images/&showall=F"
+						u:http://madb.europa.eu/madb/atDutyDetailPubli.htm?datasetid=MAAT-PE11-03v001&hscode=01029010&countries=PE&datacat_id=AT&keyword=&submit=&pathtoimage=http://madb.europa.eu/at/images/&showall=F
 					SIGL
 					t:Systeme Integre de Gestion des Licences
-					u:"https://webgate.ec.europa.eu/Sigl2"
+					u:https://webgate.ec.europa.eu/Sigl2
 #					Tron Server Status
-#					u:"https://webgate.ec.europa.eu/tron/serverAlive.jsp"
+#					u:https://webgate.ec.europa.eu/tron/serverAlive.jsp
 					ums
-					u:"https://webgate.ec.europa.eu/ums/applicationStatus.do"
+					u:https://webgate.ec.europa.eu/ums/applicationStatus.do
 #					NOTIF Server Status
-#					u:"https://webgate.ec.europa.eu/notif/serverAlive.jsp"
+#					u:https://webgate.ec.europa.eu/notif/serverAlive.jsp
 				Internal Websites
 					TRADE Intranet
-					u:"http://www.trade.cec.eu.int/intra/index.cfm"
+					u:http://www.trade.cec.eu.int/intra/index.cfm
 					ADC Mailing List
-					u:"https://intragate.ec.europa.eu/ADCMailing/index.pl"
+					u:https://intragate.ec.europa.eu/ADCMailing/index.pl
 					Comext Server Status
-					u:"http://comext.trade.cec.eu.int:8080/cmapp/serverAlive.jsp"
+					u:http://comext.trade.cec.eu.int:8080/cmapp/serverAlive.jsp
 					D.U.M.A. Server Status
 					t:Delegated User Management Application
-					u:"http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp"
+					u:http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp
 					ISDB
 					t:Integrated Statistical DB
-					u:"http://isdb.trade.cec.eu.int:8080/isdb_gct/new_gui/index.jsp"
+					u:http://isdb.trade.cec.eu.int:8080/isdb_gct/new_gui/index.jsp
 					MADB
 					t:Market Access DB
-					u:"http://madb.trade.cec.eu.int:8080/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes="
+					u:http://madb.trade.cec.eu.int:8080/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes=
 						barriers
-						u:"http://madb.europa.eu/madb_barriers/barriers_select.htm"
+						u:http://madb.europa.eu/madb_barriers/barriers_select.htm
 						statistical
-						u:"http://madb.europa.eu/mkaccdb2/statistical.htm?from=form&cb_reporters=EU25&cb_partners=all&list_years=2004&ahscode1=0102&submit=Search+HS+code"
+						u:http://madb.europa.eu/mkaccdb2/statistical.htm?from=form&cb_reporters=EU25&cb_partners=all&list_years=2004&ahscode1=0102&submit=Search+HS+code
 						THICOA
 						t:THIrd COuntries Agreement
-						u:"http://thicoa.trade.cec.eu.int:8080/thicoa/"
+						u:http://thicoa.trade.cec.eu.int:8080/thicoa/
 					MSOP
 					t:Member states Opinions
-					u:"http://msop.trade.cec.eu.int:8080/MSOpinions/"
+					u:http://msop.trade.cec.eu.int:8080/MSOpinions/
 					NOTIF
-					u:"http://notif.trade.cec.eu.int:8080/notif/"
+					u:http://notif.trade.cec.eu.int:8080/notif/
 						Server Status
-						u:"http://notif.trade.cec.eu.int:8080/notif/serverAlive.jsp"
+						u:http://notif.trade.cec.eu.int:8080/notif/serverAlive.jsp
 					OASYS
-					u:"http://oasys.trade.cec.eu.int:8080/Oasys/"
+					u:http://oasys.trade.cec.eu.int:8080/Oasys/
 						Server Status
-						u:"http://oasys.trade.cec.eu.int:8080/Oasys/serverAlive.jsp"
+						u:http://oasys.trade.cec.eu.int:8080/Oasys/serverAlive.jsp
 					Sherlock
-					u:"https://intragate.ec.europa.eu/sherlock/"
+					u:https://intragate.ec.europa.eu/sherlock/
 						Server Status
-						u:"https://intragate.ec.europa.eu/sherlock/serverAlive.jsp"
+						u:https://intragate.ec.europa.eu/sherlock/serverAlive.jsp
 					SHERPA
-					u:"http://sherpa.trade.cec.eu.int:8080/sherpa/"
+					u:http://sherpa.trade.cec.eu.int:8080/sherpa/
 						Server Status
-						u:"http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp"
+						u:http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp
 					HtmlLogger - test
-					u:"http://htmllogger.trade.cec.eu.int:8080/html_logger/"
+					u:http://htmllogger.trade.cec.eu.int:8080/html_logger/
 
 # - - - - - - -
 		EP
@@ -1469,28 +1470,28 @@ Bookmarks
 		u:https://docstore.mik.ua/orelly/bookshelfs.html
 		t:O'Reilly's CD bookshelf
 		ANT Tutorial
-		u:"https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html"
+		u:https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html
 		JDK 11
-		u:"https://docs.oracle.com/en/java/javase/11/"
+		u:https://docs.oracle.com/en/java/javase/11/
 		Node.js
-		u:"https://nodejs.org/en/about/"
+		u:https://nodejs.org/en/about/
 			Node: Up and Running
-			u:"http://chimera.labs.oreilly.com/books/1234000001808/index.html"
+			u:http://chimera.labs.oreilly.com/books/1234000001808/index.html
 			Why Use Node.js?
 			t:A Comprehensive Tutorial with Examples | Toptal
-			u:"https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js"
+			u:https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
 			Website in Node.js
 			t:A Simple Website in Node.js with Express, Jade and Stylus | Clock
-			u:"http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus"
+			u:http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus
 		Python
 			Python 3 documentation
-			u:"https://docs.python.org/3/download.html"
+			u:https://docs.python.org/3/download.html
 			Python Programming
 			t:Wikibooks, open books for an open world
-			u:"https://en.wikibooks.org/wiki/Python_Programming"
+			u:https://en.wikibooks.org/wiki/Python_Programming
 			A Byte of Python
-			u:"http://www.swaroopch.com/notes/python/"
+			u:http://www.swaroopch.com/notes/python/
 		Ruby
 			Ruby Version Manager
 			t:Bundler Integration with RVM
-			u:"https://rvm.io/integration/bundler"
+			u:https://rvm.io/integration/bundler
