@@ -404,16 +404,6 @@ Bookmarks
 						t:Network and Telecom Acquisition CHAnnel
 						u:https://myintracomm-collab.ec.europa.eu/networks/NATACHA4/SitePages/Home.aspx
 
-					Conferencing
-						Audio conferencing (multipoint)
-						u:http://www.cc.cec/itservices/en/content/audio-conferencing-services
-						VC
-						t:Visio Conference
-							In meeting rooms
-							u:http://www.cc.cec/itservices/en/content/video-conferencing-meeting-rooms
-							Web conferencing services
-							u:http://www.cc.cec/itservices/node/74
-
 					SNet
 					t:Secured Network
 					s:
@@ -912,6 +902,8 @@ Bookmarks
 						u:mailto:EC-HELPDESK-IT@ec.europa.eu
 						Tel
 						u:tel://77777
+					Audio conferencing (multipoint)
+					u:http://www.cc.cec/itservices/en/content/audio-conferencing-services
 					VideoConference
 						SCIC rooms
 						u:tel://54321
@@ -921,6 +913,12 @@ Bookmarks
 						u:tel://77777
 						WebEx
 						u:tel://77777
+
+						In meeting rooms
+						u:http://www.cc.cec/itservices/en/content/video-conferencing-meeting-rooms
+						Web conferencing services
+						u:http://www.cc.cec/itservices/node/74
+
 
 				Password management
 				u:http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc
