@@ -54,6 +54,12 @@ Bookmarks
 		s:
 			GovTech
 			t:GovTech aims to build better services for citizens and better tools for public servants.
+			GovSec
+			t:Governance of Security
+				ITSRM²
+				t:IT Security Risk Management Mathodology
+				d:<ul><li>Supports the Commission Decision 2017/46</li><li>Complements the effort of the EC for the protection of the information systems</li><li>Proposes practical choices of implementation of these processes:<ul><li>Formulas</li><li>Actionable tasks and methods</li><li>Scales</li><li>Catalogues</li></ul></li></ul>
+
 			HLPI
 			t:High Level Performance Indicators
 			SACI
@@ -167,12 +173,10 @@ Bookmarks
 					UCC
 					u:https://en.wikipedia.org/wiki/Unified_communications
 					t:Unified Communications & Collaboration
-					VC
-					t:Visio Conference
-						CUCM
-						t:Cisco Unified Call Manager
-						CMS
-						t:Cisco Meeting Server
+					CUCM
+					t:Cisco Unified Call Manager
+					CMS
+					t:Cisco Meeting Server
 
 				QPC
 				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231656&orgSource=COM
@@ -274,6 +278,8 @@ Bookmarks
 			u:https://www.office.com/?auth=2&home=1
 				OneDrive
 				u:https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx
+				Pilot WiKi
+				u:https://myintracomm-collab.ec.europa.eu/projects/Off365Pilot/SitePages/Home.aspx
 
 			Remote access
 				Myremote Teleworking
@@ -397,6 +403,16 @@ Bookmarks
 						Natacha (fwc)
 						t:Network and Telecom Acquisition CHAnnel
 						u:https://myintracomm-collab.ec.europa.eu/networks/NATACHA4/SitePages/Home.aspx
+
+					Conferencing
+						Audio conferencing (multipoint)
+						u:http://www.cc.cec/itservices/en/content/audio-conferencing-services
+						VC
+						t:Visio Conference
+							In meeting rooms
+							u:http://www.cc.cec/itservices/en/content/video-conferencing-meeting-rooms
+							Web conferencing services
+							u:http://www.cc.cec/itservices/node/74
 
 					SNet
 					t:Secured Network
