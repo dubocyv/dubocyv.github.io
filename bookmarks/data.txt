@@ -991,7 +991,7 @@ Bookmarks
 					Accounting (Lnx sap)
 					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
 					Assets (Lnx wls)
-					t:IT tool used by the Commission and other EU bodies for the daily management of goods and services, interfaced with the general financial system of the Commission ABAC.
+					t:IT tool used by the Commission and other EU bodies for the daily management of goods and services, interfaced with the general financial system of the Commission.
 					u:https://intragate.ec.europa.eu/webastsgaprd_astsgp1/assetsapp
 					Assets (Scd cf0)
 					u:https://intragate.ec.europa.eu/webastshpprd_hp1/assetsapp
