@@ -50,11 +50,6 @@ Bookmarks
 				UC
 				t:Underpinning Contract
 
-		BUDG
-			RAL
-			t:Reste A Liquider (Still to be paid)
-			DAP *
-
 		DiGIT
 		s:
 			GovTech
@@ -943,8 +938,28 @@ Bookmarks
 			BUDG
 			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
 				ABAC
-				t:Accrual Based ACcountancy
+				t:Accrual Based ACcounting
 				u:http://www.cc.cec/dgbudg/sibu/
+					Glossary
+					s:
+						IA / AI
+						t:Initiating Agent / Agent Initiant (role for creation, modification & validation)
+						VA / AV
+						t:Verifying Agent / Agent Vérifiant
+						AOS
+						t:Authorizing Officer by Sub-delegation
+						BGUE
+						t:Budget Général de l'Union Européenne
+						LEF / FEL
+						t:Legal Entity File / Fichier des Entités Légales
+						BAF / FCB
+						t:Bank Account File / Fichier des Comptes Bancaires
+						FTS
+						t:Financial Transparency Support (system)
+						RAL
+						t:Reste A Liquider (Still to be paid)
+						DAP *
+
 					Helpdesk
 						Mail
 						u:mailto:EC-ABAC-HELPDESK@ec.europa.eu
