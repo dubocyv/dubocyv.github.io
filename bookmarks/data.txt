@@ -962,6 +962,7 @@ Bookmarks
 						t:Verifying Agent / Agent Vérifiant
 						AOS
 						t:Authorizing Officer by Sub-delegation
+						u:https://myintracomm.ec.europa.eu/budgweb/fr/abac/support/Documents/sbs-authorisingofficer-fr.pdf
 						BGUE
 						t:Budget Général de l'Union Européenne
 						LEF / FEL
