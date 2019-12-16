@@ -1022,6 +1022,12 @@ Bookmarks
 					Workflow (Lnx wls)
 					d:ABAC Workflow is the module used for daily financial/budgetary management by the majority of users. Each user has specific responsibilities in line with the Financial Regulation and its Rules of Application. This is reflected as the user signs documents -according to his/her role- (e.g. Initiating Agent, Verifying Agent, Authorising Officer by Subdelegation) passing through an omni-present “workflow”.
 					u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac
+						Search Exp L1
+						t:Expense Flow -> Budgetary Commitments -> FR 2003 & later -> Commitment level 1 -> Search
+						u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac/com.hed.l1.search.do?event=INIT_PAGE
+						Search Exp L2
+						t:Expense Flow -> Budgetary Commitments -> FR 2003 & later -> Commitment level 2 -> Search
+						u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac/com.hed.l2.search.do?event=INIT_PAGE
 					Badg budg (Lnx wls)
 					u:https://intragate.ec.europa.eu/webbadggaprd_badggp1/badgebud
 
