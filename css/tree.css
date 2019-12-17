@@ -385,12 +385,12 @@ div.descriptionTT {
 	padding: 8px;
 	font-size: 14px;
 	color: #009;
-	background-color: rgba(245, 254, 255, 0.95);
+	background-color: rgba(245, 254, 255, 1);
 	border-style: double;
 	border-color: #0cc;
 	border-radius: 8px;
 	overflow-y: scroll;
-//	box-shadow:5px 10px 75px 20px grey
+	box-shadow:5px 10px 75px 20px grey;
 	z-index: 1;
 }
 
