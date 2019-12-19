@@ -1,0 +1,117 @@
+#
+# Tree.js how-to
+#
+# History:
+# 20160714	ydubocquet	Created
+#
+Tree howto
+
+	Build
+		Input (data.txt)
+			node description
+			d: The node should be as short as possible, because:<ul><li>it will appear on one single line<li>the graph geometry is calculated based on the longest node</ul>
+			format
+				text file
+				t: <b>Must</b> be named <code>data.txt</code>
+				nodes collection
+				t: A node is always identified by a few names to be displayed
+				one per line
+				tabs indented
+				t: tabs indentation reflects the level of the node
+				images or URL
+				t: Additional image and/or URL may appear on consecutive line(s) at exactly the same level as the node.<ul><li>URLs are identified by a prefix http or by a suffix pdf/doc/docx/xls/xlsx<li>Images are identified by a suffix jpg/jpeg/gif/png</ul>
+				description
+				t: Each line may (not mandatory) contain a descriptive letter followed by ': ' to identify how to interpret the remaining line
+					node
+					t: [n: ]\< node name\>
+					Sorting level
+					t: s:<p>The sub level nodes will be sorted alphabetically
+					d: The sub level nodes will be sorted alphabetically
+					s:
+						charlie
+						bravo
+						alpha
+					Grouping level
+					t: g:<p>The sub level nodes having identical first names will be sorted and grouped under that first name in a new hierarchical level on the children level entries
+					d: The sub level nodes having identical first names will be sorted and grouped under that first name in a new hierarchical level on the children level entries
+					g:
+						node 3
+						entry 2
+						node 1
+						entry 1
+						node 2
+					URL
+					t: [u: ]\< URL\>
+					u: https://www.google.com
+					image
+					t: [i: ]\< image filename\>
+					i: ../images/ITEClogo.png
+					multiple images
+					t: I: \< image filename\> [\< image filename\> ...]<p>The list of images must appear on a single line.<br>A line continuation \< backslash\> might be used to split a long line.
+					I: images/running-horse1.gif \
+						images/running-horse2.gif \
+						images/running-horse3.gif \
+						images/running-horse4.gif \
+						images/running-horse5.gif \
+						images/running-horse6.gif \
+						images/running-horse7.gif \
+						images/running-horse8.gif \
+						images/running-horse9.gif
+					description
+					t: d: \<(HTML) text\> (description centered in window)
+					tooltip
+					t: t: \<(HTML) text\> (tooltip)
+			Code
+			d: <pre><code>typeset -i a=1;</code></pre>
+			double-quotes ignored
+			'#' to comment lines
+			<backslash> to continue on a second line
+			blank lines ignored
+
+		Conversion
+		d: The text file (<code>data.txt</code>) must be converted to a JSON file (<code>data.json</code>).<p>This task is handled by the script <code>txt2json</code>.<p>A Makefile is taking care of the conversion (type '<b><code>make</code></b>' once the <code>data.txt</code> has been modified)
+
+		Index.html
+			Template changes
+				title (l5)
+				main header (l12)
+
+		Organisation
+			One folder holds 1 tree
+			Copy a skeleton hierarchy
+			Modify entries
+				index.html
+				data.txt
+			Run 'make' from the folder
+
+	Use
+		Node position
+			Left of the bullet
+			t: Clicking the node expand the next child level
+				child 1
+				child 2
+			Right of the bullet
+			t: No more children
+		Bullet color
+			Filled white
+			t: Children are visible (open node)
+			Filled blue
+			t: Children are hidden (closed node)
+				child 1
+				child 2
+			Magenta outline
+			t: A description is available
+			d: This is some description<p>1<p>2<p>3<p>4<p>5<p>6<p>7<p>8<p>9<p>10<p>11<p>12
+			Filled orange
+			t: One (or more) image is available<ul><li>\< ESC\> or \< Space\> will hide the image<li>\< Arrow keys\> will move sequentially in a set of images</ul>
+			I: images/running-horse1.gif \
+				images/running-horse2.gif \
+				images/running-horse3.gif \
+				images/running-horse4.gif \
+				images/running-horse5.gif \
+				images/running-horse6.gif \
+				images/running-horse7.gif \
+				images/running-horse8.gif \
+				images/running-horse9.gif
+		<Shift-click>
+		t: Will close every opened neighbour node

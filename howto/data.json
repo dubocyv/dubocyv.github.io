@@ -1,0 +1,240 @@
+{
+ "name": "Tree howto",
+ "children": [
+  {
+   "name": "Build",
+   "children": [
+    {
+     "name": "Input (data.txt)",
+     "children": [
+      {
+       "name": "node description",
+       "desc": " The node should be as short as possible, because:<ul><li>it will appear on one single line<li>the graph geometry is calculated based on the longest node</ul>"
+      },
+      {
+       "name": "format",
+       "children": [
+        {
+         "name": "text file",
+         "tip": " <b>Must</b> be named <code>data.txt</code>"
+        },
+        {
+         "name": "nodes collection",
+         "tip": " A node is always identified by a few names to be displayed"
+        },
+        {
+         "name": "one per line"
+        },
+        {
+         "name": "tabs indented",
+         "tip": " tabs indentation reflects the level of the node"
+        },
+        {
+         "name": "images or URL",
+         "tip": " Additional image and/or URL may appear on consecutive line(s) at exactly the same level as the node.<ul><li>URLs are identified by a prefix http or by a suffix pdf/doc/docx/xls/xlsx<li>Images are identified by a suffix jpg/jpeg/gif/png</ul>"
+        },
+        {
+         "name": "description",
+         "tip": " Each line may (not mandatory) contain a descriptive letter followed by ': ' to identify how to interpret the remaining line",
+         "children": [
+          {
+           "name": "node",
+           "tip": " [n: ]< node name>"
+          },
+          {
+           "name": "Sorting level",
+           "tip": " s:<p>The sub level nodes will be sorted alphabetically",
+           "desc": " The sub level nodes will be sorted alphabetically",
+           "sort": "",
+           "children": [
+            {
+             "name": "charlie"
+            },
+            {
+             "name": "bravo"
+            },
+            {
+             "name": "alpha"
+            }
+           ]
+          },
+          {
+           "name": "Grouping level",
+           "tip": " g:<p>The sub level nodes having identical first names will be sorted and grouped under that first name in a new hierarchical level on the children level entries",
+           "desc": " The sub level nodes having identical first names will be sorted and grouped under that first name in a new hierarchical level on the children level entries",
+           "group": "",
+           "children": [
+            {
+             "name": "node 3"
+            },
+            {
+             "name": "entry 2"
+            },
+            {
+             "name": "node 1"
+            },
+            {
+             "name": "entry 1"
+            },
+            {
+             "name": "node 2"
+            }
+           ]
+          },
+          {
+           "name": "URL",
+           "tip": " [u: ]< URL>",
+           "url": " https://www.google.com"
+          },
+          {
+           "name": "image",
+           "tip": " [i: ]< image filename>",
+           "img": " ../images/ITEClogo.png"
+          },
+          {
+           "name": "multiple images",
+           "tip": " I: < image filename> [< image filename> ...]<p>The list of images must appear on a single line.<br>A line continuation < backslash> might be used to split a long line.",
+           "Aimg": [ "images/running-horse1.gif", "images/running-horse2.gif", "images/running-horse3.gif", "images/running-horse4.gif", "images/running-horse5.gif", "images/running-horse6.gif", "images/running-horse7.gif", "images/running-horse8.gif", "images/running-horse9.gif" ]
+
+          },
+          {
+           "name": "description",
+           "tip": " d: <(HTML) text> (description centered in window)"
+          },
+          {
+           "name": "tooltip",
+           "tip": " t: <(HTML) text> (tooltip)"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "name": "Code",
+       "desc": " <pre><code>typeset -i a=1;</code></pre>"
+      },
+      {
+       "name": "double-quotes ignored"
+      },
+      {
+       "name": "'#' to comment lines"
+      },
+      {
+       "name": "<backslash> to continue on a second line"
+      },
+      {
+       "name": "blank lines ignored"
+      }
+     ]
+    },
+    {
+     "name": "Conversion",
+     "desc": " The text file (<code>data.txt</code>) must be converted to a JSON file (<code>data.json</code>).<p>This task is handled by the script <code>txt2json</code>.<p>A Makefile is taking care of the conversion (type '<b><code>make</code></b>' once the <code>data.txt</code> has been modified)"
+    },
+    {
+     "name": "Index.html",
+     "children": [
+      {
+       "name": "Template changes",
+       "children": [
+        {
+         "name": "title (l5)"
+        },
+        {
+         "name": "main header (l12)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Organisation",
+     "children": [
+      {
+       "name": "One folder holds 1 tree"
+      },
+      {
+       "name": "Copy a skeleton hierarchy"
+      },
+      {
+       "name": "Modify entries",
+       "children": [
+        {
+         "name": "index.html"
+        },
+        {
+         "name": "data.txt"
+        }
+       ]
+      },
+      {
+       "name": "Run 'make' from the folder"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Use",
+   "children": [
+    {
+     "name": "Node position",
+     "children": [
+      {
+       "name": "Left of the bullet",
+       "tip": " Clicking the node expand the next child level",
+       "children": [
+        {
+         "name": "child 1"
+        },
+        {
+         "name": "child 2"
+        }
+       ]
+      },
+      {
+       "name": "Right of the bullet",
+       "tip": " No more children"
+      }
+     ]
+    },
+    {
+     "name": "Bullet color",
+     "children": [
+      {
+       "name": "Filled white",
+       "tip": " Children are visible (open node)"
+      },
+      {
+       "name": "Filled blue",
+       "tip": " Children are hidden (closed node)",
+       "children": [
+        {
+         "name": "child 1"
+        },
+        {
+         "name": "child 2"
+        }
+       ]
+      },
+      {
+       "name": "Magenta outline",
+       "tip": " A description is available",
+       "desc": " This is some description<p>1<p>2<p>3<p>4<p>5<p>6<p>7<p>8<p>9<p>10<p>11<p>12"
+      },
+      {
+       "name": "Filled orange",
+       "tip": " One (or more) image is available<ul><li>< ESC> or < Space> will hide the image<li>< Arrow keys> will move sequentially in a set of images</ul>",
+       "Aimg": [ "images/running-horse1.gif", "images/running-horse2.gif", "images/running-horse3.gif", "images/running-horse4.gif", "images/running-horse5.gif", "images/running-horse6.gif", "images/running-horse7.gif", "images/running-horse8.gif", "images/running-horse9.gif" ]
+
+      }
+     ]
+    },
+    {
+     "name": "<Shift-click>",
+     "tip": " Will close every opened neighbour node"
+    }
+   ]
+  }
+ ]
+}
