@@ -390,7 +390,7 @@ div.descriptionTT {
 	border-color: #0cc;
 	border-radius: 8px;
 	overflow-y: scroll;
-	box-shadow:0px 10px 50px 8px grey;
+	box-shadow:0px 10px 50px -8px grey;
 	z-index: 1;
 }
 

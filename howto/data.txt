@@ -45,7 +45,7 @@ Tree howto
 					u: https://www.google.com
 					image
 					t: [i: ]\< image filename\>
-					i: ../images/ITEClogo.png
+					i: /images/favicon.png
 					multiple images
 					t: I: \< image filename\> [\< image filename\> ...]<p>The list of images must appear on a single line.<br>A line continuation \< backslash\> might be used to split a long line.
 					I: images/running-horse1.gif \
@@ -115,3 +115,7 @@ Tree howto
 				images/running-horse9.gif
 		<Shift-click>
 		t: Will close every opened neighbour node
+		<Alt-click>
+		t: Will expand or collapse the clicked node
+		<Ctrl-click>
+		t: Will follow the existing URL on a separate tab

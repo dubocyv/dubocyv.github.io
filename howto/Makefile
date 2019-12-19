@@ -1,4 +1,4 @@
-PATH=/bin:/usr/bin:/apps/chkapp/bin:$(HOME)/bin:.
+PATH=/bin:/usr/bin:/apps/chkapp/bin:$(HOME)/bin:../../../chkapp/bin
 
 all :		data.json
 #		@ chcon -R -v -t httpd_sys_rw_content_t * >/dev/null; chmod a+r *;

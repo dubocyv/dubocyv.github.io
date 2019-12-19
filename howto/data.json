@@ -89,7 +89,7 @@
           {
            "name": "image",
            "tip": " [i: ]< image filename>",
-           "img": " ../images/ITEClogo.png"
+           "img": " /images/favicon.png"
           },
           {
            "name": "multiple images",
@@ -233,6 +233,14 @@
     {
      "name": "<Shift-click>",
      "tip": " Will close every opened neighbour node"
+    },
+    {
+     "name": "<Alt-click>",
+     "tip": " Will expand or collapse the clicked node"
+    },
+    {
+     "name": "<Ctrl-click>",
+     "tip": " Will follow the existing URL on a separate tab"
     }
    ]
   }
