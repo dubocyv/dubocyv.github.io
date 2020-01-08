@@ -52,6 +52,8 @@ Bookmarks
 
 		DiGIT
 		s:
+			CII
+			t:Comité Informatique Interinstitutionnel
 			GovTech
 			t:GovTech aims to build better services for citizens and better tools for public servants.
 			GovSec
@@ -100,6 +102,15 @@ Bookmarks
 						UCL
 						t:Unit Cost List
 
+			C2
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=41338&orgSource=COM
+				SAM
+				t:Software Asset Management
+			C3
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7786&orgSource=COM
+				CAM
+				t:Crypto Assets Management
+				d:Central piece to ensure a correct management of our private keys and our integrity. Initially foreseen for the ECI (European Citizen Initiative), other clients (CLIMA) have expressed their interest. The CAM service will become essential for a future consumption from the public cloud to ensure that our cypto’s assets are under our control.
 			C4
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
 				DN
@@ -182,6 +193,51 @@ Bookmarks
 				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231656&orgSource=COM
 				t:Quality / business Process / Contract management
 				s:
+					Cost model drivers
+						Business service
+							iCall
+								Campaings
+								Supervisors
+								User agents
+							IPTV
+								TVD points
+							Audioconference
+								Nb Tf extensions
+								t:PolyCom/audioconf extensions
+								Nb hours
+							Fixed phones
+								Nb personal extensions
+							Fixed telephony
+								Effective usage
+							Fixed telephony infra
+								Nb extensions
+							Infotel
+								Nb lines
+							Mobile telephony
+								Nb SIM cards
+								Effective usage
+							SMS GW
+								Nb SMS
+								Effective usage
+							Visioconference
+								Nb personal endpoints
+								Nb room endpoints
+								Nb PC endpoints
+							Web conference
+								Nb hours
+							Internet (dedicated)
+								Nb hours | consumption/year
+							Wide Area Network
+								Consumption
+								t:Chargeback based on real consumption/estimation
+							Visioconf external
+								Nb endpoints
+								t:Nb of external/third-party endpoints
+						Technical service
+							iCall
+								Campaigns (all)
+							Visioconf external
+								Nb endpoints
 					BPM
 					t:Business Process Management
 					INAS
