@@ -257,13 +257,13 @@ Bookmarks
 									Internet access
 										Virtual driver
 								Complex port LSU
-										Nb complex LSU ports
-								Complex port 
-										Nb complex ports
+									Nb complex LSU ports
+								Complex port
+									Nb complex ports
 								DMZ LSU
 									Regular service
 										Nb DMZs
-									regular-Remainder
+									Regular - Remainder
 										Nb DMZs
 								WiFi
 									Equipment
@@ -319,7 +319,7 @@ Bookmarks
 					BPM
 					t:Business Process Management
 					INAS
-#					t:INternet Access Services
+					t:INternet Access Services
 					ENS
 					t:External Netwark Services
 					CSI
