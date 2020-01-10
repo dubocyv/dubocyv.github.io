@@ -194,50 +194,128 @@ Bookmarks
 				t:Quality / business Process / Contract management
 				s:
 					Cost model drivers
-						Business service
-							iCall
-								Campaings
-								Supervisors
-								User agents
-							IPTV
-								TVD points
-							Audioconference
-								Nb Tf extensions
-								t:PolyCom/audioconf extensions
-								Nb hours
-							Fixed phones
-								Nb personal extensions
-							Fixed telephony
-								Effective usage
-							Fixed telephony infra
-								Nb extensions
-							Infotel
-								Nb lines
-							Mobile telephony
-								Nb SIM cards
-								Effective usage
-							SMS GW
-								Nb SMS
-								Effective usage
-							Visioconference
-								Nb personal endpoints
-								Nb room endpoints
-								Nb PC endpoints
-							Web conference
-								Nb hours
-							Internet (dedicated)
-								Nb hours | consumption/year
-							Wide Area Network
-								Consumption
-								t:Chargeback based on real consumption/estimation
-							Visioconf external
-								Nb endpoints
-								t:Nb of external/third-party endpoints
-						Technical service
-							iCall
-								Campaigns (all)
-							Visioconf external
-								Nb endpoints
+						DN
+							Business service
+								Kiosk
+									Nb virtual rooms
+								Rachel
+									Nb accounts
+								Network Conn. (Project)
+								t:Network Connectivity for Project
+									Client Owned Equt
+									t:Client Owned Network Equipment
+										Nb ports
+									Full Service
+										Nb ports
+								Remote access
+									Nb users
+								Load Balancing
+									Nb LB entries
+								Reverse proxy
+									Nb mappings
+								Cloud AWS Connectivity
+								DWP Network Conn.
+								t:Digital WorkPlace Network Connectivity
+									Full Service
+										Nb users
+									Client Owned Equt
+									t:Client Owned Network Equipment
+										Nb users
+									JRC Remote Sites
+										Nb users
+								Complex port for DGs
+									Nb complex ports LSU
+								DMZ
+									Data Center
+										Nb DMZs
+									DG
+										Full Service
+											Nb DMZs
+										Without local Equt
+										t:Without local equipment
+											Nb DMZs
+								WiFi
+									Commission
+										Nb access points
+									EEAS
+										Nb access points
+							Technical service
+								Rachel
+									Nb accounts
+								Remote access
+									Nb users
+								Cloud AWS connectivity
+								Regular port
+									Distribution & Access
+										Virtual driver
+									NON Security service
+										Virtual driver
+									Proxy service
+										Nb ports
+									Remainder
+										Nb ports
+									Internet access
+										Virtual driver
+								Complex port LSU
+										Nb complex LSU ports
+								Complex port 
+										Nb complex ports
+								DMZ LSU
+									Regular service
+										Nb DMZs
+									regular-Remainder
+										Nb DMZs
+								WiFi
+									Equipment
+										Nb access points
+									Service
+										Nb access points
+						TA
+							Business service
+								iCall
+									Campaings
+									Supervisors
+									User agents
+								IPTV
+									TVD points
+								Audioconference
+									Nb Tf extensions
+									t:PolyCom/audioconf extensions
+									Nb hours
+								Fixed phones
+									Nb personal extensions
+								Fixed telephony
+									Effective usage
+								Fixed telephony infra
+									Nb extensions
+								Infotel
+									Nb lines
+								Mobile telephony
+									Nb SIM cards
+									Effective usage
+								SMS GW
+									Nb SMS
+									Effective usage
+								Visioconference
+									Nb personal endpoints
+									Nb room endpoints
+									Nb PC endpoints
+								Web conference
+									Nb hours
+								Internet (dedicated)
+									Nb hours | consumption/year
+								Wide Area Network
+									Consumption
+									t:Chargeback based on real consumption/estimation
+								Visioconf external
+									Nb endpoints
+									t:Nb of external/third-party endpoints
+							Technical service
+								iCall
+									Campaigns (all)
+								Visioconf external
+									Nb endpoints
+
 					BPM
 					t:Business Process Management
 					INAS
