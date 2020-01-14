@@ -498,6 +498,10 @@ Bookmarks
 				MAP
 				t:Multi Annual Planning tool (using Chrome or Firefox)
 				u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
+					QLIK Sense
+					t:Reporting tool
+					d:Access to be requested to B4 QlikSense Team ('DIGIT FOLIO SUPPORT' mailbox)<br>At your first access, you will see nothing.<br>B4 will come back to you as soon as they can, and they will send to you a confirmation mail with the information where you can find the apps (new url, etc).
+					u:https://intragate.ec.europa.eu/digit_folio_qs/ecas/hub/my/work
 
 				C2
 					FLAM
@@ -1069,14 +1073,14 @@ Bookmarks
 					SNET LDAP
 					u:https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl
 
-				(OLD)
-				u:http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx
-					DigitLine home page
-					u:http://www.cc.cec/digitline/index_en.cfm
-					SoftGrid
-					u:http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm
-					RAINBOW - Metadirectory tool
-					u:http://www.cc.cec/ced/rainbow/index.cfm
+#				(OLD)
+#				u:http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx
+#					DigitLine home page
+#					u:http://www.cc.cec/digitline/index_en.cfm
+#					SoftGrid
+#					u:http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm
+#					RAINBOW - Metadirectory tool
+#					u:http://www.cc.cec/ced/rainbow/index.cfm
 
 # - - - - - - -
 			OIB
