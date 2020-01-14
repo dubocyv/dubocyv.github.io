@@ -111,6 +111,8 @@ Bookmarks
 				CAM
 				t:Crypto Assets Management
 				d:Central piece to ensure a correct management of our private keys and our integrity. Initially foreseen for the ECI (European Citizen Initiative), other clients (CLIMA) have expressed their interest. The CAM service will become essential for a future consumption from the public cloud to ensure that our cypto’s assets are under our control.
+				CMP
+				t:Cloud Management Portal
 			C4
 			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
 				DN
@@ -520,6 +522,8 @@ Bookmarks
 					SharePoint C4
 					u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx
 					s:
+						Astreintes
+						u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Astreintes.aspx
 						Budget
 						u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx
 						TOP (fwc)
