@@ -500,7 +500,7 @@ Bookmarks
 				u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
 					QLIK Sense
 					t:Reporting tool
-					d:Access to be requested to B4 QlikSense Team ('DIGIT FOLIO SUPPORT' mailbox)<br>At your first access, you will see nothing.<br>B4 will come back to you as soon as they can, and they will send to you a confirmation mail with the information where you can find the apps (new url, etc).
+					d:Access to be requested to <a href='mailto:DIGIT-FOLIO-SUPPORT@ec.europa.eu'>B4 QlikSense Team</a> ('DIGIT FOLIO SUPPORT' mailbox)<br>At your first access, you will see nothing.<br>B4 will come back to you as soon as they can, and they will send to you a confirmation mail with the information where you can find the apps (new url, etc).
 					u:https://intragate.ec.europa.eu/digit_folio_qs/ecas/hub/my/work
 
 				C2
