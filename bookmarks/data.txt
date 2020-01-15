@@ -1033,6 +1033,9 @@ Bookmarks
 					PUMA
 					u:https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard
 
+					Telema
+					u:http://intragate.ec.europa.eu/telema/maximo/ui/login 
+
 				Testa
 				u:https://portal.testa.eu/jetspeed/portal/
 
