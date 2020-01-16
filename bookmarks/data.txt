@@ -356,8 +356,8 @@ Bookmarks
 # - - - - - - -
 	Organigram
 		DiGIT.DDG
-			C
-				4
+			DirC
+				C.4
 					001 - QPC
 					t:Quality, Processes and Contracts
 						Head of Sector
@@ -375,37 +375,37 @@ Bookmarks
 					002 - TA
 					t:Telecommunications Applications
 						Head of Sector
-							Eftimios TSIGROS
+							Eftimios TSIGROS,b,
 							Network & Telecommunications
-								Clara Iciar ALONZO ARRANZ
-								Manousos VICHOS
-								Benoit HECHTERMANS
-								Catherine STEPHENNE
-								Vicky KONTOGIANNI
-								Danny VAN DURME
-								Riita HAUTALA
-								Jehanne DEMEZ
-								Mihai STOIAN
+								Clara Iciar ALONZO ARRANZ,b,
+								Manousos VICHOS,l,
+								Benoit HECHTERMANS,b,
+								Catherine STEPHENNE,b,
+								Vicky KONTOGIANNI,b,
+								Danny VAN DURME,b,
+								Riita HAUTALA,b,
+								Jehanne DEMEZ,b,
+								Mihai STOIAN,b,
 							Videoconference
-								Jean-Michel WAGNER
+								Jean-Michel WAGNER,l,
 					003 - DN
 					t:Data Network Services
 						Head of Sector
-							Robert HENDRICKX
+							Robert HENDRICKX,b,
 						Systems, Security and Infra
 						t:Systems, Security and Infrastructure Services
-							Philippe BOUSSERT
-							Stefano ZANMARCHI
-							Ludovic DUPLAQUET
+							Philippe BOUSSERT,l,
+							Stefano ZANMARCHI,l,
+							Ludovic DUPLAQUET,b,
 						Network & Telco
 						t:Network & Telecommunications
-							Kris VAN AKEN
-							Marc DELCOUR
-							Monica GRONROOS
-							Jean-François PICARD
+							Kris VAN AKEN,b,
+							Marc DELCOUR,b,
+							Monica GRONROOS,l,
+							Jean-François PICARD,l,
 						Software Products SDM
 						t:Software Products Service Delivery Manager
-							Eddy COLLART
+							Eddy COLLART,l,
 # - - - - - - -
 	EU
 		Common
