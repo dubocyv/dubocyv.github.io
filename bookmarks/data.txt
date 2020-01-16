@@ -153,16 +153,17 @@ Bookmarks
 						u:https://en.wikipedia.org/wiki/Session_Initiation_Protocol
 						VICTORIA
 						t:Video Conference, Telephony & Real time communications Infrastructure & Applications
+							Sonus
+							t:Gateway TDM to IP (used with Skype for Business)
+							CUCM
+							t:Cisco Unified Call Manager
+							SBC
+							t:Session Border Controller
+							u:https://en.wikipedia.org/wiki/Session_border_controller
 						CdC
 						t:Cellule de Cordination
 						VNMC
 						t:Voice Network Management Center
-						SfB
-						t:Skype for Business
-							iCall
-							t:Helpdesk functionalities
-						SfM
-						t:Skype for Mobile
 						MTS (fwc)
 						t:Mobile Telephony Service
 						DPS *
@@ -174,11 +175,6 @@ Bookmarks
 						u:https://en.wikipedia.org/wiki/Public_switched_telephone_network
 						PXS
 						t:Proximus
-						SBC
-						t:Session Border Controller
-						u:https://en.wikipedia.org/wiki/Session_border_controller
-						Sonus
-						t:Gateway TDM to IP (used with Skype for Business)
 						SDP
 						t:Service Design Package
 						TDM
@@ -187,8 +183,12 @@ Bookmarks
 						UCC
 						u:https://en.wikipedia.org/wiki/Unified_communications
 						t:Unified Communications & Collaboration
-						CUCM
-						t:Cisco Unified Call Manager
+							SfB
+							t:Skype for Business
+								iCall
+								t:Helpdesk functionalities
+							SfM
+							t:Skype for Mobile
 						CMS
 						t:Cisco Meeting Server
 
