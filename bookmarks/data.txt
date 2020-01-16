@@ -361,7 +361,7 @@ Bookmarks
 					001 - QPC
 					t:Quality, Processes and Contracts
 						Head of Sector
-							Luc ANDERBOURG
+							Luc ANDERBOURG,l,
 						Network & Telecommunications
 							Jose Luis DIEZ,b,
 							Friedrich KLOIBHOFER,b,
