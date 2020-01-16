@@ -354,6 +354,59 @@ Bookmarks
 				ADPS
 				t:Active Directory Provisioning Service
 # - - - - - - -
+	Organigram
+		DiGIT.DDG
+			C
+				4
+					001 - QPC
+					t:Quality, Processes and Contracts
+						Head of Sector
+							Luc ANDERBOURG
+							Network & Telecommunications
+								Jose Luis DIEZ,b,
+								Friedrich KLOIBHOFER,b,
+								Corinne GATTEGNO,b,
+								Alvaro Leon GUILLEN LAZO,b,
+								Alain CLAUSSE,l,
+							Logistics, Interventions and LRU rooms
+								Stefaan DE GRAVE,b,
+							Telecom Administrative Support
+								Umberto RANUCCI,b,
+					002 - TA
+					t:Telecommunications Applications
+						Head of Sector
+							Eftimios TSIGROS
+							Network & Telecommunications
+								Clara Iciar ALONZO ARRANZ
+								Manousos VICHOS
+								Benoit HECHTERMANS
+								Catherine STEPHENNE
+								Vicky KONTOGIANNI
+								Danny VAN DURME
+								Riita HAUTALA
+								Jehanne DEMEZ
+								Mihai STOIAN
+							Videoconference
+								Jean-Michel WAGNER
+					003 - DN
+					t:Data Network Services
+						Head of Sector
+							Robert HENDRICKX
+						Systems, Security and Infra
+						t:Systems, Security and Infrastructure Services
+							Philippe BOUSSERT
+							Stefano ZANMARCHI
+							Ludovic DUPLAQUET
+						Network & Telco
+						t:Network & Telecommunications
+							Kris VAN AKEN
+							Marc DELCOUR
+							Monica GRONROOS
+							Jean-François PICARD
+						Software Products SDM
+						t:Software Products Service Delivery Manager
+							Eddy COLLART
+# - - - - - - -
 	EU
 		Common
 		s:
