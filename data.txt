@@ -1,0 +1,1679 @@
+Bookmarks
+	Dictionaries
+	s:
+		Google translate
+		u:https://translate.google.com/#view=home&op=translate&sl=fr&tl=en
+		Larousse
+		u:https://www.larousse.fr/dictionnaires/francais
+		Linguee 
+		u:http://www.linguee.fr/francais-anglais
+		Wikipedia
+		u:http://en.wikipedia.org/wiki/Main_Page
+
+	Glossary
+		Global
+		s:
+			CMB
+			t:Corporate Management Board
+			EPPO
+			t:European Public Prosecutor's Office
+
+			ITIL
+			t:IT Information Library
+			s:
+				CAB
+				t:Change Advisory Board
+					ECAB
+					t:Emergency Change Advisory Board
+				CI
+				t:Configuration Item
+				CSI
+				t:Continual Service Improvement
+				CMS
+				t:Configuration Management System
+					CMDB
+					t:Configuration Management DB
+				KPI
+				t:Key Performance Indicator
+				RFC
+				t:Request For Change
+				SLA
+				t:Service Level Agreement
+				d:The SLA describes the IT service, documents service level targets, and specifies the responsibilities of the IT service provider and the customer.
+				SLR
+				t:Service Level Requirements
+				d:The Service Level Requirements document contains the requirements for a service from the client viewpoint, defining detailed service level targets, mutual responsibilities, and other requirements specific to a certain (group of) customers.
+				TTD
+				t:Time To Deliver
+				TTR
+				t:Time To Repair
+				UC
+				t:Underpinning Contract
+
+		DiGIT
+		s:
+			CII
+			t:Comité Informatique Interinstitutionnel
+			GovTech
+			t:GovTech aims to build better services for citizens and better tools for public servants.
+			GovSec
+			t:Governance of Security
+				ITSRM²
+				t:IT Security Risk Management Mathodology
+				d:<ul><li>Supports the Commission Decision 2017/46</li><li>Complements the effort of the EC for the protection of the information systems</li><li>Proposes practical choices of implementation of these processes:<ul><li>Formulas</li><li>Actionable tasks and methods</li><li>Scales</li><li>Catalogues</li></ul></li></ul>
+
+			HLPI
+			t:High Level Performance Indicators
+			SACI
+			t:Sevice Asset & Configuration Items
+			SDM
+			t:Service Delivery Manager
+
+			Dir C
+			t:Digital Workplace & Infrastructure
+			u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C/default.aspx
+				DWP
+				t:Digital WorkPlace (C3, C5 & C6 involved)
+
+				C1
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231956&orgSource=COM
+					Cost model
+					t:Allows financing of DiGIT C
+					i:/images/costModelPricingWorkflow.png
+						Composition
+							Pricing
+							t:Exercice allowing unit price calculation + extra layer before publication
+							Chargeback
+							t:Client consumption billing
+							Showback
+							t:Client consumption shown but not billed. Clients reports are visible on 'Unified reporting'.
+						Service definitions
+							TSE
+							t:Technical Service Element (provider's perspective).
+							d:Technical Service Element is an internal (technical) element in a certain sector, to which we map the activity codes and the hosting of the IS (if any).
+							BSE
+							t:Business Service Element (client's perspective)
+							d:Business Service Element is the service itself, the one we sell to our customers. A BSE can have one TSE mapped to it 100% or can be combined by several TSEs from different Units/Directorates.
+							Cost Driver
+							d:Cost Driver is the measurable element which defines the unit cost of each element:<dl><dt>TSE's cost driver</dt><dd>virtual driver (100%)</dd><dt>BSE's cost driver</dt><dd>the value of the driver on the 1st of January Y(n).</dd></dl>The cost driver of a BSE is the value of the driver fixed on January 1st of the considered year.
+							Costing
+							t:The exercise of calculating the real unit cost at the end of the annual pricing exercise
+							Pricing
+							t:The extra layer added by the Director before publishing
+							UCL
+							t:Unit Cost List
+
+				C2
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=41338&orgSource=COM
+					SAM
+					t:Software Asset Management
+				C3
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7786&orgSource=COM
+					CAM
+					t:Crypto Assets Management
+					d:Central piece to ensure a correct management of our private keys and our integrity. Initially foreseen for the ECI (European Citizen Initiative), other clients (CLIMA) have expressed their interest. The CAM service will become essential for a future consumption from the public cloud to ensure that our cypto’s assets are under our control.
+					CMP
+					t:Cloud Management Portal
+				C4
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231261&orgSource=COM
+					DN
+					t:Data Network
+					u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=243570&orgSource=COM
+					s:
+						NMS (fwc)
+						t:Network Managed Services
+						u:https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx
+							SNet
+							t:Secured Network
+								SID
+								t:Semantic Information Database (CMDB)
+									Scrat
+									t:Write access to SID
+									Diego
+									t:Read-only access to SID
+									CRUD/View
+									t:Direct SID access (Create Read Update Delete)
+						SDN
+						t:Software Defined Network
+						SHS
+						t:Secure Hosting Service
+						VRF
+						t:Virtual Routing and Forwarding
+						WAF
+						t:Web Application Firewall
+						u:https://en.wikipedia.org/wiki/Web_application_firewall
+
+					TA
+					t:Telecom Applications
+					u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231265&orgSource=COM
+					s:
+						SIP
+						t:Session Initiation Protocol
+						d:A SIP address is a URI that addresses a specific telephone extension on a voice over IP system. Such a number could be a private branch exchange or an E. 164 telephone number dialled through a specific gateway. The scheme was defined in RFC 3261. SIP is used for signaling and controlling multimedia communication sessions in applications of Internet telephony for voice and video calls, in private IP telephone systems, in instant messaging over Internet Protocol (IP) networks as well as mobile phone calling over LTE (VoLTE).
+						u:https://en.wikipedia.org/wiki/Session_Initiation_Protocol
+						VICTORIA
+						t:Video Conference, Telephony & Real time communications Infrastructure & Applications
+							Sonus
+							t:Gateway TDM to IP (used with Skype for Business)
+							CUCM
+							t:Cisco Unified Call Manager
+							SBC
+							t:Session Border Controller
+							u:https://en.wikipedia.org/wiki/Session_border_controller
+						CdC
+						t:Cellule de Cordination
+						VNMC
+						t:Voice Network Management Center
+						MTS (fwc)
+						t:Mobile Telephony Service
+						DPS *
+						PABX
+						t:Private Automatic Branch eXchange
+						u:https://en.wikipedia.org/wiki/Business_telephone_system#Private_branch_exchange
+						PSTN
+						t:Public Switched Telephone Network
+						u:https://en.wikipedia.org/wiki/Public_switched_telephone_network
+						PXS
+						t:Proximus
+						SDP
+						t:Service Design Package
+						TDM
+						t:Time Division Multiplexing
+						u:https://en.wikipedia.org/wiki/Time-division_multiplexing
+						UCC
+						u:https://en.wikipedia.org/wiki/Unified_communications
+						t:Unified Communications & Collaboration
+							SfB
+							t:Skype for Business
+								iCall
+								t:Helpdesk functionalities
+							SfM
+							t:Skype for Mobile
+						CMS
+						t:Cisco Meeting Server
+
+					QPC
+					u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/viewDirectorateUnit?toDisplay=231656&orgSource=COM
+					t:Quality / business Process / Contract management
+					s:
+						Cost model drivers
+							DN
+								Business service
+									Kiosk
+										Nb virtual rooms
+									Rachel
+										Nb accounts
+									Network Conn. (Project)
+									t:Network Connectivity for Project
+										Client Owned Equt
+										t:Client Owned Network Equipment
+											Nb ports
+										Full Service
+											Nb ports
+									Remote access
+										Nb users
+									Load Balancing
+										Nb LB entries
+									Reverse proxy
+										Nb mappings
+									Cloud AWS Connectivity
+									DWP Network Conn.
+									t:Digital WorkPlace Network Connectivity
+										Full Service
+											Nb users
+										Client Owned Equt
+										t:Client Owned Network Equipment
+											Nb users
+										JRC Remote Sites
+											Nb users
+									Complex port for DGs
+										Nb complex ports LSU
+									DMZ
+										Data Center
+											Nb DMZs
+										DG
+											Full Service
+												Nb DMZs
+											Without local Equt
+											t:Without local equipment
+												Nb DMZs
+									WiFi
+										Commission
+											Nb access points
+										EEAS
+											Nb access points
+								Technical service
+									Rachel
+										Nb accounts
+									Remote access
+										Nb users
+									Cloud AWS connectivity
+									Regular port
+										Distribution & Access
+											Virtual driver
+										NON Security service
+											Virtual driver
+										Proxy service
+											Nb ports
+										Remainder
+											Nb ports
+										Internet access
+											Virtual driver
+									Complex port LSU
+										Nb complex LSU ports
+									Complex port
+										Nb complex ports
+									DMZ LSU
+										Regular service
+											Nb DMZs
+										Regular - Remainder
+											Nb DMZs
+									WiFi
+										Equipment
+											Nb access points
+										Service
+											Nb access points
+							TA
+								Business service
+									iCall
+										Campaings
+										Supervisors
+										User agents
+									IPTV
+										TVD points
+									Audioconference
+										Nb Tf extensions
+										t:PolyCom/audioconf extensions
+										Nb hours
+									Fixed phones
+										Nb personal extensions
+									Fixed telephony
+										Effective usage
+									Fixed telephony infra
+										Nb extensions
+									Infotel
+										Nb lines
+									Mobile telephony
+										Nb SIM cards
+										Effective usage
+									SMS GW
+										Nb SMS
+										Effective usage
+									Visioconference
+										Nb personal endpoints
+										Nb room endpoints
+										Nb PC endpoints
+									Web conference
+										Nb hours
+									Internet (dedicated)
+										Nb hours | consumption/year
+									Wide Area Network
+										Consumption
+										t:Chargeback based on real consumption/estimation
+									Visioconf external
+										Nb endpoints
+										t:Nb of external/third-party endpoints
+								Technical service
+									iCall
+										Campaigns (all)
+									Visioconf external
+										Nb endpoints
+
+						BPM
+						t:Business Process Management
+						INAS
+						t:INternet Access Services
+						ENS
+						t:External Netwark Services
+						CSI
+						t:Carrier Service Interconnection (ISO layers 1 & 2, data & Tf links)
+						RACHEL (fwc)
+						t:Remote Access to Commission Hosted Environments
+						SIDE2 (fwc) *
+						TELSYS *
+						WACS (fwc)
+						t:Web Audio Conferencing Service
+				C5
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=7782&orgSource=COM
+					EUSS (fwc)
+					t:End User Support Service
+					YUM *
+				C6
+				u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=231272&orgSource=COM
+					NUPS (fwc)
+					t:Network Users Proximity Service
+					MDM
+					t:Mobile Devices Management
+			D3
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/organisationChart?toDisplay=244553&orgSource=COM
+				IAM
+				t:Identity & Access Management
+				COMREF *
+				CED *
+				CUD *
+				ADPS
+				t:Active Directory Provisioning Service
+# - - - - - - -
+	EU
+		Common
+		s:
+			EU Login
+			t:ECAS authentication
+			u:https://ecas.ec.europa.eu/cas/login
+				Info
+				u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
+				EU Login mobile
+				u:https://ecas.ec.europa.eu/cas/mobile
+			RCAM/JSIS
+			u:https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914
+			Europass
+			t:Curriculum vitae - Passeport europÃ©en de compÃ©tences | Composer
+			u:https://europass.cedefop.europa.eu/editors/fr/cv/compose
+			EUPosts
+			u:http://portal.consilium.testa.eu/vacancy/
+			EPSO
+			u:https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok
+			Media monitoring
+				EMM
+				t:Europe Media Monitor
+				u:https://emm.newsbrief.eu/overview.html
+				CERT-EU
+				t:CERT-EU News Monitor
+				u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
+					CVE
+					t:Common Vulnerability Enumeration
+					CPE
+					t:Commom Platform Enumeration
+				Medisys
+				u:https://medisys.newsbrief.eu/
+			Europe info
+			t:EU institutions contacts
+			u:https://europa.eu/european-union/contact_en
+				EDCC
+				t:Europe Direct Contact Center
+				u:https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en
+
+			TED
+			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond
+			u:http://ted.europa.eu
+				eTendering
+				t:Tender documentation for EU calls for competitions
+				u:http://etendering.ted.europa.eu
+				SIMAP
+				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
+				u:http://simap.ted.europa.eu
+					eSenders
+					t:Information for and about TED eSenders
+					u:https://simap.ted.europa.eu/ted-esenders
+					eNotices
+					t:Online application to prepare and publish public procurement notices
+					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
+# - - - - - - -
+		EC
+		u:https://myintracomm.ec.europa.eu/
+			Office365
+			u:https://www.office.com/?auth=2&home=1
+				OneDrive
+				u:https://eceuropaeu-my.sharepoint.com/personal/yves_dubocquet_ec_europa_eu/_layouts/15/onedrive.aspx
+				Pilot WiKi
+				u:https://myintracomm-collab.ec.europa.eu/projects/Off365Pilot/SitePages/Home.aspx
+
+			Remote access
+				Myremote Teleworking
+				u:https://myremote.ec.europa.eu/dana-na/auth/url_default/welcome.cgi
+				WebMail
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J
+				MyIntracom
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N
+				RCAM/JSIS
+				u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs
+
+# - - - - - - -
+			Admin
+			s:
+				Ares
+				t:Electronic Records Management System
+				u:https://webgate.ec.testa.eu/Ares/welcome.do
+					(MyRemote)
+					u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L
+				Staff matters
+				t:DG HR website
+				u:https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx
+					Sysper2
+					u:https://intracomm.ec.testa.eu/SYSPER2/home/menu.do
+						Absences
+						u:https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do
+						Flexitime encoding
+						u:https://webgate.ec.testa.eu/presence/editPresences.do
+						(MyRemote)
+						u:https://myremote.ec.europa.eu/dana/home/launch.cgi
+					Pay calculator
+					u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
+
+					Mobility
+					t:Public transportation fincancial contribution
+					u:http://www.cc.cec/mobilitynet/abo/external_ecas/abo_frontend_adm.cfm
+
+				MiPS
+				t:Mission Processing System
+				u:http://www.cc.cec/mips/api/home
+					(MyRemote)
+					u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B
+
+				EU Learn
+				u:https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055
+
+				eGestel
+				u:http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot
+
+				IAM info
+				t:Identity and Access Management
+				u:http://www.cc.cec/itservices/en/content/identity-and-access-management
+
+				ISA²
+				t:Interoperability solutions for public administrations, businesses and citizens
+				u:https://ec.europa.eu/isa2
+				CIRCABC
+				u:https://circabc.europa.eu/ui/welcome
+				t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
+				GAMA
+				u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
+				t:Administrative contracts analysis group
+				d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
+
+			MyWorkplace
+			u:https://webgate.ec.testa.eu/myworkplace/home
+			Service Medical
+			u:https://myintracomm.ec.europa.eu/staff/FR/health/Pages/index.aspx
+
+			Who's who?
+			u:https://myintracomm.ec.europa.eu/_layouts/15/EC.CP.Common.WhoIsWho.Application/whoiswho.aspx?ln=en#/
+
+# - - - - - - -
+			DiGIT
+			u:https://myintracomm.ec.europa.eu/dg/digit/Pages/default.aspx
+				Suppléances Calendar
+				u:https://myintracomm-collab.ec.europa.eu/dg/digit/lists/permanences/calendar.aspx
+				MM Presentations
+				u:https://myintracomm-collab.ec.europa.eu/networks/MMRs/default.aspx
+				MAP
+				t:Multi Annual Planning tool (using Chrome or Firefox)
+				u:https://webgate.ec.testa.eu/myworkplace/map-tool/tree
+					QLIK Sense
+					t:Reporting tool
+					d:Access to be requested to <a href='mailto:DIGIT-FOLIO-SUPPORT@ec.europa.eu'>B4 QlikSense Team</a><br>At your first access, you will see nothing.<br>B4 will come back to you as soon as they can, and they will send to you a confirmation mail with the information where you can find the apps (new url, etc).
+					u:https://intragate.ec.europa.eu/digit_folio_qs/ecas/hub/my/work
+
+				C2
+					FLAM
+					t:Fast & Light Access Module for CMDB
+					u:https://intragate.ec.europa.eu/flam
+						Environment graph
+						u:https://intragate.ec.europa.eu/flam/graphenv.htm?
+						CI's per IS
+						u:https://intragate.ec.europa.eu/flam/cilistperis.htm
+					Jasspr
+					u:http://intragate.ec.europa.eu/jasspr/home.php
+					Unified reporting
+					u:https://intragate.ec.europa.eu/digit_unifiedreporting_boxi/InfoViewApp/logon.jsp
+					DC calendar
+					u:http://s-msp-sp-prd1.net1.cec.eu.int/Lists/dccalendar/calendar.aspx
+					OPS4DEV
+					u:https://webcast.ec.europa.eu/ops4devs
+						201911 slides & wiki
+						u:https://webgate.ec.europa.eu/fpfis/wikis/display/ITGOV/Ops4Devs+November+2019+Presentations
+
+				C4
+					SharePoint C4
+					u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Forms/AllPages.aspx
+					s:
+						Astreintes
+						u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Astreintes.aspx
+						Budget
+						u:https://myintracomm-collab.ec.europa.eu/dg/DIGIT/C.4/SitePages/Budget.aspx
+						TOP (fwc)
+						t:Telephone Providing contract (InfoTel)
+						u:https://myintracomm-collab.ec.europa.eu/networks/TOPDOC/SitePages/Home.aspx
+						EXICON (fwc)
+						t:EXternal Internet CONnectivity
+						u:https://myintracomm-collab.ec.europa.eu/networks/EXICON/default.aspx
+						NMS (fwc)
+						t:Network Managed Services
+						u:https://myintracomm-collab.ec.europa.eu/networks/NMS3/SitePages/Home.aspx
+						NIS (fwc)
+						t:Network Intervention Service
+						u:https://myintracomm-collab.ec.europa.eu/networks/NISDOC
+						Natacha (fwc)
+						t:Network and Telecom Acquisition CHAnnel
+						u:https://myintracomm-collab.ec.europa.eu/networks/NATACHA4/SitePages/Home.aspx
+
+					SNet
+					t:Secured Network
+					s:
+						Alerting
+						u:https://intragate.acceptance.ec.europa.eu/snet/wiki/index.php/Alerting
+
+						SNet site
+						u:https://intragate.ec.europa.eu/snet
+							DG tools
+								DG Packages Tools
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/index.pl
+								DHCP report
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/dhcp_report.pl
+								From IP to SW/Slot/Port
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/ip2slotport_snmp.pl
+								Subnet database
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList.pl
+								Subnet database Full
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_uncensored.pl
+								Subnet database JRC
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/subnetList_jrc.pl
+								VRF report
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/vrf_report.pl
+								Switch/Slot/Port Config.
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/switchConfig_snmp.pl
+								Full building Patch
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching_all.pl
+								Patching database
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/dgtools/patching.pl
+
+							Authentication
+								EC LDAP Checker
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/LDAP_Group_Check.pl
+								EC internet LDAP
+								u:http://www.cc.cec/home/ced_password/password_en.cfm
+								SNet LDAP Manager
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl
+								User Dump
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl
+								LDAP Dump
+								u:https://intragate.ec.europa.eu/snet/web2ldap/
+
+							Bluegios
+							t:Remote monitoring services tools
+								Service
+									INT JMO
+									u:https://intragate.ec.europa.eu/snet/bluegios-int-jmo
+									INT HOST
+									u:https://intragate.ec.europa.eu/snet/bluegios-int-host
+									EXT JMO (ipv6)
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-jmo
+									EXT HOST
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-host
+								Modem
+									EXT JMO
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-jmo/modem
+									EXT HOST
+									u:https://intragate.ec.europa.eu/snet/bluegios-ext-host/modem
+
+							Certificates
+								Cert SID List
+								u:https://intragate.ec.europa.eu/snet/sid/visual?context=digital%20certificate%20management&object=digital%20certificate
+								Report
+									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ssl_reports.pl
+
+							Databases
+								APPUDIGP
+								u:https://intragate.ec.europa.eu/snet/hg/APPUDIGP
+								APPUDIGT
+								u:https://intragate.ec.europa.eu/snet/hg/APPUDIGT
+								NRMDIGP
+								u:https://intragate.ec.europa.eu/snet/hg/NRMDIGP
+								NRMDIGT
+								u:https://intragate.ec.europa.eu/snet/hg/NRMDIGT
+								Proteus
+								t:IP Address Manager
+								u:https://intragate.ec.europa.eu/snet/hg/Proteus
+
+							DNS
+								Check
+									Subnet DNS Check
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/subnetList_DNSCheck.pl
+								Config
+									DNSui
+									u:https://intragate.ec.europa.eu/snet/dnsui/
+									DNS INT.
+									u:https://intragate.ec.europa.eu/snet/hg/Eriador/
+									DNS DMZ.
+									u:https://intragate.ec.europa.eu/snet/hg/Gondor/
+									DNS EXT.
+									u:https://intragate.ec.europa.eu/snet/hg/Mordor/
+								Tools
+									SNET DNS Tools
+									u:https://intragate.ec.europa.eu/snet/dnstools/
+								Logging
+									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
+
+							Firewall
+								Check
+									Anomalie tracker
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/fwlogmgt/fw_anomalies_tracker.pl
+									FW Rules Auditing
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/FirewallStat.pl
+									Report Top Anomalies
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_drop.pl
+									Check FW objects
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/anomalies_tracker.pl
+									Algosec reports
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl
+									Shared Apps
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/algosec.pl
+								Algo FW EC
+									FW1bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw100bx_root.html
+									FW1lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw100lu_root.html
+									FW2bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw200bx_root.html
+									FW2lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw200lu_root.html
+									FW3bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw300bx.html
+									FW3lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw300lu.html
+									FW4bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw400bx.html
+									FW4lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw400lu.html
+									FW5bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw500bx.html
+									FW5lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw500lu.html
+									FW6bx DC Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw600bx_root.html
+									FW6lu DC Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw600lu_root.html
+									FW7bx CENT Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw700lu_root.html
+									FW7lu CENT Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw700bx_root.html
+									FW8bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw800bx_root.html
+									FW8lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw800lu_root.html
+									FW9bx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw900bx_root.html
+									FW9lu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fw900lu_root.html
+									FWSNetbx Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_bxl_root.html
+									FWSNetlu Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwsnet_lux_root.html
+									FW JRC ISP Rules
+									u:https://intragate.ec.europa.eu/snet/FW/algosec_fwjrc_isp.html
+								IR01 ACL
+									DMZ SID list
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=DMZ
+								Report
+									Report DMZ 147.67/16
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_147_67.pl?action=Submit&function=diego_Extract_network_147_67
+									DMZ List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
+								Search
+									Sherlock FW
+									u:https://sherlock.snmc.cec.eu.int/cgi-bin/test.pl#tabs-2
+									IP from DMZ
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/IP_DMZ_check.pl
+									Algosec report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/algosec_reports.pl
+								External Tools
+									Algosec
+									u:https://valgosec-jmo.snmc.cec.eu.int/
+									BusinessFlow
+									u:https://valgosec-jmo.snmc.cec.eu.int/BusinessFlow
+									BusinessFlow RP
+									u:https://intragate.ec.europa.eu/snet/BusinessFlow
+
+							IPAM Proteus
+							t:IP Address Manager
+								External Tools
+									Proteus
+									u:https://proteus.snmc.cec.eu.int/
+								Report
+									VRF SID list
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=VRF
+									Proteus History Search
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ProteusHistory.pl
+									Proteus Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_value.pl
+									SID Proteus Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ipam_reports.pl
+									Proteus Subnet DC
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/proteus_subnet_dc.pl
+
+							L4S
+								Check
+									REMI
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/L4S/ace_current_stat.pl
+								Config
+									Config L4S
+									u:https://intragate.ec.europa.eu/snet/hg/L4SConf
+									Config L4S Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_L4S/repository/show/resouces
+									Config L4S Old Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/opt-l4s/repository/show/resouces
+									VIPWatcher
+									t:Load balancer VIP configured
+									u:https://intragate.ec.europa.eu/snet/vipwatcher/
+									LBui
+									u:https://intragate.ec.europa.eu/snet/lbui/
+								Tools
+								Logging
+									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
+
+							Network
+								DCA
+								t:Device Configuration API
+								u:https://intragate.ec.europa.eu/snet/dca/index.html
+								Reporting
+									ACI reports
+									u:https://intragate.ec.europa.eu/snet/aci
+									Cisco PI reports
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ciscopi_reports.pl
+								Tools
+									Cisco PI
+									u:https://pi.snmc.cec.eu.int/
+									LUX_DC ACI
+									u:https://aci-dc-ct.snmc.cec.eu.int/
+									Cisco ACS
+									u:https://acs-jmo.snmc.cec.eu.int/
+
+							Proxy
+								Check
+									Proxy PAC tester
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ProxyPacTester.pl
+									SGOS5 Health Check
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
+								Config
+									Local Database
+									u:https://intragate.ec.europa.eu/snet/blacklist/blacklist.txt
+									Config Proxy
+									u:https://intragate.ec.europa.eu/snet/hg/BluecoatLibrary
+									Config Proxy Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
+									Central Policy
+									u:https://intragate.ec.europa.eu/snet/blacklist/central_policy.txt
+								Search
+									Sherlock
+									u:https://sherlock.snmc.cec.eu.int/
+
+							Remote Access
+								Check
+									Check User
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/check_users_in_AD_group.pl
+									Get User
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/sslvpn/get_users_in_AD_group.pl
+								Config
+									RUM
+									u:https://irma.tech.cec.eu.int/
+
+							Reporting
+								Carrier
+									Carrier Services
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/report_CarrierServices.pl
+									Cacti Volume Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cacti_volume_report.pl
+								Power
+									Power Report
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/reports_powercut.pl
+								Subnet DSL
+									Subn 10.17/16 inv.
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sid_subnet_10_17.pl
+
+							Reverse-Proxy
+								Check
+									Droopy
+									u:https://droopy.snmc.cec.eu.int/
+									SGOS5 Health Check
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/bluecoat_health_checker_web.pl
+								Config
+									BlueWatcher
+									t:Reverse proxy mappings
+									u:https://intragate.ec.europa.eu/snet/rps/bluewatcher/index.html
+									Config RP
+									u:https://intragate.ec.europa.eu/snet/hg/BluecoatLibrary
+									Config RP Redmine
+									u:https://intragate.ec.europa.eu/snet/redmine/projects/repo_bluecoatlibrary/repository
+								Mapping
+									Form upload
+									u:https://intragate.ec.europa.eu/snet/forms_upload/upload.html
+									MAPui
+									u:https://intragate.ec.europa.eu/snet/rps/main.html
+								Logging
+									ReLog
+									u:https://intragate.ec.europa.eu/snet/papi/static/relog/index.html
+
+							SecurityConvention/ADSL-Like
+								SC
+									SC Sharepoint
+									u:http://kate.net1.cec.eu.int/NS/Lists/Security%20Convention%20DB/DG%20View.aspx
+									SC SID List
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=security%20convention
+									SC List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/SC_List.pl
+									SC Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/SC_Check.pl
+								ADSL-like
+									CashRegister Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl
+									ADSL-like List: Active
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_list
+									ADSL-like List: History
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_combined_list
+									ADSL-like List: All
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_combined_list
+									ADSL-like SID Mgmnt
+									u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=ADSL%20LIKE%20service
+									ADSL VRF Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/adsl-like.pl
+									CashRegister Checking
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/cash-register.pl
+
+							SID
+							t:Semantic Information Database (CMDB)
+								Check
+									SID vs. Proteus Subnet
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet.pl
+									SID vs. Proteus Device
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_device.pl
+									SID CRUD
+									t:Direct SID access (Create Read Update Delete)
+									u:https://intragate.ec.europa.eu/snet/sid/crud
+									SID Visual
+									u:https://intragate.ec.europa.eu/snet/sid/visual
+									EC Subnet Nomemclature
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_EC.pl
+									JRC Subnet Nomemclature
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/check_subnet_JRC.pl
+								Config
+									SID easiCAPs
+									t:Computer Assisted Patching (Connection Register)
+									u:https://intragate.ec.europa.eu/snet/sid/icaps
+								Reporting
+									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sid_reports.pl
+									SP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/sp_list.pl
+									Diego
+									t:Read-only access to SID
+									u:https://intragate.ec.europa.eu/snet/diego
+									Patching export
+									u:https://intragate.ec.europa.eu/snet/hg/snetis_Patching
+								CostModel
+									CostModel xls
+									u:https://intragate.ec.europa.eu/snet/sid/worksheet/cost_model.xls
+									ADSL-like List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_history_list
+									ADSL-like List: Active
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/ADSL_Like_List.pl?action=Submit&function=diego_adsl-like_list
+									AP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_List.pl?action=Submit&function=diego_ap_list
+									DMZ List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/FW/sp_dmz_list.pl?function=diego_dmz_list&action=Submit
+
+							SMARTS
+							t:(EMC²) System Management ARTS: Global Network, Security and Backup monitoring tool.
+								Analyse
+									SNMP Traps Analyse
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/daily_snmp-trap_chart.pl
+									Event Search
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/search_event.pl
+								Problem Mgt
+									Class Graphs Monthly
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_class_pie.pl
+									Event Graphs Classly
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_event_pie.pl
+									Instance Graphs Evently
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/month_instance_pie.pl
+									Evolution Class Graphs
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/smarts/evolution_class_chart.pl
+
+							SNet tools
+								IPv4 calc
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/ipcalc.pl
+								Splunk
+								u:https://splunk.tech.ec.europa.eu/
+								Paul Schou xlate
+								u:https://intragate.ec.europa.eu/snet/xlate.php
+								Phonetic
+								u:https://intragate.ec.europa.eu/snet/alpha.html
+								RE Subnet Generator
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/gen_subnet_regex.pl
+								Wake on LAN
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/wol.pl
+								SMT6 prod
+								u:https://intragate.ec.europa.eu/smtweb/index.do
+								SMT
+									SMT6 prod
+									u:https://intragate.ec.europa.eu/smtweb/index.do
+								VMware
+									Vcenter Prod
+									u:https://s-vmaestro14.net1.cec.eu.int:9443/vsphere-client/
+									Vcenter Dev
+									u:https://vsphere55.snmc.cec.eu.int:9443/vsphere-client/
+
+							Vulnerability
+								Check
+								Config
+									Vulnerability SP
+									u:http://kate.net1.cec.eu.int/NS/Lists/VunerabilityManagement/AllItems.aspx
+									Vulnerability SP List
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/Vulnerability_List.pl
+									Vulnerability SP List full
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/Vulnerability_List.pl?list=long
+									CPE registred
+									u:https://intragate.ec.europa.eu/snet/vulnerability/admin/whitelist
+								Reporting
+									Vulnerability List
+									u:https://intragate.ec.europa.eu/snet/vulnerability/
+									Reporting
+									u:https://intragate.ec.europa.eu/snet/cgi-bin/vulnerability/vulnerability_reports.pl
+
+							WIFI
+								Cisco PI
+								t:Management Tool for the Wifi and Wired infrastructure
+								u:https://pi.snmc.cec.eu.int/
+								AP SID List
+								u:https://intragate.ec.europa.eu/snet/sid/visual?context=SNet%20Information&object=wireless%20access%20point
+								AP List
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_List.pl?action=Submit&function=diego_ap_list
+								AP Checking
+								u:https://intragate.ec.europa.eu/snet/cgi-bin/nCheck/AP_Check.pl
+
+							externals tools
+								Redmine
+								u:https://intragate.ec.europa.eu/snet/redmine/
+								Cacti
+								u:https://intragate.ec.europa.eu/snet/cacti/
+								Prometheus-Grafana
+								u:https://intragate.ec.europa.eu/snet/grafana/
+
+						Kate
+						t:MOSS (Microsoft Office SharePoint Server) 2007 SharePoint Portal
+						u:http://kate.net1.cec.eu.int/Pages/SNetWelcome.aspx
+							Perceval
+							u:http://perceval.net1.cec.eu.int/SitePages/SnetWelcome.aspx
+							Kaamelott
+							t:Microsoft Project Server 2007
+							u:http://kaamelott.net1.cec.eu.int/Pages/Welcome.aspx
+							Docs & refs (University)
+							u:http://kate.net1.cec.eu.int/NS/SNetUniversity/Forms/Services.aspx
+
+						Weather Map
+						u:https://weathermap.snmc.cec.eu.int/
+							Backbone network
+							u:https://weathermap.snmc.cec.eu.int/snet_static_backbone.html
+							Building network
+								BERL
+								u:https://weathermap.snmc.cec.eu.int/snet_core_berl.html
+								BREY
+								u:https://weathermap.snmc.cec.eu.int/snet_core_brey.html
+								L130
+								u:https://weathermap.snmc.cec.eu.int/snet_core_l130.html
+								BETZ
+								u:https://weathermap.snmc.cec.eu.int/snet_core_betz.html
+								WIND
+								u:https://weathermap.snmc.cec.eu.int/snet_core_wind.html
+							DC network
+								BETZ
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_betz-dc.html
+								WIND
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_wind-dc.html
+								WIND_LEGACY
+								u:https://weathermap.snmc.cec.eu.int/snet_core_legacy_wind-dc-cr01.html
+								HTC
+								u:https://weathermap.snmc.cec.eu.int/snet_aci_htc-dc.html
+							Internet access
+							u:https://weathermap.snmc.cec.eu.int/snet_static_tc_internet.html
+							Firewall
+							u:https://weathermap.snmc.cec.eu.int/snet_static_firewall.html
+
+					PUMA
+					u:https://puma-hub19.net1.cec.eu.int/SitePages/puma.aspx#/dashboard
+
+					Telema
+					u:http://intragate.ec.europa.eu/telema/maximo/ui/login 
+
+				Testa
+				u:https://portal.testa.eu/jetspeed/portal/
+
+				Support
+					MITS (My IT Support)
+					t:IT Helpdesk
+					u:https://webgate.ec.testa.eu/mits/home.do
+						Mail
+						u:mailto:EC-HELPDESK-IT@ec.europa.eu
+						Tel
+						u:tel://77777
+					Audio conferencing (multipoint)
+					u:http://www.cc.cec/itservices/en/content/audio-conferencing-services
+					VideoConference
+						SCIC rooms
+						u:tel://54321
+						VC (DiGIT) rooms
+						u:tel://90000
+						Skype online
+						u:tel://77777
+						WebEx
+						u:tel://77777
+
+						In meeting rooms
+						u:http://www.cc.cec/itservices/en/content/video-conferencing-meeting-rooms
+						Web conferencing services
+						u:http://www.cc.cec/itservices/node/74
+
+
+				Password management
+				u:http://www.cc.cec/itservices/en/content/passwords-windows-ecas-internet-etc
+				t:Reset passwords
+				s:
+					LDAP
+					u:http://www.cc.cec/home/rstIPecas/password_en.cfm
+					EU Login (ECAS)
+					u:https://ecas.ec.europa.eu/cas/change/changePassword.cgi
+					SNET LDAP
+					u:https://intragate.ec.europa.eu/snet/cgi-bin/auth/ldap_NS.pl
+
+#				(OLD)
+#				u:http://myintracomm.ec.europa.eu/corp/digit/EN/Pages/index.aspx
+#					DigitLine home page
+#					u:http://www.cc.cec/digitline/index_en.cfm
+#					SoftGrid
+#					u:http://www.cc.cec/digitline/r/products/sysadmin/inst/softgrid/index_en.htm
+#					RAINBOW - Metadirectory tool
+#					u:http://www.cc.cec/ced/rainbow/index.cfm
+
+# - - - - - - -
+			OIB
+				Where2Go
+				t:Commission's buildings map
+				u:https://webgate.ec.europa.eu/where2go/home
+				Building plans
+				u:http://www.cc.cec/OIB/intranet/plans/index.cfm
+
+# - - - - - - -
+			BUDG
+			u:https://myintracomm.ec.europa.eu/dg/budg/Pages/index.aspx
+				ABAC
+				t:Accrual Based ACcounting
+				u:http://www.cc.cec/dgbudg/sibu/
+					Glossary
+					s:
+						IA / AI
+						t:Initiating Agent / Agent Initiant (role for creation, modification & validation)
+						VA / AV
+						t:Verifying Agent / Agent Vérifiant
+						AOS
+						t:Authorizing Officer by Sub-delegation
+						u:https://myintracomm.ec.europa.eu/budgweb/fr/abac/support/Documents/sbs-authorisingofficer-fr.pdf
+						BGUE
+						t:Budget Général de l'Union Européenne
+						LEF / FEL
+						t:Legal Entity File / Fichier des Entités Légales
+						BAF / FCB
+						t:Bank Account File / Fichier des Comptes Bancaires
+						FTS
+						t:Financial Transparency Support (system)
+						RAL
+						t:Reste A Liquider (Still to be paid)
+						DAP *
+
+					Helpdesk
+						Mail
+						u:mailto:EC-ABAC-HELPDESK@ec.europa.eu
+						Tel
+						u:tel:+3222964600
+
+					Doc
+						Presentation
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/abac/support/Pages/its-020-020_intro.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/abac/support/Pages/its-020-020_intro.aspx
+						User documentation
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/abac/docs/Pages/its-020-060_doc.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/abac/docs/Pages/its-020-060_doc.aspx
+						Training
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/dgb/training/guide/Pages/abac-commission.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/abac-commission.aspx
+						e-Learning
+							EN
+							u:https://myintracomm.ec.europa.eu/budgweb/EN/dgb/training/guide/Pages/abac-e-learning.aspx
+							FR
+							u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/abac-e-learning.aspx
+
+					Accounting (Lnx sap)
+					u:https://intragate.ec.europa.eu/sapacntidprd_p01i/acntroot/bc/gui/sap/its/webgui
+					Assets (Lnx wls)
+					t:IT tool used by the Commission and other EU bodies for the daily management of goods and services, interfaced with the general financial system of the Commission.
+					u:https://intragate.ec.europa.eu/webastsgaprd_astsgp1/assetsapp
+					Assets (Scd cf0)
+					u:https://intragate.ec.europa.eu/webastshpprd_hp1/assetsapp
+					Contracts (Scd cf0)
+					u:https://intragate.ec.europa.eu/webcntshpprd_hp1/cnts
+					Datawarehouse (Lnx wls)
+					u:https://intragate.ec.europa.eu/webdwhsgcprd_dwhsgp1/dwhxo/USER_FOLDER/
+					Datawarehouse (Mst wxi)
+					u:https://webgate.ec.testa.eu/webdwhufmprd_p/InfoViewApp/
+					Datawarehouse SAP BO (BO 4.2)
+					u:https://webgate.ec.testa.eu/BUDG_ABAC_DWH/BOE/BI/
+					SupplyAssetsMgt (Lnx sap)
+					u:https://intragate.ec.europa.eu/sapsammidprd_p05i/sammroot/bc/gui/sap/its/webgui
+					Workflow (Lnx wls)
+					d:ABAC Workflow is the module used for daily financial/budgetary management by the majority of users. Each user has specific responsibilities in line with the Financial Regulation and its Rules of Application. This is reflected as the user signs documents -according to his/her role- (e.g. Initiating Agent, Verifying Agent, Authorising Officer by Subdelegation) passing through an omni-present “workflow”.
+					u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac
+						Search Exp L1
+						t:Expense Flow -> Budgetary Commitments -> FR 2003 & later -> Commitment level 1 -> Search
+						u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac/com.hed.l1.search.do?event=INIT_PAGE
+						Search Exp L2
+						t:Expense Flow -> Budgetary Commitments -> FR 2003 & later -> Commitment level 2 -> Search
+						u:https://intragate.ec.europa.eu/webwkflgbprd_gbp9/abac/com.hed.l2.search.do?event=INIT_PAGE
+					Badg budg (Lnx wls)
+					u:https://intragate.ec.europa.eu/webbadggaprd_badggp1/badgebud
+
+				BudgWeb
+				u:https://myintracomm.ec.europa.eu/budgweb/FR/Pages/index.aspx
+					Training
+					u:https://myintracomm.ec.europa.eu/budgweb/FR/dgb/training/guide/Pages/training-guide.aspx
+				Budget en ligne
+				u:https://eur-lex.europa.eu/budget/www/index-fr.htm
+# - - - - - - -
+			JRC
+			u:https://ec.europa.eu/jrc/en
+			t:Joint Research Centre
+				Digital Media Hub
+				u:https://visitors-centre.jrc.ec.europa.eu/en/media
+
+# - - - - - - -
+			Trade
+			u:https://myintracomm.ec.europa.eu/dg/trade/
+				Internet Trade Websites
+				u:http://trade.ec.europa.eu/
+				External Websites
+					Trade
+					u:http://ec.europa.eu/trade/index_new_en.htm
+					Trade intranet
+					u:https://webgate.ec.europa.eu/trade/intra
+					DB 14(6)
+					u:https://webgate.ec.europa.eu/db146
+#						Server Status
+#						u:https://webgate.ec.europa.eu/db146/serverAlive.jsp
+					DualUse
+					u:https://webgate.ec.testa.eu/dualuse
+#						Server Status
+#						u:https://webgate.ec.testa.eu/dualuse/serverAlive.jsp
+					EH
+					t:Export helpdesk
+					u:https://trade.ec.europa.eu/tradehelp/
+#					EUTN
+#					u:https://webgate.ec.europa.eu/eutn/serverAlive.htm
+#						EUTN register
+#						u:http://trade.ec.europa.eu/eutn/register.htm?localeId=en
+					ISDB
+					t:Integrated Statistical DB
+					u:https://webgate.ec.europa.eu/isdb
+#						Server Status
+#						u:https://webgate.ec.europa.eu/isdb/serverAlive.jsp
+					Market access DB
+#						Server Status
+#						u:http://madb.europa.eu/madb/serverAlive.jsp
+						Tariffs
+						u:http://madb.europa.eu/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes=
+						Trade Barriers
+						u:http://madb.europa.eu/madb/barriers_select.htm
+						Statistics
+						u:http://madb.europa.eu/madb/statistical.htm?from=form&cb_reporters=EU27&cb_partners=all&list_years=2004&ahscode1=00&submit=Search+HS+code
+						Tariffs
+						u:http://madb.europa.eu/madb/atDutyDetailPubli.htm?datasetid=MAAT-PE11-03v001&hscode=01029010&countries=PE&datacat_id=AT&keyword=&submit=&pathtoimage=http://madb.europa.eu/at/images/&showall=F
+					SIGL
+					t:Systeme Integre de Gestion des Licences
+					u:https://webgate.ec.europa.eu/Sigl2
+#					Tron Server Status
+#					u:https://webgate.ec.europa.eu/tron/serverAlive.jsp
+					ums
+					u:https://webgate.ec.europa.eu/ums/applicationStatus.do
+#					NOTIF Server Status
+#					u:https://webgate.ec.europa.eu/notif/serverAlive.jsp
+				Internal Websites
+					TRADE Intranet
+					u:http://www.trade.cec.eu.int/intra/index.cfm
+					ADC Mailing List
+					u:https://intragate.ec.europa.eu/ADCMailing/index.pl
+					Comext Server Status
+					u:http://comext.trade.cec.eu.int:8080/cmapp/serverAlive.jsp
+					D.U.M.A. Server Status
+					t:Delegated User Management Application
+					u:http://duma.trade.cec.eu.int:8080/duma2/serverAlive.jsp
+					ISDB
+					t:Integrated Statistical DB
+					u:http://isdb.trade.cec.eu.int:8080/isdb_gct/new_gui/index.jsp
+					MADB
+					t:Market Access DB
+					u:http://madb.trade.cec.eu.int:8080/madb/atDutyOverviewPubli.htm?hscode=0102&countries=US&keyword=&submit=&datacat_id=AT&license=Accept&showregimes=
+						barriers
+						u:http://madb.europa.eu/madb_barriers/barriers_select.htm
+						statistical
+						u:http://madb.europa.eu/mkaccdb2/statistical.htm?from=form&cb_reporters=EU25&cb_partners=all&list_years=2004&ahscode1=0102&submit=Search+HS+code
+						THICOA
+						t:THIrd COuntries Agreement
+						u:http://thicoa.trade.cec.eu.int:8080/thicoa/
+					MSOP
+					t:Member states Opinions
+					u:http://msop.trade.cec.eu.int:8080/MSOpinions/
+					NOTIF
+					u:http://notif.trade.cec.eu.int:8080/notif/
+						Server Status
+						u:http://notif.trade.cec.eu.int:8080/notif/serverAlive.jsp
+					OASYS
+					u:http://oasys.trade.cec.eu.int:8080/Oasys/
+						Server Status
+						u:http://oasys.trade.cec.eu.int:8080/Oasys/serverAlive.jsp
+					Sherlock
+					u:https://intragate.ec.europa.eu/sherlock/
+						Server Status
+						u:https://intragate.ec.europa.eu/sherlock/serverAlive.jsp
+					SHERPA
+					u:http://sherpa.trade.cec.eu.int:8080/sherpa/
+						Server Status
+						u:http://sherpa.trade.cec.eu.int:8080/sherpa/serverAlive.jsp
+					HtmlLogger - test
+					u:http://htmllogger.trade.cec.eu.int:8080/html_logger/
+
+# - - - - - - -
+		EP
+			Remote access
+				Network Login
+				t:EP external access authentication service
+				u:https://auth.europarl.europa.eu/
+				VDI
+				t:Main portal
+				u:http://europarl.europa.eu/portalep/vdi.html
+					BRU NetScaler GW
+					t:Usual MEP entry
+					u:https://tlwbru.secure.europarl.europa.eu/vpn/index.html
+					LUX NetScaler GW
+					t:Usual staff entry
+					u:https://tlwlux.secure.europarl.europa.eu/vpn/index.html
+
+					VDI4DEV
+					t:VDI for extra-muros developers (security recommendations...)
+					u:http://www.standardsnet.ep.parl.union.eu/standards/cms/Accueil/securite/specificsecurityrulesitteams/Security-software-development-life-cycle/development
+				(RDS - Main)
+				t:Remote desktop on Windows server (to be decommissionned)
+				u:http://www.europarl.europa.eu/portalep/Main.html
+				Outlook Web Access
+				u:https://webmail.europarl.europa.eu/
+
+# - - - - - - -
+			EP
+				Europarl
+				u:http://www.europarl.ep.parl.union.eu/
+					SÃ©ance en direct
+					u:http://www.europarl.europa.eu/sed
+				Intranet
+					De
+					u:https://epintranet.in.ep.europa.eu/de/home.html
+						ITEC
+						u:https://epintranet.in.ep.europa.eu/de/home/dgs-services/dg-itec.html
+					En
+					u:https://epintranet.in.ep.europa.eu/home.html
+						ITEC
+						u:https://epintranet.in.ep.europa.eu/home/dgs-services/dg-itec.html
+					Fr
+					u:https://epintranet.in.ep.europa.eu/fr/home.html
+						ITEC
+						u:https://epintranet.in.ep.europa.eu/fr/home/dgs-services/dg-itec.html
+					ITECNet
+					u:https://itecnet.in.ep.europa.eu/home.html
+				KMPortal
+				t:Knowledge Management Portal on Parliamentâ€™s activities
+				u:http://www.kmportal.ep.parl.union.eu/kmportal/home.htm
+				Admin
+					Streamline
+					u:http://streamline.ep.parl.union.eu:8000/OA_HTML/AppsLogin
+					eRapNot
+					u:http://www.erapnot.ep.parl.union.eu
+					Disp
+					u:https://disp.in.ep.europa.eu
+					GEDA
+					u:http://www.geda.sso.ep.parl.union.eu/geda/
+					Clarity
+					u:https://clarity.ep.parl.union.eu/
+					Public procurement
+					u:http://www.europarl.europa.eu/eng-pub/contracts-and-grants/en/
+				EPMM
+				t:EP's Media Monitoring
+				u:http://ep.emm4u.eu/
+
+# - - - - - - -
+			CISO
+				Vulnerability tracking
+				u:https://ictsecu-vt.ep.parl.union.eu/login
+				CERT
+				t:Computer Emergency Response Team: News monitor
+				u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
+
+# - - - - - - -
+			DES
+				CONCEPT
+					ADA
+					t:Applications Directory
+						Main
+						u:http://www.europarl.ep.ec/ada/
+						List
+						u:http://www.europarl.ep.ec/ada/info.cfm
+
+					Solutions
+						ALSA
+						u:http://www.ep-foundry.ep.parl.union.eu/wiki/display/ALSA/Home
+							EP standards
+							u:http://ep-foundry.ep.parl.union.eu/standards/
+							epFoundry wiki
+							u:http://ep-foundry.ep.parl.union.eu/wiki/display/SOFTARCH/Software+Architecture+Repository+Home
+							HowTos
+							u:http://ep-foundry.ep.parl.union.eu/howto/work-in-progress/
+								GIT access
+								u:http://ep-foundry.ep.parl.union.eu/howto/work-in-progress/access-git-dmz/access-git-dmz-howto.html
+								HTTPS for LAN apps
+								t:Https in LAN web applications and solutions
+								u:http://ep-foundry.ep.parl.union.eu/wiki/display/ALSA/Https+in+LAN+web+applications+and+solutions
+								WebSSO 3.x configuration
+								u:http://ep-foundry.ep.parl.union.eu/wiki/display/ALSA/WebSSO+3.x+configuration
+								Filebeat
+								u:https://ep-foundry.in.ep.europa.eu/howto/work-in-progress/install-filebeat/install-filebeat-howto.html
+
+							Configs
+								Public repos
+								u:https://scm.ep-foundry.ep.parl.union.eu/git/repos?visibility=public
+								Fedora-Citrix
+								u:http://scm.ep-foundry.ep.parl.union.eu/git/projects/LST/repos/lstnotes/browse/fedora-citrix?at=develop
+						TGCD
+							Jahia
+							u:http://ep-foundry.ep.parl.union.eu/wiki/display/JAHIA/Jahia+Digital+Factory+Start+Page
+
+				EVOLUTION
+					ASTRA framework
+					u:https://epworkspace.in.ep.europa.eu/ITEC/Evolution/Programs/ASTRAFramework/SitePages/Home.aspx
+					IT Obsolescence
+					u:https://epworkspace.in.ep.europa.eu/ITEC/Evolution/Programs/ITObsolescenceProgramme/SitePages/Home.aspx
+				PROJSUP
+					BPM
+						Engage
+						t:Project management methodology of the EPâ€™s organisational projects
+						u:https://engage.in.ep.europa.eu/gen
+						Connect (ARIS)
+						u:http://www.aris.ep.parl.union.eu/
+
+# - - - - - - -
+			ESIO
+				Operations
+					Teams
+						Secretariat
+						u:mailto:OPERATIONS-Secretariat@ep.europa.eu
+						Financial administration
+						u:mailto:OPERATIONS-Financial_Administration@ep.europa.eu
+
+						CAPAC
+							Facilities
+							u:mailto:OPERATIONS.Facilities@ep.europa.eu
+							Provisioning
+							u:mailto:OPERATIONS.Provisioning@ep.europa.eu
+							Security
+							u:mailto:OPERATIONS.Security@ep.europa.eu
+							Tools
+							u:mailto:OPERATIONS.Tools@ep.europa.eu
+							VMware
+							u:mailto:OPERATIONS.VMware@ep.europa.eu
+						HOSTING
+							Change Manager
+							u:mailto:OPERATIONS.Change.Manager@ep.europa.eu
+							Hosting
+							u:mailto:OPERATIONS.Hosting@ep.europa.eu
+							Load test
+							u:mailto:OPERATIONS.loadtest@ep.europa.eu
+							Release Planning
+							u:mailto:OPERATIONS.ReleasePlanning@ep.europa.eu
+							Service Catalogue
+							u:mailto:OPERATIONS.Service.Catalogue@ep.europa.eu
+						SUPOP
+							Backup
+							u:mailto:OPERATIONS.Backup@ep.europa.eu
+							E-mail
+							u:mailto:OPERATIONS.emailsupport@ep.europa.eu
+							Incident Manager
+							u:mailto:OPERATIONS.Incident.Manager@ep.europa.eu
+							Network
+							u:mailto:OPERATIONS.Network@ep.europa.eu
+							Problem Manager
+							u:mailto:OPERATIONS.Problem.Manager@ep.europa.eu
+							Service Desk
+							u:mailto:OPERATIONS.ServiceDesk@ep.europa.eu
+							Sharepoint
+							u:mailto:OPERATIONS.Sharepoint@ep.europa.eu
+							SQL
+							u:mailto:OPERATIONS.Sql@ep.europa.eu
+							Storage
+							u:mailto:OPERATIONS.Storage@ep.europa.eu
+							Unix
+							u:mailto:OPERATIONS.Unix@ep.europa.eu
+							Windows
+							u:mailto:OPERATIONS.Windows@ep.europa.eu
+							Windows OS
+							u:mailto:OPERATIONS.Windows.OS@ep.europa.eu
+					Service catalogue
+					u:https://itecnet.in.ep.europa.eu/cms/render/default/en/sites/itecnet/home/services-for-it-professionals/operations-it-service-catalogue.html
+					ITO wiki
+					u:http://www.itowiki.ep.parl.union.eu/wiki/index.action#all-updates
+
+					EPIOS
+						Mgt Corner
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/OMSSRVMGT/SitePages/Home.aspx?RootFolder=%2Fdgitec%2Fdit%2Doperations%2Fepios%2FOMSSRVMGT%2FShared%20Documents%2F00%20%2D%20Tactical%20and%20Management%20meeting%2FManagement%20meeting&FolderCTID=0x012000A95056671BA0294FB4AD5ADC4DB70832&View=%7BBC7C3923%2DE327%2D4ECF%2DBE00%2D2D3E2C3B0FD8%7D
+						Tactical commitee
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/OMSSRVMGT/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fdgitec%2Fdit%2Doperations%2Fepios%2FOMSSRVMGT%2FShared%20Documents%2F00%20%2D%20Tactical%20and%20Management%20meeting%2FTactical%20Commitee&FolderCTID=0x012000A95056671BA0294FB4AD5ADC4DB70832&View=%7BE333BC3F%2DC88E%2D42A9%2DBE8D%2D425F3DD33C23%7D
+						Infoflash
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/SitePages/Home.aspx
+					CAB
+					t:Andjelko Markulin
+					u:tel:+352430021434
+						Calendar
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/Lists/Calendar/calendar.aspx
+							Implemented Changes
+							u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/Lists/Implemented Changes/calendar.aspx
+						RFC
+							List
+							u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/Lists/Change_Mgmt/AllItems.aspx
+							Creation
+							u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/Lists/Change_Mgmt/Task/newifs.aspx?List=137e1ea4%2D322b%2D4879%2D9c06%2D1a634ba97f0f&Source=https%3A%2F%2Fepworkspace%2Ein%2Eep%2Eeuropa%2Eeu%2Fdgitec%2Fdit%2Doperations%2Finfoflash%2FLists%2FChange%5FMgmt%2FAllItems%2Easpx%23InplviewHashed2633d0%2Ddf4d%2D48ba%2D8ac2%2D4c6d1cc4401f%3DSortField%253DModified%2DSortDir%253DDesc&RootFolder=&Web=b9491024%2Dda0c%2D47bc%2D9c48%2D4550f1e8a0d3
+						Standard change
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/infoflash/Lists/Change_Mgmt/Standard Changes.aspx
+						Change guide
+						t:Info about changes (type, organisation...)
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/Change/Shared Documents/Change management Guide.pptx?Web=1
+
+					Git
+					t:Operation's GIT
+					u:https://eicillp410.ep.parl.union.eu/
+						Tools
+						u:https://eicillp410.ep.parl.union.eu/tools
+
+					Ad hoc projects
+						JEE monitoring
+						t:MbeanScope+Cacti to Jolokia+Zabbix+Grafana migration
+						u:http://www.itowiki.ep.parl.union.eu/wiki/pages/viewpage.action?pageId=350715961&src=contextnavpagetreemode
+						Global Reverse Proxy
+						t:Nginx based Global Reverse Proxy
+						u:http://www.itowiki.ep.parl.union.eu/wiki/display/OPRPROJAH/Nginx+based+Global+Reverse+Proxy
+
+					Request forms
+						SMTP & POP3
+						t:Available SMTP servers are:<ul><li>appdmzibru.ep.parl.union.eu</li><li>appdmzilux.ep.parl.union.eu</li><li>appdmzebru.ep.parl.union.eu</li><li>appdmzelux.ep.parl.union.eu</li><li>applanbru.ep.parl.union.eu</li><li>applanlux.ep.parl.union.eu</li></lu>
+						u:http://www.crmnet.ep.parl.union.eu/crmnet/cms/cache/offonce/pid/318
+						Global RP
+						t:How to request a modification in Global Reverse-Proxies
+						u:http://www.itowiki.ep.parl.union.eu/wiki/display/OPRPROJAH/How+to+request+a+modification+in+Global+Reverse-Proxies
+
+					Load tests
+					u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/OMSLOADTEST/SitePages/Home.aspx
+						Timings
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/OMSLOADTEST/Lists/Loadtest%20Timings/AllItems.aspx
+						Planning
+						u:https://epworkspace.in.ep.europa.eu/dgitec/dit-operations/epios/OMSLOADTEST/Lists/Loadtest%20Follow/gantt.aspx
+
+					RTFM
+					u:https://rtfm.ep.parl.union.eu/howto/rhel/certificate
+					t:HowTos, documentation,...
+
+					Tools
+						EPSD
+						u:http://epsd.ep.parl.union.eu/CAisd/pdmweb.exe
+							CMDBr
+							t:Read-only copy of CMDB
+							u:http://www.cmdbr.ep.parl.union.eu/cmdb/getCIs
+						iView
+						t:Infrastructure viewer
+						u:tel:+3222830403
+
+							Restricted
+							t: Operations and InfraMgmt.HOSDEP
+								Infrastructure list
+								u:/infra
+								t: View CMDB's infrastructure details (all CI related to equipment (physical and virtual)
+
+								Projects list
+								u:/projects
+								t: View CMDB's projects details
+
+								Projects flows
+								u:/relations
+								t: View Connect (Aris) info about relationships between applications and business processes
+
+								DB list
+								u:/dbs
+								t: Maps the relationship between DB and CMDB's projects
+
+								DB sizes
+								u:/dbs/sizes.html
+								t: View a drillable pie-chart representing DB sizes
+
+								Solaris list
+								u:/unix
+								t: Maps the Solaris infrastructure and the relationship with CMDB's projects
+
+								VLAN/AppSrv
+								u:/gw
+								t: Maps the application servers in the associated VLAN
+
+								Subnets list
+								u:/subnets
+								t: Maps the CMDB's projects in the subnets
+
+							ITEC-wide
+
+								Projects list
+								u:/proj
+								t: View CMDB's projects details
+
+								Projects flows
+								u:/rel
+								t: View Connect (Aris) info about relationships between applications and business processes
+						DC temperatures
+						t:Graph of temperatures from ITEC datacentres (retrieved from the Solaris servers)
+						u:/cgi-bin-opr/dctemp.cgi?weeks=3
+
+						Dynatrace PoC
+						t:Load test team initiative - Servers monitoring tool
+						u:https://eicillq558.ep.parl.union.eu/
+
+						REVPROXY Alerts
+						u:http://epsvlll060.ep.parl.union.eu:3000/dashboard/db/alerts-overview?refresh=20s&orgId=1
+
+						Global RP monitoring
+						u:https://rvpx-metrology-inter.europarl.europa.eu/
+
+						epDEPLOY
+						t:Pascal Leynaud
+						u:tel:25489
+							Application_s Farm
+							u:http://www.appsfarm.ep.parl.union.eu/cgi-bin/index.cgi
+							epDEPLOY Activity Report
+							u:http://www.epdevops.ep.parl.union.eu/cgi-bin/report.pl
+							epDEPLOY Login
+							u:http://www.epdevops.ep.parl.union.eu/cgi-bin/epdeploy.pl
+
+						RightDecision
+						u:http://www.rightdecision.ep.parl.union.eu/
+
+						Sat6
+						t:Eero Torri
+						u:tel:32776
+							login
+							u:https://sat6.ep.parl.union.eu/users/login
+							API
+							u:https://sat6.ep.parl.union.eu/apidoc/v2.html
+
+						NimSoft
+						u:http://eicilwp244.ep.parl.union.eu/web/guest/home
+
+						Dollar Universe
+						u:https://automic.com/fr/automic-dollar-universe
+
+						UC Mail
+							Users
+							t:EP Mailbox Dashboard
+							u:http://mbxdashboard.ucmail.ep.parl.union.eu/
+							Infrastructure
+							t:Analysis and diagnostic
+							u:http://exmonitoringlux.ucmail.ep.parl.union.eu/
+						WebSSO
+						u:/relations/?root=websso
+							Prod
+							u:https://login.secure.ep.parl.union.eu/infra/
+								Infra
+								u:/projects/?root=websso&search=prod
+							Qual
+							u:https://loginpp.secure.ep.parl.union.eu/infra/
+								Infra
+								u:/projects/?root=websso&search=qual
+
+# - - - - - - -
+				ArcNet
+					RAMP
+					u:/ramp/
+# - - - - - - -
+	Library & refs
+		O'Reilly
+		u:https://docstore.mik.ua/orelly/bookshelfs.html
+		t:O'Reilly's CD bookshelf
+		ANT Tutorial
+		u:https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html
+		JDK 11
+		u:https://docs.oracle.com/en/java/javase/11/
+		Node.js
+		u:https://nodejs.org/en/about/
+			Node: Up and Running
+			u:http://chimera.labs.oreilly.com/books/1234000001808/index.html
+			Why Use Node.js?
+			t:A Comprehensive Tutorial with Examples | Toptal
+			u:https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+			Website in Node.js
+			t:A Simple Website in Node.js with Express, Jade and Stylus | Clock
+			u:http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus
+		Python
+			Python 3 documentation
+			u:https://docs.python.org/3/download.html
+			Python Programming
+			t:Wikibooks, open books for an open world
+			u:https://en.wikibooks.org/wiki/Python_Programming
+			A Byte of Python
+			u:http://www.swaroopch.com/notes/python/
+		Ruby
+			Ruby Version Manager
+			t:Bundler Integration with RVM
+			u:https://rvm.io/integration/bundler
