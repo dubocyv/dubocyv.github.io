@@ -362,32 +362,32 @@ Bookmarks
 					t:Quality, Processes and Contracts
 						Head of Sector
 							Luc ANDERBOURG
-							Network & Telecommunications
-								Jose Luis DIEZ,b,
-								Friedrich KLOIBHOFER,b,
-								Corinne GATTEGNO,b,
-								Alvaro Leon GUILLEN LAZO,b,
-								Alain CLAUSSE,l,
-							Logistics, Interventions and LRU rooms
-								Stefaan DE GRAVE,b,
-							Telecom Administrative Support
-								Umberto RANUCCI,b,
+						Network & Telecommunications
+							Jose Luis DIEZ,b,
+							Friedrich KLOIBHOFER,b,
+							Corinne GATTEGNO,b,
+							Alvaro Leon GUILLEN LAZO,b,
+							Alain CLAUSSE,l,
+						Logistics, Interventions and LRU rooms
+							Stefaan DE GRAVE,b,
+						Telecom Administrative Support
+							Umberto RANUCCI,b,
 					002 - TA
 					t:Telecommunications Applications
 						Head of Sector
 							Eftimios TSIGROS,b,
-							Network & Telecommunications
-								Clara Iciar ALONZO ARRANZ,b,
-								Manousos VICHOS,l,
-								Benoit HECHTERMANS,b,
-								Catherine STEPHENNE,b,
-								Vicky KONTOGIANNI,b,
-								Danny VAN DURME,b,
-								Riita HAUTALA,b,
-								Jehanne DEMEZ,b,
-								Mihai STOIAN,b,
-							Videoconference
-								Jean-Michel WAGNER,l,
+						Network & Telecommunications
+							Clara Iciar ALONZO ARRANZ,b,
+							Manousos VICHOS,l,
+							Benoit HECHTERMANS,b,
+							Catherine STEPHENNE,b,
+							Vicky KONTOGIANNI,b,
+							Danny VAN DURME,b,
+							Riita HAUTALA,b,
+							Jehanne DEMEZ,b,
+							Mihai STOIAN,b,
+						Videoconference
+							Jean-Michel WAGNER,l,
 					003 - DN
 					t:Data Network Services
 						Head of Sector
