@@ -397,18 +397,26 @@ Bookmarks
 						Robert HENDRICKX,b,
 					Systems, Security and Infra
 					t:Systems, Security and Infrastructure Services
-						Philippe BOUSSERT,l,
-						Stefano ZANMARCHI,l,
 						Ludovic DUPLAQUET,b,
 					Network & Telco
 					t:Network & Telecommunications
 						Kris VAN AKEN,b,
 						Marc DELCOUR,b,
-						Monica GRONROOS,l,
-						Jean-François PICARD,l,
 					Software Products SDM
 					t:Software Products Service Delivery Manager
 						Eddy COLLART,l,
+				008 - DNS
+				t:Data Network Security Services
+					Head of Sector (acting)
+						Robert HENDRICKX,b,
+					Systems, Security and Infra
+					t:Systems, Security and Infrastructure Services
+						Philippe BOUSSERT,l,
+						Stefano ZANMARCHI,l,
+					Network & Telco
+					t:Network & Telecommunications
+						Monica GRONROOS,l,
+						Jean-François PICARD,l,
 # - - - - - - -
 	EU
 		Common
