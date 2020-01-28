@@ -365,7 +365,7 @@ Bookmarks
 						Yves DUBOCQUET,b,
 						u:sip:dubocyv@yumprd.tech.ec.europa.eu
 					Secretariat
-						Marie Anne VAN DEN BERGE
+						Marie Anne VAN DEN BERGE,b,
 				001 - QPC
 				t:Quality, Processes and Contracts
 					Head of Sector
