@@ -355,57 +355,60 @@ Bookmarks
 				t:Active Directory Provisioning Service
 # - - - - - - -
 	Organigram
-		DiGIT.DDG
-			DirC
-				C.4
-					001 - QPC
-					t:Quality, Processes and Contracts
-						Head of Sector
-							Luc ANDERBOURG,l,
-						Network & Telecommunications
-							Jose Luis DIEZ,b,
-							Friedrich KLOIBHOFER,b,
-							Corinne GATTEGNO,b,
-							Alvaro Leon GUILLEN LAZO,b,
-							Alain CLAUSSE,l,
-						Logistics, Interventions and LRU rooms
-							Stefaan DE GRAVE,b,
-						Telecom Administrative Support
-							Umberto RANUCCI,b,
-					002 - TA
-					t:Telecommunications Applications
-						Head of Sector
-							Eftimios TSIGROS,b,
-						Network & Telecommunications
-							Clara Iciar ALONZO ARRANZ,b,
-							Manousos VICHOS,l,
-							Benoit HECHTERMANS,b,
-							Catherine STEPHENNE,b,
-							Vicky KONTOGIANNI,b,
-							Danny VAN DURME,b,
-							Riita HAUTALA,b,
-							Jehanne DEMEZ,b,
-							Mihai STOIAN,b,
-						Videoconference
-							Jean-Michel WAGNER,l,
-					003 - DN
-					t:Data Network Services
-						Head of Sector
-							Robert HENDRICKX,b,
-						Systems, Security and Infra
-						t:Systems, Security and Infrastructure Services
-							Philippe BOUSSERT,l,
-							Stefano ZANMARCHI,l,
-							Ludovic DUPLAQUET,b,
-						Network & Telco
-						t:Network & Telecommunications
-							Kris VAN AKEN,b,
-							Marc DELCOUR,b,
-							Monica GRONROOS,l,
-							Jean-François PICARD,l,
-						Software Products SDM
-						t:Software Products Service Delivery Manager
-							Eddy COLLART,l,
+		DiGIT.DDG.C
+			C.4
+				Head of Unit
+					Blandine LERCH,l,
+				Deputy Head of Unit
+					Yves DUBOCQUET,b,
+				001 - QPC
+				t:Quality, Processes and Contracts
+					Head of Sector
+						Luc ANDERBOURG,l,
+					Network & Telecommunications
+						Jose Luis DIEZ,b,
+						Friedrich KLOIBHOFER,b,
+						Corinne GATTEGNO,b,
+						Alvaro Leon GUILLEN LAZO,b,
+						Alain CLAUSSE,l,
+					Logistics, Interventions and LRU rooms
+						Stefaan DE GRAVE,b,
+					Telecom Administrative Support
+						Umberto RANUCCI,b,
+				002 - TA
+				t:Telecommunications Applications
+					Head of Sector
+						Eftimios TSIGROS,b,
+					Network & Telecommunications
+						Clara Iciar ALONZO ARRANZ,b,
+						Manousos VICHOS,l,
+						Benoit HECHTERMANS,b,
+						Catherine STEPHENNE,b,
+						Vicky KONTOGIANNI,b,
+						Danny VAN DURME,b,
+						Riita HAUTALA,b,
+						Jehanne DEMEZ,b,
+						Mihai STOIAN,b,
+					Videoconference
+						Jean-Michel WAGNER,l,
+				003 - DN
+				t:Data Network Services
+					Head of Sector
+						Robert HENDRICKX,b,
+					Systems, Security and Infra
+					t:Systems, Security and Infrastructure Services
+						Philippe BOUSSERT,l,
+						Stefano ZANMARCHI,l,
+						Ludovic DUPLAQUET,b,
+					Network & Telco
+					t:Network & Telecommunications
+						Kris VAN AKEN,b,
+						Marc DELCOUR,b,
+						Monica GRONROOS,l,
+						Jean-François PICARD,l,
+					Software Products SDM
+					t:Software Products Service Delivery Manager
+						Eddy COLLART,l,
 # - - - - - - -
 	EU
 		Common
