@@ -359,8 +359,8 @@ Bookmarks
 			C.4
 				Head of Unit
 					Blandine LERCH,l,
-				Deputy Head of Unit
-					Yves DUBOCQUET,b,
+					Deputy Head of Unit
+						Yves DUBOCQUET,b,
 				001 - QPC
 				t:Quality, Processes and Contracts
 					Head of Sector
