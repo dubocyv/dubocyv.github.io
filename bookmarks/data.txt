@@ -436,6 +436,7 @@ Bookmarks
 					SDM
 						Licia ZARCONE,b,
 				006 - SNET
+				t:Secured NETwork
 					SDM
 						Raphael DELVAUX,l,
 					Technical coach
@@ -444,6 +445,7 @@ Bookmarks
 					Project Mgmt Coord
 						Jean-Michel GONDAT,l,
 				007 - NIS
+				t:Network Intervention Service
 					SDM
 						Christos DOBALAKIDIS,b,
 # - - - - - - -
