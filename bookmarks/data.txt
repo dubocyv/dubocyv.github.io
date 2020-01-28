@@ -357,12 +357,15 @@ Bookmarks
 	Organigram
 		DiGIT.DDG.C
 			C.4
+			t:Networks & Telecommunications
 				Head of Unit
 					Blandine LERCH,l,
 					u:sip:lerchbl@yumprd.tech.ec.europa.eu
 					Deputy Head of Unit
 						Yves DUBOCQUET,b,
 						u:sip:dubocyv@yumprd.tech.ec.europa.eu
+					Secretariat
+						Marie Anne VAN DEN BERGE
 				001 - QPC
 				t:Quality, Processes and Contracts
 					Head of Sector
@@ -370,9 +373,9 @@ Bookmarks
 						u:sip:andeluc@yumprd.tech.ec.europa.eu
 					Network & Telecommunications
 						Jose Luis DIEZ,b,
-						Friedrich KLOIBHOFER,b,
 						Corinne GATTEGNO,b,
 						Alvaro Leon GUILLEN LAZO,b,
+						Friedrich KLOIBHOFER,b,
 						Alain CLAUSSE,l,
 					Logistics, Interventions and LRU rooms
 						Stefaan DE GRAVE,b,
@@ -407,9 +410,6 @@ Bookmarks
 					t:Network & Telecommunications
 						Kris VAN AKEN,b,
 						Marc DELCOUR,b,
-					Software Products SDM
-					t:Software Products Service Delivery Manager
-						Eddy COLLART,l,
 				008 - DNS
 				t:Data Network Security Services
 					Head of Sector (acting)
@@ -423,6 +423,29 @@ Bookmarks
 					t:Network & Telecommunications
 						Monica GRONROOS,l,
 						Jean-François PICARD,l,
+					Software Products SDM
+					t:Software Products Service Delivery Manager
+						Eddy COLLART,l,
+				004 - NTS
+				t:Telephony services
+					SDM fixed telephony
+						Frederik DELOMBAERDE,b,
+					SDM mobile telephony
+						Sylvain JANSSENS,b,
+				005 - INFOTEL
+					SDM
+						Licia ZARCONE,b,
+				006 - SNET
+					SDM
+						Raphael DELVAUX,l,
+					Technical coach
+						Fabien VENTURELLI,l,
+						Pascal KOVILIC,b,
+					Project Mgmt Coord
+						Jean-Michel GONDAT,l,
+				007 - NIS
+					SDM
+						Christos DOBALAKIDIS,b,
 # - - - - - - -
 	EU
 		Common
