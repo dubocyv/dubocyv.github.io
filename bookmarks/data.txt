@@ -403,6 +403,7 @@ Bookmarks
 						Benoit HECHTERMANS,b,
 						u:sip:hechtbe
 						Catherine STEPHENNE,b,
+						u:sip:stephca
 						Vicky KONTOGIANNI,b,
 						u:sip:kontovi
 						Danny VAN DURME,b,
