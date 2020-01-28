@@ -359,12 +359,15 @@ Bookmarks
 			C.4
 				Head of Unit
 					Blandine LERCH,l,
+					u:sip:lerchbl@yumprd.tech.ec.europa.eu
 					Deputy Head of Unit
 						Yves DUBOCQUET,b,
+						u:sip:dubocyv@yumprd.tech.ec.europa.eu
 				001 - QPC
 				t:Quality, Processes and Contracts
 					Head of Sector
 						Luc ANDERBOURG,l,
+						u:sip:andeluc@yumprd.tech.ec.europa.eu
 					Network & Telecommunications
 						Jose Luis DIEZ,b,
 						Friedrich KLOIBHOFER,b,
@@ -379,6 +382,7 @@ Bookmarks
 				t:Telecommunications Applications
 					Head of Sector
 						Eftimios TSIGROS,b,
+						u:sip:tsigref@yumprd.tech.ec.europa.eu
 					Network & Telecommunications
 						Clara Iciar ALONZO ARRANZ,b,
 						Manousos VICHOS,l,
@@ -395,6 +399,7 @@ Bookmarks
 				t:Data Network Services
 					Head of Sector
 						Robert HENDRICKX,b,
+						u:sip:hendrrt@yumprd.tech.ec.europa.eu
 					Systems, Security and Infra
 					t:Systems, Security and Infrastructure Services
 						Ludovic DUPLAQUET,b,
@@ -409,6 +414,7 @@ Bookmarks
 				t:Data Network Security Services
 					Head of Sector (acting)
 						Robert HENDRICKX,b,
+						u:sip:hendrrt@yumprd.tech.ec.europa.eu
 					Systems, Security and Infra
 					t:Systems, Security and Infrastructure Services
 						Philippe BOUSSERT,l,
