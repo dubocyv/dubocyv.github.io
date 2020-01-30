@@ -681,9 +681,22 @@ Bookmarks
 					t:Secured Network
 					c:/images/snet.png
 					s:
-						SNet MyIC Portal
+						SNet My IntraComm Portal
 						t:SNet SharePoint website
 						u:https://myintracomm-collab.ec.europa.eu/networks/SNet/Pages/SNetWelcome.aspx
+
+							Network & Security
+							u:https://myintracomm-collab.ec.europa.eu/networks/SNet/NS
+							Supporting Services
+							u:https://myintracomm-collab.ec.europa.eu/networks/SNet/ISS3
+							Framework
+							u:https://myintracomm-collab.ec.europa.eu/networks/SNet/Framework
+							Service Auditing
+							u:https://myintracomm-collab.ec.europa.eu/networks/SNet/SNetServiceAuditing
+							Publishing
+							u:https://myintracomm-collab.ec.europa.eu/networks/SNet/Publishing
+							RFC
+							u:http://kate.net1.cec.eu.int/RFC
 
 						SNet wiki
 						u:https://intragate.ec.europa.eu/snet/wiki/Main_Page
