@@ -681,8 +681,8 @@ Bookmarks
 					t:Secured Network
 					c:/images/snet.png
 					s:
-						SNet website
-						t:SNet MyIC Portal
+						SNet MyIC Portal
+						t:SNet SharePoint website
 						u:https://myintracomm-collab.ec.europa.eu/networks/SNet/Pages/SNetWelcome.aspx
 
 						SNet wiki
