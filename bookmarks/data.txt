@@ -681,6 +681,10 @@ Bookmarks
 					t:Secured Network
 					c:/images/snet.png
 					s:
+						SNet website
+						t:SNet MyIC Portal
+						u:https://myintracomm-collab.ec.europa.eu/networks/SNet/Pages/SNetWelcome.aspx
+
 						SNet wiki
 						u:https://intragate.ec.europa.eu/snet/wiki/Main_Page
 
