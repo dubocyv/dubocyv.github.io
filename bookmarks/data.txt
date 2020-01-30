@@ -679,9 +679,16 @@ Bookmarks
 
 					SNet
 					t:Secured Network
+					c:/images/snet.png
 					s:
-						Alerting
-						u:https://intragate.acceptance.ec.europa.eu/snet/wiki/index.php/Alerting
+						SNet wiki
+						u:https://intragate.ec.europa.eu/snet/wiki/Main_Page
+
+							Alerting
+							u:https://intragate.ec.europa.eu/snet/wiki/index.php/Alerting
+
+							Naming convention
+							u:https://intragate.ec.europa.eu/snet/wiki/index.php/Naming_Convention
 
 						SNet site
 						u:https://intragate.ec.europa.eu/snet
