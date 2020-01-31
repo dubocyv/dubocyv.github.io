@@ -483,6 +483,9 @@ Bookmarks
 					SDM
 						Christos DOBALAKIDIS,b,
 						u:sip:dobolch
+					Technical PoC
+						Henri FLORIN,b,
+						u:sip:florihe
 # - - - - - - -
 	EU
 		Common
