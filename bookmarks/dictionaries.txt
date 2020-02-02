@@ -1,0 +1,11 @@
+Dictionaries
+s:
+	Google translate
+	u:https://translate.google.com/#view=home&op=translate&sl=fr&tl=en
+	Larousse
+	u:https://www.larousse.fr/dictionnaires/francais
+	Linguee 
+	u:http://www.linguee.fr/francais-anglais
+	Wikipedia
+	u:http://en.wikipedia.org/wiki/Main_Page
+

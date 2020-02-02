@@ -1,0 +1,131 @@
+Organigram
+	DiGIT.DDG.C
+		C.4
+		t:Networks & Telecommunications
+			Head of Unit
+				Blandine LERCH,l,
+				u:sip:lerchbl
+				Deputy Head of Unit
+					Yves DUBOCQUET,b,
+					u:sip:dubocyv
+				Secretariat
+					Marie Anne VAN DEN BERGE,b,
+					u:sip:bergemn
+			001 - QPC
+			t:Quality, Processes and Contracts
+				Head of Sector
+					Luc ANDERBOURG,l,
+					u:sip:andeluc
+				Network & Telecommunications
+					Jose Luis DIEZ,b,
+					u:sip:diezdjo
+					Corinne GATTEGNO,b,
+					u:sip:gatteco
+					Alvaro Leon GUILLEN LAZO,b,
+					u:sip:guilalv
+					Friedrich KLOIBHOFER,b,
+					u:sip:kloibfr
+					Alain CLAUSSE,l,
+					u:sip:clausal
+				Logistics, Interventions and LRU rooms
+					Stefaan DE GRAVE,b,
+					u:sip:graevst
+				Telecom Administrative Support
+					Umberto RANUCCI,b,
+					u:sip:ranucum
+			002 - TA
+			t:Telecommunications Applications
+				Head of Sector
+					Eftimios TSIGROS,b,
+					u:sip:tsigref
+				Network & Telecommunications
+					Clara Iciar ALONSO ARRANZ,b,
+					u:sip:aloncla
+					Manousos VICHOS,l,
+					u:sip:vichoma
+					Benoit HECHTERMANS,b,
+					u:sip:hechtbe
+					Catherine STEPHENNE,b,
+					u:sip:stephca
+					Vicky KONTOGIANNI,b,
+					u:sip:kontovi
+					Danny VAN DURME,b,
+					u:sip:durmeda
+					Riita HAUTALA,b,
+					u:sip:hautari
+					Jehanne DEMEZ,b,
+					u:sip:demezje
+					Mihai STOIAN,b,
+					u:sip:stoiama
+				Videoconference
+					Jean-Michel WAGNER,l,
+					u:sip:wagnejl
+			003 - DN
+			t:Data Network Services
+				Head of Sector
+					Robert HENDRICKX,b,
+					u:sip:hendrrt
+				Systems, Security and Infra
+				t:Systems, Security and Infrastructure Services
+					Ludovic DUPLAQUET,b,
+					u:sip:duplalu
+				Network & Telco
+				t:Network & Telecommunications
+					Kris VAN AKEN,b,
+					u:sip:vanakkr
+					Marc DELCOUR,b,
+					u:sip:delmarc
+			008 - DNS
+			t:Data Network Security Services
+				Head of Sector (acting)
+					Robert HENDRICKX,b,
+					u:sip:hendrrt
+				Systems, Security and Infra
+				t:Systems, Security and Infrastructure Services
+					Philippe BOUSSERT,l,
+					u:sip:boussph
+					Stefano ZANMARCHI,l,
+					u:sip:zanmast
+				Network & Telco
+				t:Network & Telecommunications
+					Monica GRONROOS,l,
+					u:sip:gronrmo
+					Jean-François PICARD,l,
+					u:sip:pijeanf
+				Software Products SDM
+				t:Software Products Service Delivery Manager
+					Eddy COLLART,l,
+					u:sip:collaed
+			004 - NTS
+			t:Telephony services
+				SDM fixed telephony
+					Frederik DELOMBAERDE,b,
+					u:sip:delomfr
+				SDM mobile telephony
+					Sylvain JANSSENS,b,
+					u:sip:janssyl
+			005 - INFOTEL
+				SDM
+					Licia ZARCONE,b,
+					u:sip:zarcoli
+			006 - SNET
+			t:Secured NETwork
+				SDM
+					Raphael DELVAUX,l,
+					u:sip:delvara
+				Technical coach
+					Fabien VENTURELLI,l,
+					u:sip:ventufa
+					Pascal KOVILIC,b,
+					u:sip:kovilpa
+				Project Mgmt Coord
+					Jean-Michel GONDAT,l,
+					u:sip:gondago
+			007 - NIS
+			t:Network Intervention Service
+				SDM
+					Christos DOBALAKIDIS,b,
+					u:sip:dobolch
+				Technical PoC
+					Henri FLORIN,b,
+					u:sip:florihe
