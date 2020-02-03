@@ -1,9 +1,9 @@
 Bookmarks
 	_include_ dictionaries.txt
 # - - - - - - -
-	_include_ glossary.txt
+#!	_include_ glossary.txt
 # - - - - - - -
-	_include_ ../organigram/data.txt
+#!	_include_ ../organigram/data.txt
 # - - - - - - -
 	EU
 		Common
@@ -62,7 +62,7 @@ Bookmarks
 # - - - - - - -
 		_include_ EC.txt
 # - - - - - - -
-		_include_ EP.txt
+#!		_include_ EP.txt
 # - - - - - - -
 	Library & refs
 		O'Reilly
