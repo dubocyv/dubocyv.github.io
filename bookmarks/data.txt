@@ -64,6 +64,8 @@ Bookmarks
 # - - - - - - -
 #!		_include_ EP.txt
 # - - - - - - -
+		_include_ Council.txt
+# - - - - - - -
 	Library & refs
 		O'Reilly
 		u:https://docstore.mik.ua/orelly/bookshelfs.html
