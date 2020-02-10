@@ -59,6 +59,11 @@ Bookmarks
 					eNotices
 					t:Online application to prepare and publish public procurement notices
 					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
+
+		IT config
+			Proxies
+				http://psbru.ec.europa.eu:8012,b,
+				http://pslux.ec.europa.eu:8012,l,
 # - - - - - - -
 		_include_ EC.txt
 # - - - - - - -
@@ -66,6 +71,10 @@ Bookmarks
 # - - - - - - -
 		_include_ Council.txt
 # - - - - - - -
+	Tools
+		IP2Location
+		u:https://www.ip2location.com/demo
+
 	Library & refs
 		O'Reilly
 		u:https://docstore.mik.ua/orelly/bookshelfs.html
