@@ -59,15 +59,6 @@ Bookmarks
 					eNotices
 					t:Online application to prepare and publish public procurement notices
 					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
-
-		IT config
-			HTTP Proxies
-				BRU,b,
-				d:http://psbru.ec.europa.eu:8012
-				t:http://psbru.ec.europa.eu:8012
-				LUX,l,
-				d:http://pslux.ec.europa.eu:8012
-				t:http://pslux.ec.europa.eu:8012
 # - - - - - - -
 		_include_ EC.txt
 # - - - - - - -
