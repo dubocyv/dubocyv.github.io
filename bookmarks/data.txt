@@ -69,6 +69,14 @@ Bookmarks
 	Tools
 		IP2Location
 		u:https://www.ip2location.com/demo
+		Shodan
+		u:https://www.shodan.io
+		Containers
+			Vulnerable containers
+			u:https://vulnerablecontainers.org/
+			jessfraz on github
+			u:https://github.com/jessfraz/dockerfiles
+			t:Lots of GUI running in containers
 
 	Library & refs
 		O'Reilly
