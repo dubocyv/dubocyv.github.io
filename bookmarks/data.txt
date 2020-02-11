@@ -77,6 +77,10 @@ Bookmarks
 			jessfraz on github
 			u:https://github.com/jessfraz/dockerfiles
 			t:Lots of GUI running in containers
+			Binary Edge
+			u:https://binaryedge.io
+			CNCF
+			u:https://landscape.cncf.io
 
 	Library & refs
 		O'Reilly
