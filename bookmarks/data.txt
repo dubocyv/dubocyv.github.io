@@ -71,6 +71,11 @@ Bookmarks
 		u:https://www.ip2location.com/demo
 		Shodan
 		u:https://www.shodan.io
+
+		DevOps
+			Hands-on with DevOps
+			u:https://github.com/juliogomez/devops
+
 		Containers
 			Vulnerable containers
 			u:https://vulnerablecontainers.org/
@@ -81,6 +86,8 @@ Bookmarks
 			u:https://binaryedge.io
 			CNCF
 			u:https://landscape.cncf.io
+			gVisor sandboxing
+			u:https://gvisor.dev/
 
 	Library & refs
 		O'Reilly
