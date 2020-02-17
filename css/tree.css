@@ -16,7 +16,7 @@
 					 * nodes lost 
 					 */
 	--bgimage: url(/images/bg.png);
-	--bgcolor: lavender;
+	--bgcolor: #dbf3f8;	/* EC std - was lavender */
 
 	--ttOpacity: 0.9;
 	--ttTiming: 50;
@@ -56,7 +56,7 @@ body {
 // Not in IE	background-image: var(--bgimage, url(/images/bg.png));
 // Not in IE	background-color: var(--bgcolor, lavender);
 	background-image: url(/images/bg.png);
-	background-color: lavender;
+	background-color: #dbf3f8;	/* lavender; */
 //	filter: drop-shadow(0px 0px 4px #cef);
 }
 
