@@ -33,6 +33,8 @@ u:https://myintracomm.ec.europa.eu/
 				Absences
 				u:https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do
 				Flexitime encoding
+				t:A Sysper2 session must have been already opene
+nd (EU-login) to get access here.
 				u:https://webgate.ec.testa.eu/presence/editPresences.do
 				(MyRemote)
 				u:https://myremote.ec.europa.eu/dana/home/launch.cgi
