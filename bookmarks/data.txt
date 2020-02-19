@@ -118,6 +118,8 @@ Bookmarks
 			gVisor sandboxing
 			u:https://gvisor.dev/
 		Orchestrator
+			Kubernetes (K8s)
+			u:https://kubernetes.io/
 			Falco
 			t:Kubernetes threat detection engine
 				Security Hub
