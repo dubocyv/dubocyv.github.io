@@ -67,16 +67,45 @@ Bookmarks
 		_include_ Council.txt
 # - - - - - - -
 	Tools
-		IP2Location
-		u:https://www.ip2location.com/demo
+		IP address info
+			IPLocation
+			t:IP address geolocation
+			u:https://www.iplocation.net/
+			IP2Location
+			t:IP address geolocation
+			u:https://www.ip2location.com/demo
+			MaxMind
+			t:IP address geolocation
+			u:https://www.maxmind.com/en/locate-my-ip-address
+			RIPE NCC
+			t:Réseaux IP Européens Network Coordination Centre (RIPE NCC)
+			u:https://www.ripe.net/
+			ARIN
+			t:American Registry for Internet Numbers
+			u:https://www.arin.net/
 		Shodan
+		t:The search engine for IoT
 		u:https://www.shodan.io
-
+			API doc
+			u:https://developer.shodan.io/api
 		DevOps
 			Hands-on with DevOps
 			u:https://github.com/juliogomez/devops
-
+			NetDevOps
+			u:https://github.com/juliogomez/netdevops
 		Containers
+			Docker
+			u:https://www.docker.com/
+				Docker documentation
+				u:https://docs.docker.com/
+					AppArmor
+					u:https://docs.docker.com/engine/security/apparmor/
+				Docker hub
+				u:https://hub.docker.com/
+			Seccomp-BPF
+			t:SECure COMPuting with (Berkeley Packet) Filters
+			u:https://www.google.com/search?q=seccomp+bpf&ie=utf-8&oe=utf-8
+			d:A large number of system calls are exposed to every userland process with many of them going unused for the entire lifetime of the process. As system calls change and mature, bugs are found and eradicated. A certain subset of userland applications benefit by having a reduced set of available system calls. The resulting set reduces the total kernel surface exposed to the application. System call filtering is meant for use with those applications.\nSeccomp filtering provides a means for a process to specify a filter for incoming system calls. The filter is expressed as a Berkeley Packet Filter (BPF) program, as with socket filters, except that the data operated on is related to the system call being made: system call number and the system call arguments. This allows for expressive filtering of system calls using a filter program language with a long history of being exposed to userland and a straightforward data set.\nAdditionally, BPF makes it impossible for users of seccomp to fall prey to time-of-check-time-of-use (TOCTOU) attacks that are common in system call interposition frameworks. BPF programs may not dereference pointers which constrains all filters to solely evaluating the system call arguments directly.
 			Vulnerable containers
 			u:https://vulnerablecontainers.org/
 			jessfraz on github
@@ -88,6 +117,12 @@ Bookmarks
 			u:https://landscape.cncf.io
 			gVisor sandboxing
 			u:https://gvisor.dev/
+		Orchestrator
+			Falco
+			t:Kubernetes threat detection engine
+				Security Hub
+				t:Kubernetes security best practices and configurations
+				u:https://securityhub.dev/
 
 	Library & refs
 		O'Reilly
