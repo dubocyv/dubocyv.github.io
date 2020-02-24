@@ -14,8 +14,14 @@ u:https://myintracomm.ec.europa.eu/
 		u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlxmvzOutRxCA-AyY4J
 		MyIntracom
 		u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2Fu7sy54or434SyxV1GECE2c8N
+		Ares
+		u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L
+		MiPS
+		u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B
 		RCAM/JSIS
 		u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRxCA-AyY4J%2Fugfs
+		Sysper2
+		u:https://myremote.ec.europa.eu/dana/home/launch.cgi
 
 # - - - - - - -
 	Admin
@@ -23,8 +29,6 @@ u:https://myintracomm.ec.europa.eu/
 		Ares
 		t:Electronic Records Management System
 		u:https://webgate.ec.testa.eu/Ares/welcome.do
-			(MyRemote)
-			u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvsw%3A%2F%2F4nlrm6sOutRAyBDxX3I%2FcI8L
 		Staff matters
 		t:DG HR website
 		u:https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx
@@ -35,8 +39,6 @@ u:https://myintracomm.ec.europa.eu/
 				Flexitime encoding
 				t:A Sysper2 session must have been already opened (EU-login) to get access here.
 				u:https://webgate.ec.testa.eu/presence/editPresences.do
-				(MyRemote)
-				u:https://myremote.ec.europa.eu/dana/home/launch.cgi
 			Pay calculator
 			u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
 
@@ -47,8 +49,6 @@ u:https://myintracomm.ec.europa.eu/
 		MiPS
 		t:Mission Processing System
 		u:http://www.cc.cec/mips/api/home
-			(MyRemote)
-			u:https://myremote.ec.europa.eu/dana/home/launch.cgi?url=.ahuvs%3A%2F%2F345JnoMqts%2F419B
 
 		EU Learn
 		u:https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055
