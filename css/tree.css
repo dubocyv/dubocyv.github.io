@@ -444,6 +444,14 @@ div.linkTip {
 	cursor: auto;
 	z-index: 2;
 }
+.tag {
+	border-style: solid;
+	border-width: 0.75px;
+	border-color: red;
+	padding: 2px 4px;
+	font-size: .75em;
+	background-color: rgba(240, 240, 80, 0.67);
+}
 /*
  * End SVG tree
  */
