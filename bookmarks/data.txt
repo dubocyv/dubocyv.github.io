@@ -113,19 +113,26 @@ Bookmarks
 			t:Lots of GUI running in containers
 			Binary Edge
 			u:https://binaryedge.io
-			CNCF
-			u:https://landscape.cncf.io
 			gVisor sandboxing
 			u:https://gvisor.dev/
-		Kubernetes (K8s)
-		t:Containers Orchestrator
-		u:https://kubernetes.io/
-			Falco
-			u:https://falco.org/
-			t:Kubernetes threat detection engine
-				Security Hub
-				t:Kubernetes security best practices and configurations
-				u:https://securityhub.dev/
+		CNCF
+		T:cloud
+		t:Cloud Native Computing Foundation
+		u:https://www.cncf.io
+			CNCF landscape
+			t:Cloud Native Trail Map
+			u:https://landscape.cncf.io
+			Kubernetes (K8s)
+			t:Containers Orchestrator
+			u:https://kubernetes.io/
+				Falco
+				T:k8s,security
+				u:https://falco.org/
+				t:Kubernetes threat detection engine
+					Security Hub
+					T:k8s,security
+					t:Kubernetes security best practices and configurations
+					u:https://securityhub.dev/
 
 	Library & refs
 		O'Reilly
