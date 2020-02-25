@@ -66,7 +66,7 @@ Bookmarks
 # - - - - - - -
 		_include_ Council.txt
 # - - - - - - -
-	Tools
+	Tech
 		IP address info
 			IPLocation
 			t:IP address geolocation
@@ -134,33 +134,33 @@ Bookmarks
 					t:Kubernetes security best practices and configurations
 					u:https://securityhub.dev/
 
-	Library & refs
-		O'Reilly
-		u:https://docstore.mik.ua/orelly/bookshelfs.html
-		t:O'Reilly's CD bookshelf
-		ANT Tutorial
-		u:https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html
-		JDK 11
-		u:https://docs.oracle.com/en/java/javase/11/
-		Node.js
-		u:https://nodejs.org/en/about/
-			Node: Up and Running
-			u:http://chimera.labs.oreilly.com/books/1234000001808/index.html
-			Why Use Node.js?
-			t:A Comprehensive Tutorial with Examples | Toptal
-			u:https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
-			Website in Node.js
-			t:A Simple Website in Node.js with Express, Jade and Stylus | Clock
-			u:http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus
-		Python
-			Python 3 documentation
-			u:https://docs.python.org/3/download.html
-			Python Programming
-			t:Wikibooks, open books for an open world
-			u:https://en.wikibooks.org/wiki/Python_Programming
-			A Byte of Python
-			u:http://www.swaroopch.com/notes/python/
-		Ruby
-			Ruby Version Manager
-			t:Bundler Integration with RVM
-			u:https://rvm.io/integration/bundler
+		Library & refs
+			O'Reilly
+			u:https://docstore.mik.ua/orelly/bookshelfs.html
+			t:O'Reilly's CD bookshelf
+			ANT Tutorial
+			u:https://supportweb.cs.bham.ac.uk/docs/tutorials/docsystem/build/tutorials/ant/ant.html
+			JDK 11
+			u:https://docs.oracle.com/en/java/javase/11/
+			Node.js
+			u:https://nodejs.org/en/about/
+				Node: Up and Running
+				u:http://chimera.labs.oreilly.com/books/1234000001808/index.html
+				Why Use Node.js?
+				t:A Comprehensive Tutorial with Examples | Toptal
+				u:https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+				Website in Node.js
+				t:A Simple Website in Node.js with Express, Jade and Stylus | Clock
+				u:http://www.clock.co.uk/blog/a-simple-website-in-nodejs-with-express-jade-and-stylus
+			Python
+				Python 3 documentation
+				u:https://docs.python.org/3/download.html
+				Python Programming
+				t:Wikibooks, open books for an open world
+				u:https://en.wikibooks.org/wiki/Python_Programming
+				A Byte of Python
+				u:http://www.swaroopch.com/notes/python/
+			Ruby
+				Ruby Version Manager
+				t:Bundler Integration with RVM
+				u:https://rvm.io/integration/bundler
