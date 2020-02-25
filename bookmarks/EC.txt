@@ -26,36 +26,6 @@ u:https://myintracomm.ec.europa.eu/
 # - - - - - - -
 	Admin
 	s:
-		Ares
-		t:Electronic Records Management System
-		u:https://webgate.ec.testa.eu/Ares/welcome.do
-		Staff matters
-		t:DG HR website
-		u:https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx
-			Sysper2
-			u:https://intracomm.ec.testa.eu/SYSPER2/home/menu.do
-				Absences
-				u:https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do
-				Flexitime encoding
-				t:A Sysper2 session must have been already opened (EU-login) to get access here.
-				u:https://webgate.ec.testa.eu/presence/editPresences.do
-			Pay calculator
-			u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
-
-			Mobility
-			t:Public transportation fincancial contribution
-			u:http://www.cc.cec/mobilitynet/abo/external_ecas/abo_frontend_adm.cfm
-
-		MiPS
-		t:Mission Processing System
-		u:http://www.cc.cec/mips/api/home
-
-		EU Learn
-		u:https://webgate.ec.europa.eu/ilp/pages/internal-dashboard.jsf?dashboardId=3626055
-
-		eGestel
-		u:http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot
-
 		IAM info
 		t:Identity and Access Management
 		u:http://www.cc.cec/itservices/en/content/identity-and-access-management
@@ -63,13 +33,114 @@ u:https://myintracomm.ec.europa.eu/
 		ISA²
 		t:Interoperability solutions for public administrations, businesses and citizens
 		u:https://ec.europa.eu/isa2
-		CIRCABC
-		u:https://circabc.europa.eu/ui/welcome
-		t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
+
 		GAMA
 		u:https://myintracomm.ec.europa.eu/DG/HR/tools_procedures/finances_contracts/Pages/gama.aspx
 		t:Administrative contracts analysis group
 		d:'GAMA' is a consultative committee, which performs a final check on procedures from DG HR, OIB, OIL, DIGIT, PMO and EPSO and is composed of designated members thereof. The consultation takes place after the evaluation and before the award of the contract and is obligatory for any procurement procedure reaching or exceeding the directive threshold as estimated total value. Authorising officers can either specifically request for their procedure to be examined by GAMA, or a sampling method will select (according to specific characteristics/risk factors) two out of all submitted procedures for examination by GAMA in their monthly meeting. The examinations then result in a positive or negative opinion and (if applicable) recommendations for the AOSD. Unit HR.DDG.R1 holds the presidency and secretariat of GAMA.
+
+#---------------
+		Documents
+			ARES
+			t:Electronic Records Management System: Register, file, store documents in the common repository for electronic documents (HERMES).
+			u:https://webgate.ec.testa.eu/Ares/welcome.do
+
+			BASIS
+			t:Production and validation of briefing and speeches for senior managers.
+			u:https://intragate.ec.europa.eu/basis
+
+			CIRCABC
+			u:https://circabc.europa.eu/ui/welcome
+			t:CIRCABC provides a secured working area to share information over thousands of users and interest groups.
+
+			Connected
+			t:Collaborative platform to support collaboration and knowledge-sharing across all Commission services.
+			u:https://webgate.ec.europa.eu/connected/welcome
+
+			Decide
+			t:Follow the decision-making process of the Commission: planning, consultation, adoption.
+			u:https://intragate.ec.europa.eu/decide/sep
+
+			Vista
+			t:Access to non-sensitive documents of the Commission and to related decision-making procedures.
+			u:http://www.cc.cec/sg/vista
+
+		Finance
+			ABAC
+			t:Financial systems: accounting, assets, contracts, datawarehouse, supply assets, workflow, badg budg.
+			u:http://www.cc.cec/dgbudg/sibu/
+
+		Staff matters
+		t:DG HR website
+		u:https://myintracomm.ec.europa.eu/staff/FR/Pages/index.aspx
+			EU Learn
+			t:Learning management system for Commission staff.
+			u:https://webgate.ec.europa.eu/ilp/
+
+			eGestel
+			u:http://www.cc.cec/egestel/index.cfm?fuseaction=com.tot
+
+			JSIS / RCAM online
+			t:Joint Sickness Insurance Scheme (JSIS) online: manage your sickness and accident insurance.
+			u:https://webgate.ec.europa.eu/RCAM/secured/home.do
+
+			MIPS
+			t:MIPS (Missions Integrated Processing System) is a tool for mission management.
+			u:http://www.cc.cec/mips/
+
+			Mobility.net
+			t:Brussels' public transportation financial contribution
+			u:http://www.cc.cec/mobilitynet/
+
+			Pay calculator
+			u:https://myintracomm.ec.europa.eu/staff/FR/working-conditions/pay/Pages/index.aspx
+
+			Staff Contact
+			t:Staff Contact - My Questions
+			u:https://webgate.ec.europa.eu/staffcontact/app/#/staff/tickets-history
+
+			SYSPER (incl. HRMForms)
+			t:Human Resource Management system of the Commission: recruitment, career management, organisation chart, time management, job descriptions, evaluations and promotions.
+			u:https://www.cc.cec/SYSPER2/
+				Absences
+				u:https://intracomm.ec.testa.eu/SYSPER2/tim/person/presences/files/viewAbsencesFiles.do
+				Flexitime encoding
+				t:A Sysper2 session must have been already opened (EU-login) to get access here.
+				u:https://webgate.ec.testa.eu/presence/editPresences.do
+
+		Organisation
+			e-Pass
+			t:Commission registration system for visitors and out-of-business-hours contractor access.
+			u:http://www.cc.cec/security/epass
+
+			eTranslation
+			t:Machine translation service.
+			u:https://webgate.ec.europa.eu/etranslation/
+
+			GoPro - guide to procedures
+			t:Guide to the Commission's corporate procedures.
+			u:https://webgate.ec.europa.eu/fpfis/wikis/display/REGISTRY/Home
+
+			My IT Support
+			t:<div>Report and track your IT incidents and submit IT requests.</div>
+			u:https://webgate.ec.testa.eu/mits/
+
+			Presto
+			t:Tool designed for you to order meeting drinks or any catering services for functions and buffets.
+			u:http://www.cc.cec/presto
+
+			SECEM
+			t:Send and receive emails that are signed or encrypted with Commission certificates.
+			u:http://www.cc.cec/itservices/en/content/secure-electronic-mail-secem
+
+			Webdor
+			t:Online booking for meeting/conference/interpretation.
+			u:https://scic.ec.europa.eu/webdor
+
+			My Job Tools
+			t:Entry point to hundreds of tools, organised by categories
+			u:https://myintracomm.ec.europa.eu/applications/Pages/jobtools.aspx?ln=en
+#---------------
 
 	MyWorkplace
 	u:https://webgate.ec.testa.eu/myworkplace/home
