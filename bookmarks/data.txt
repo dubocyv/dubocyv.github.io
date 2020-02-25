@@ -102,19 +102,26 @@ Bookmarks
 					u:https://docs.docker.com/engine/security/apparmor/
 				Docker hub
 				u:https://hub.docker.com/
-			Seccomp-BPF
-			t:SECure COMPuting with (Berkeley Packet) Filters
-			u:https://www.google.com/search?q=seccomp+bpf&ie=utf-8&oe=utf-8
-			d:A large number of system calls are exposed to every userland process with many of them going unused for the entire lifetime of the process. As system calls change and mature, bugs are found and eradicated. A certain subset of userland applications benefit by having a reduced set of available system calls. The resulting set reduces the total kernel surface exposed to the application. System call filtering is meant for use with those applications.<p>Seccomp filtering provides a means for a process to specify a filter for incoming system calls. The filter is expressed as a Berkeley Packet Filter (BPF) program, as with socket filters, except that the data operated on is related to the system call being made: system call number and the system call arguments. This allows for expressive filtering of system calls using a filter program language with a long history of being exposed to userland and a straightforward data set.<p>Additionally, BPF makes it impossible for users of seccomp to fall prey to time-of-check-time-of-use (TOCTOU) attacks that are common in system call interposition frameworks. BPF programs may not dereference pointers which constrains all filters to solely evaluating the system call arguments directly.
-			Vulnerable containers
-			u:https://vulnerablecontainers.org/
 			jessfraz on github
 			u:https://github.com/jessfraz/dockerfiles
 			t:Lots of GUI running in containers
-			Binary Edge
-			u:https://binaryedge.io
-			gVisor sandboxing
-			u:https://gvisor.dev/
+			Security
+				Seccomp-BPF
+				T:security
+				t:SECure COMPuting with (Berkeley Packet) Filters
+				u:https://www.google.com/search?q=seccomp+bpf&ie=utf-8&oe=utf-8
+				d:A large number of system calls are exposed to every userland process with many of them going unused for the entire lifetime of the process. As system calls change and mature, bugs are found and eradicated. A certain subset of userland applications benefit by having a reduced set of available system calls. The resulting set reduces the total kernel surface exposed to the application. System call filtering is meant for use with those applications.<p>Seccomp filtering provides a means for a process to specify a filter for incoming system calls. The filter is expressed as a Berkeley Packet Filter (BPF) program, as with socket filters, except that the data operated on is related to the system call being made: system call number and the system call arguments. This allows for expressive filtering of system calls using a filter program language with a long history of being exposed to userland and a straightforward data set.<p>Additionally, BPF makes it impossible for users of seccomp to fall prey to time-of-check-time-of-use (TOCTOU) attacks that are common in system call interposition frameworks. BPF programs may not dereference pointers which constrains all filters to solely evaluating the system call arguments directly.
+				Vulnerable containers
+				T:security
+				u:https://vulnerablecontainers.org/
+				Binary Edge
+				T:security
+				u:https://binaryedge.io
+				gVisor sandboxing
+				T:security
+				t:Sandbox runtime providing a virtualized container environment running containers with a new user-space kernel, delivering a low overhead container security solution for high-density applications.
+				d:gVisor is an open-source, <a href="https://www.opencontainers.org/">OCI-compatibla</a>e sandbox runtime that provides a virtualized container environment. It runs containers with a new i<a href="https://en.wikipedia.org/wiki/User_space">user-spacei</a> kernel, delivering a low overhead container security solution for high-density applications.<p>gVisor integrates with <a href="https://www.docker.com/">Docker</a>, <a href="https://containerd.io/">containerd</a> and <a href="https://kubernetes.io/">Kubernetes</a>, making it easier to improve the security isolation of your containers while still using familiar tooling. Additionally, gVisor supports a variety of underlying mechanisms for intercepting application calls, allowing it to run in diverse host environments, including cloud-hosted virtual machines.
+				u:https://gvisor.dev/
 		CNCF
 		T:cloud
 		t:Cloud Native Computing Foundation
