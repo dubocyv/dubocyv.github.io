@@ -3,68 +3,6 @@ Bookmarks
 # - - - - - - -
 #!	_include_ glossary.txt
 # - - - - - - -
-#!	_include_ ../organigram/data.txt
-# - - - - - - -
-	EU
-		Common
-		s:
-			EU Login
-			t:ECAS authentication
-			u:https://ecas.ec.europa.eu/cas/login
-				Info
-				u:http://www.cc.cec/itservices/en/content/ecas-european-commission-authentication-service
-				EU Login mobile
-				u:https://ecas.ec.europa.eu/cas/mobile
-			RCAM/JSIS
-			u:https://webgate.ec.europa.eu/RCAM/?perId=151632&subGroupId=914
-			Europass
-			t:Curriculum vitae - Passeport europÃ©en de compÃ©tences | Composer
-			u:https://europass.cedefop.europa.eu/editors/fr/cv/compose
-			EUPosts
-			u:http://portal.consilium.testa.eu/vacancy/
-			EPSO
-			u:https://europa.eu/epso/application/passport/index.cfm?lang=fr&langsub=ok
-			Media monitoring
-				EMM
-				t:Europe Media Monitor
-				u:https://emm.newsbrief.eu/overview.html
-				CERT-EU
-				t:CERT-EU News Monitor
-				u:https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html
-					CVE
-					t:Common Vulnerability Enumeration
-					CPE
-					t:Commom Platform Enumeration
-				Medisys
-				u:https://medisys.newsbrief.eu/
-			Europe info
-			t:EU institutions contacts
-			u:https://europa.eu/european-union/contact_en
-				EDCC
-				t:Europe Direct Contact Center
-				u:https://europa.eu/european-union/contact/europe-direct-answering-your-questions-about-eu_en
-
-			TED
-			t:Tenders Electronic Daily, publishing public procurement notices from EU and beyond
-			u:http://ted.europa.eu
-				eTendering
-				t:Tender documentation for EU calls for competitions
-				u:http://etendering.ted.europa.eu
-				SIMAP
-				t:Information system for public procurement (fr. Système d'Information pour les MArchés Publics).
-				u:http://simap.ted.europa.eu
-					eSenders
-					t:Information for and about TED eSenders
-					u:https://simap.ted.europa.eu/ted-esenders
-					eNotices
-					t:Online application to prepare and publish public procurement notices
-					u:http://simap.europa.eu/enotices/changeLanguage.do?language=en
-# - - - - - - -
-		_include_ EC.txt
-# - - - - - - -
-#!		_include_ EP.txt
-# - - - - - - -
-		_include_ Council.txt
 # - - - - - - -
 	Tech
 		IP address info
